@@ -4278,6 +4278,9 @@
         <layout>FakeNam__c-FakeObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>FieldTest1Object__c-FieldTest1Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>GuestUserAnomalyEventStore-Guest User Anomaly Event Store Layout</layout>
     </layoutAssignments>
     <layoutAssignments>

@@ -3221,6 +3221,7 @@
         <members>ExternalEventMapping</members>
         <members>FakeNam__c</members>
         <members>FeedItem</members>
+        <members>FieldTest1Object__c</members>
         <members>FinanceBalanceSnapshot</members>
         <members>FinanceTransaction</members>
         <members>FlowOrchestrationInstance</members>
@@ -3407,6 +3408,7 @@
     <types>
         <members>CO_VaultTest1__c-en_US</members>
         <members>FakeNam__c-en_US</members>
+        <members>FieldTest1Object__c-en_US</members>
         <members>TestCustomObjectARM1__c-en_US</members>
         <members>UmeshCallARM__c-en_US</members>
         <name>CustomObjectTranslation</name>
@@ -3473,6 +3475,10 @@
     <types>
         <members>Case</members>
         <name>EscalationRules</name>
+    </types>
+    <types>
+        <members>FieldTest1Object__c.FieldTest1</members>
+        <name>FieldSet</name>
     </types>
     <types>
         <members>ContactCenter_UtilityBar</members>
@@ -3571,6 +3577,7 @@
         <members>Event-Event Layout</members>
         <members>FakeNam__c-FakeObject Layout</members>
         <members>FeedItem-Feed Item Layout</members>
+        <members>FieldTest1Object__c-FieldTest1Object Layout</members>
         <members>FinanceBalanceSnapshot-Finance Balance Snapshot Layout</members>
         <members>FinanceTransaction-Finance Transaction Layout</members>
         <members>FulfillmentOrder-Fulfillment Order Layout</members>
@@ -4289,6 +4296,7 @@
         <members>ExtDataShareTarget</members>
         <members>ExternalEventMapping</members>
         <members>FakeNam__c</members>
+        <members>FieldTest1Object__c</members>
         <members>FinanceBalanceSnapshot</members>
         <members>FinanceTransaction</members>
         <members>FlowInterview</members>
@@ -4513,6 +4521,7 @@
         <members>Contract</members>
         <members>Event</members>
         <members>FakeNam__c</members>
+        <members>FieldTest1Object__c</members>
         <members>Incident</members>
         <members>Lead</members>
         <members>Opportunity</members>
