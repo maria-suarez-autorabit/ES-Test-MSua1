@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Risk Grading Criteria</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Risk Grading Criterias</value>
+    </caseValues>
+    <layouts>
+        <layout>Risk Grading Criteria Layout</layout>
+        <sections>
+            <label><!-- Qualitative Value --></label>
+            <section>Qualitative Value</section>
+        </sections>
+        <sections>
+            <label><!-- Quantitative Values --></label>
+            <section>Quantitative Values</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- The high value needs to be larger than the low value. --></errorMessage>
+        <name>LLC_BI__higher_than_low</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The low value cannot be larger than the high value. --></errorMessage>
+        <name>LLC_BI__lower_than_high</name>
+    </validationRules>
+</CustomObjectTranslation>

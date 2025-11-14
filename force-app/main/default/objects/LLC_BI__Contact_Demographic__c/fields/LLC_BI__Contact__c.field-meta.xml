@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Contact__c</fullName>
+    <deleteConstraint>Cascade</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional lookup field to reference the Contact record to which an Contact Demographic record refers. By default, this field is blank.</description>
+    <inlineHelpText>Enter the Contact record to which this Contact Demographic refers.</inlineHelpText>
+    <label>Contact</label>
+    <referenceTo>Contact</referenceTo>
+    <relationshipLabel>Contact Demographics</relationshipLabel>
+    <relationshipName>Contact_Demographics</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

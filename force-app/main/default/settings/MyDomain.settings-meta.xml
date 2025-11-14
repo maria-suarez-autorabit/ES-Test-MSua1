@@ -6,7 +6,7 @@
     <doesApiLoginRequireOrgDomain>false</doesApiLoginRequireOrgDomain>
     <doesWarnOnForceComRedirect>false</doesWarnOnForceComRedirect>
     <doesWarnOnRedirect>false</doesWarnOnRedirect>
-    <domainPartition>develop</domainPartition>
+    <domainPartition>sandbox</domainPartition>
     <enableCrossDomainPreviewCookies>true</enableCrossDomainPreviewCookies>
     <enableEdgeDuringRollout>true</enableEdgeDuringRollout>
     <enableExtendedRedirections>false</enableExtendedRedirections>
@@ -17,9 +17,9 @@
     <enableShareBrowserSessionIOSForAuth>false</enableShareBrowserSessionIOSForAuth>
     <instancedUrlRedirectHandling>NoRedirect</instancedUrlRedirectHandling>
     <isFirstPartyCookieUseRequired>false</isFirstPartyCookieUseRequired>
-    <isInstancedApiTrafficBlocked>true</isInstancedApiTrafficBlocked>
+    <isInstancedApiTrafficBlocked>false</isInstancedApiTrafficBlocked>
     <logRedirections>false</logRedirections>
-    <myDomainName>orgfarm-e54353fb71-dev-ed</myDomainName>
+    <myDomainName>arfall21reljanupd</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <onboardCustomerSpecificSuffix>false</onboardCustomerSpecificSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>

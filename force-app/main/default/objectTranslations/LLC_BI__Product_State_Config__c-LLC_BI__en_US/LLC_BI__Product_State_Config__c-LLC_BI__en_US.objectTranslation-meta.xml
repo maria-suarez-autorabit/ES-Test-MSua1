@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Product State Config</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Product State Config</value>
+    </caseValues>
+    <layouts>
+        <layout>Product Type Config Layout</layout>
+        <sections>
+            <label><!-- Covenant Activation --></label>
+            <section>Covenant Activation</section>
+        </sections>
+        <sections>
+            <label><!-- Portal Configuration --></label>
+            <section>Portal Configuration</section>
+        </sections>
+        <sections>
+            <label><!-- Stage Configuration --></label>
+            <section>Stage Configuration</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

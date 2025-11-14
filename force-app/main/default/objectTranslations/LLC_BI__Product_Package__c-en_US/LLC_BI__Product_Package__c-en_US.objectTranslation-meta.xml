@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- PP - Approval Level 1 --></label>
+        <name>CAB_PP_Approval_Level_1</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- PP - Approval Level 2 --></label>
+        <name>CAB_PP_Approval_Level_2</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- PP - Approval Level 3 --></label>
+        <name>CAB_PP_Approval_Level_3</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Product Package --></label>
+        <name>Credit_Memo_Standard_Review_Product_Pack</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- ConvertTo Display Fields --></label>
+        <name>LLC_BI__ConvertTo_Display_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit_Actions_New_Package_Details --></label>
+        <name>LLC_BI__Credit_Actions_New_Package_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- New Proposal --></label>
+        <name>LLC_BI__New_Proposal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product_Package_Compliance_Information --></label>
+        <name>LLC_BI__Product_Package_Compliance_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product_Package_Exposure_Information --></label>
+        <name>LLC_BI__Product_Package_Exposure_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Relationship Product Package Header --></label>
+        <name>LLC_BI__Relationship_Product_Package_Header</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- ReviewDisplay --></label>
+        <name>LLC_BI__ReviewDisplay</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>LLC_BI__Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Total Exposure Summary --></label>
+        <name>LLC_BI__Total_Exposure_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI-PP-Approval Section --></label>
+        <name>UI_PP_Approval_Section</name>
+    </fieldSets>
+    <layouts>
+        <layout>Product Package Layout</layout>
+        <sections>
+            <label><!-- Collateral --></label>
+            <section>Collateral</section>
+        </sections>
+        <sections>
+            <label><!-- Covenants --></label>
+            <section>Covenants</section>
+        </sections>
+        <sections>
+            <label><!-- Exposure --></label>
+            <section>Exposure</section>
+        </sections>
+        <sections>
+            <label><!-- Facilities --></label>
+            <section>Facilities</section>
+        </sections>
+        <sections>
+            <label><!-- Fees --></label>
+            <section>Fees</section>
+        </sections>
+        <sections>
+            <label><!-- Legal Entities --></label>
+            <section>Legal Entities</section>
+        </sections>
+        <sections>
+            <label><!-- Loan Facilities Summary --></label>
+            <section>Loan Facilities Summary</section>
+        </sections>
+        <sections>
+            <label><!-- Policy Exceptions --></label>
+            <section>Policy Exceptions</section>
+        </sections>
+        <sections>
+            <label><!-- Team Members --></label>
+            <section>Team Members</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>nCino UI Hybrid</layout>
+        <sections>
+            <label><!-- Product Package Details --></label>
+            <section>Product Package Details</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Advance Deal --></label>
+        <name>LLC_BI__Advance_Deal</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Update Product Package --></label>
+        <name>Update_Product_Package</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Term Sheet --></label>
+        <name>nFORMS__Term_Sheet</name>
+    </quickActions>
+    <recordTypes>
+        <description><!-- This record type should be used in tandem with the Deal Proposal functionality. --></description>
+        <label><!-- Deal Proposal --></label>
+        <name>LLC_BI__Deal_Proposal</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Treasury Maintenance Change Summary --></description>
+        <label><!-- Treasury Maintenance --></label>
+        <name>LLC_BI__Treasury_Maintenance</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- Credit_Memo --></label>
+        <name>Credit_Memo</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Credit_Memo --></label>
+        <name>LLC_BI__Credit_Memo</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Mass_Actions --></label>
+        <name>LLC_BI__Mass_Actions</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Facility --></label>
+        <name>LLC_BI__New_Facility</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- renew_loan --></label>
+        <name>LLC_BI__renew_loan</name>
+    </webLinks>
+    <workflowTasks>
+        <name>LLC_BI__Product_Package_Next_Review_Task</name>
+        <subject><!-- Product Package Review --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

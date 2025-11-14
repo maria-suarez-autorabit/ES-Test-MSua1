@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This required field populates based on the action that the user selects. This field contains the action of each individual maintenance request. --></help>
+    <label><!-- Action --></label>
+    <name>LLC_BI__Action__c</name>
+</CustomFieldTranslation>

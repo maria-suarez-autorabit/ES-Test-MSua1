@@ -22,8 +22,10 @@
     <tabs>standard-Feed</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
-    <tabs>UmeshCallARM__c</tabs>
-    <tabs>TestCustomObjectARM1__c</tabs>
-    <tabs>FakeNam__c</tabs>
+    <tabs>standard-ContentNote</tabs>
+    <tabs>Loan_c__c</tabs>
+    <tabs>ncino_parent__c</tabs>
+    <tabs>ncino_child__c</tabs>
+    <tabs>LLC_BI__Classification__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

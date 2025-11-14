@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This automatically populated field displays the status current status of this Business Activity execution. --></help>
+    <label><!-- Status --></label>
+    <name>nFORCE__Status__c</name>
+    <picklistValues>
+        <masterLabel>Cancelled</masterLabel>
+        <translation><!-- Cancelled --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Completed Successfully</masterLabel>
+        <translation><!-- Completed Successfully --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Completed With Errors</masterLabel>
+        <translation><!-- Completed With Errors --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Progress</masterLabel>
+        <translation><!-- In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Queued</masterLabel>
+        <translation><!-- Queued --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Scheduled</masterLabel>
+        <translation><!-- Scheduled --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

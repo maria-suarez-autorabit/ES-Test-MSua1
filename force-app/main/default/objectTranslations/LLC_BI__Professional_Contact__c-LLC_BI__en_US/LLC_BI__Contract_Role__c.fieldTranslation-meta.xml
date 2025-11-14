@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Contact Role --></label>
+    <name>LLC_BI__Contract_Role__c</name>
+    <picklistValues>
+        <masterLabel>Accountant/CPA</masterLabel>
+        <translation><!-- Accountant/CPA --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Architect</masterLabel>
+        <translation><!-- Architect --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Attorney</masterLabel>
+        <translation><!-- Attorney --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consultant</masterLabel>
+        <translation><!-- Consultant --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Contractor</masterLabel>
+        <translation><!-- Contractor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Insurance Agent - Life</masterLabel>
+        <translation><!-- Insurance Agent - Life --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Insurance Agent - Property/Business</masterLabel>
+        <translation><!-- Insurance Agent - Property/Business --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Landlord</masterLabel>
+        <translation><!-- Landlord --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Practice Manager</masterLabel>
+        <translation><!-- Practice Manager --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Referral Source</masterLabel>
+        <translation><!-- Referral Source --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Seller</masterLabel>
+        <translation><!-- Seller --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Title Company</masterLabel>
+        <translation><!-- Title Company --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

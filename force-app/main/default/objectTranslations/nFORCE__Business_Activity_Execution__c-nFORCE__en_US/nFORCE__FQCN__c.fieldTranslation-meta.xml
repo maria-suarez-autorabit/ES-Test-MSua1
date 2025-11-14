@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This automatically populated field displays the fully qualified class name of the business activity handler. --></help>
+    <label><!-- Fully Qualified Class Name --></label>
+    <name>nFORCE__FQCN__c</name>
+</CustomFieldTranslation>

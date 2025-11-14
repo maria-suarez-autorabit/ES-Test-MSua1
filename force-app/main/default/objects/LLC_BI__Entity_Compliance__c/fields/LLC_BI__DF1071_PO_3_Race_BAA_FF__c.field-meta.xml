@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_PO_3_Race_BAA_FF__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional text field to specify the Black or African American race of principal owner 3. By default, it is empty.</description>
+    <inlineHelpText>Use this field to specify the Black or African American race of principal owner 3.</inlineHelpText>
+    <label>Principal Owner 3 Race BAA Free Form</label>
+    <length>300</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

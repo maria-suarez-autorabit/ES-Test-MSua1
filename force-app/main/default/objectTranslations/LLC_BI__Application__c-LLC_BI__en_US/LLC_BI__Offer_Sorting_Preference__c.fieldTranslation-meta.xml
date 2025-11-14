@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use this field to save the borrower’s offer sorting preference. --></help>
+    <label><!-- Offer Sorting Preference --></label>
+    <name>LLC_BI__Offer_Sorting_Preference__c</name>
+    <picklistValues>
+        <masterLabel>Lowest Payment</masterLabel>
+        <translation><!-- Lowest Payment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lowest Rate</masterLabel>
+        <translation><!-- Lowest Rate --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

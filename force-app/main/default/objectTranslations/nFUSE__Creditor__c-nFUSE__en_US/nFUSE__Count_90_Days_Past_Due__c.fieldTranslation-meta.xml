@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system populates this optional text field with the number of times the borrower&apos;s payment was 90 or more days past due. --></help>
+    <label><!-- Count 90 Days Past Due --></label>
+    <name>nFUSE__Count_90_Days_Past_Due__c</name>
+</CustomFieldTranslation>

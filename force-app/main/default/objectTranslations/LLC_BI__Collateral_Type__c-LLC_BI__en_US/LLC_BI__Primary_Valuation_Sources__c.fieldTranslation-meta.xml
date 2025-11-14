@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the acceptable primary valuation sources applicable to this collateral type. --></help>
+    <label><!-- Primary Valuation Sources --></label>
+    <name>LLC_BI__Primary_Valuation_Sources__c</name>
+    <picklistValues>
+        <masterLabel>Account Balance / Statement</masterLabel>
+        <translation><!-- Account Balance / Statement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Appraisal</masterLabel>
+        <translation><!-- Appraisal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Officer</masterLabel>
+        <translation><!-- Credit Officer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financial Statement</masterLabel>
+        <translation><!-- Financial Statement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Insurance Agent</masterLabel>
+        <translation><!-- Insurance Agent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Internal Valuation</masterLabel>
+        <translation><!-- Internal Valuation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Inventory Report</masterLabel>
+        <translation><!-- Inventory Report --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Invoice / Bill of Sale</masterLabel>
+        <translation><!-- Invoice / Bill of Sale --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Real Estate Abundance of Caution</masterLabel>
+        <translation><!-- Real Estate Abundance of Caution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Real Estate Evaluation</masterLabel>
+        <translation><!-- Real Estate Evaluation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Real Estate Restricted Appraisal</masterLabel>
+        <translation><!-- Real Estate Restricted Appraisal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Receivables Aging</masterLabel>
+        <translation><!-- Receivables Aging --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Third Party Source</masterLabel>
+        <translation><!-- Third Party Source --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Valuation Service Vendor</masterLabel>
+        <translation><!-- Valuation Service Vendor --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

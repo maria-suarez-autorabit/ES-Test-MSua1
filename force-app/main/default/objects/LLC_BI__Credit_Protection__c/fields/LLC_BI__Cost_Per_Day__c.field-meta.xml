@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Cost_Per_Day__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional currency field to store the daily cost of this protection. By default, it is blank.</description>
+    <inlineHelpText>This field stores the daily cost of this protection.</inlineHelpText>
+    <label>Cost Per Day</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>

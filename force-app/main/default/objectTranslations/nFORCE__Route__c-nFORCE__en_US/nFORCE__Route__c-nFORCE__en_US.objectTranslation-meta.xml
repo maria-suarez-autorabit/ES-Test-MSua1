@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Route</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Routes</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- UI Config Builder --></label>
+        <name>nFORCE__UI_Config_Builder</name>
+    </fieldSets>
+    <layouts>
+        <layout>Route Layout</layout>
+        <sections>
+            <label><!-- Navigation --></label>
+            <section>Navigation</section>
+        </sections>
+        <sections>
+            <label><!-- Online Application/Portal --></label>
+            <section>Online Application/Portal</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Deep_Clone_Route --></label>
+        <name>Deep_Clone_Route</name>
+    </webLinks>
+</CustomObjectTranslation>

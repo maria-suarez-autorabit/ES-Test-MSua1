@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Populate this field with the Requirement Template needed to generate an associated Requirement. The template generates the Requirement, and links it to a Covenant Compliance created by the system. --></help>
+    <label><!-- Requirement Template Lookup --></label>
+    <name>LLC_BI__Requirement_Template__c</name>
+    <relationshipLabel><!-- Covenant Types --></relationshipLabel>
+</CustomFieldTranslation>

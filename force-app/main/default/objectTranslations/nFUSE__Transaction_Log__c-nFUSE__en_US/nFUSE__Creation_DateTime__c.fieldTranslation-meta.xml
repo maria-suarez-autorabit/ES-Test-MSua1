@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This optional field displays the Date and Time of when the vendor&apos;s record was created. --></help>
+    <label><!-- Creation DateTime --></label>
+    <name>nFUSE__Creation_DateTime__c</name>
+</CustomFieldTranslation>

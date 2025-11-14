@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Paid By --></label>
+    <name>LLC_BI__Paid_By__c</name>
+    <picklistValues>
+        <masterLabel>Bank Paid</masterLabel>
+        <translation><!-- Bank Paid --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Borrower Paid</masterLabel>
+        <translation><!-- Borrower Paid --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Financed from Proceeds</masterLabel>
+        <translation><!-- Financed from Proceeds --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Paid Outside Closing</masterLabel>
+        <translation><!-- Paid Outside Closing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Paid by Seller</masterLabel>
+        <translation><!-- Paid by Seller --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Waived</masterLabel>
+        <translation><!-- Waived --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

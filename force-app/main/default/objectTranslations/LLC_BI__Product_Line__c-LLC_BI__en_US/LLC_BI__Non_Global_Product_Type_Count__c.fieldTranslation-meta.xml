@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The number of non-Global Product Types with at least 1 Product that relate to the Product Line. --></help>
+    <label><!-- Non-Global Product Type Count --></label>
+    <name>LLC_BI__Non_Global_Product_Type_Count__c</name>
+</CustomFieldTranslation>

@@ -10,19 +10,35 @@
     <tabs>standard-JourneyHome</tabs>
     <tabs>standard-SalesforceJourney</tabs>
     <tabs>standard-JourneyMap</tabs>
-    <tabs>UmeshCallARM__c</tabs>
-    <tabs>TestCustomObjectARM1__c</tabs>
-    <tabs>FakeNam__c</tabs>
+    <tabs>NS_Test_Obj__c</tabs>
+    <tabs>Lotus__c</tabs>
+    <tabs>nFORCE__Screen_Segment__c</tabs>
+    <tabs>Loan_c__c</tabs>
+    <tabs>ncino_parent__c</tabs>
+    <tabs>ncino_child__c</tabs>
+    <tabs>LLC_BI__Classification__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
         <mappings>
-            <tab>FakeNam__c</tab>
+            <tab>LLC_BI__Classification__c</tab>
         </mappings>
         <mappings>
-            <tab>TestCustomObjectARM1__c</tab>
+            <tab>Loan_c__c</tab>
         </mappings>
         <mappings>
-            <tab>UmeshCallARM__c</tab>
+            <tab>Lotus__c</tab>
+        </mappings>
+        <mappings>
+            <tab>NS_Test_Obj__c</tab>
+        </mappings>
+        <mappings>
+            <tab>nFORCE__Screen_Segment__c</tab>
+        </mappings>
+        <mappings>
+            <tab>ncino_child__c</tab>
+        </mappings>
+        <mappings>
+            <tab>ncino_parent__c</tab>
         </mappings>
         <mappings>
             <tab>standard-JourneyHome</tab>

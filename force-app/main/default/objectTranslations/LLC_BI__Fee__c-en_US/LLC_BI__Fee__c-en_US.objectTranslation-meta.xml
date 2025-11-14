@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- Credit Memo Standard Loan --></label>
+        <name>Credit_Memo_Standard_Loan</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Account --></label>
+        <name>Credit_Memo_Standard_Review_Account</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Product Package --></label>
+        <name>Credit_Memo_Standard_Review_Product_Pack</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Add Non-Standard Fees --></label>
+        <name>LLC_BI__Add_Non_Standard_Fee</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Commercial Credit Memo --></label>
+        <name>LLC_BI__Commercial_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Manage Fees --></label>
+        <name>LLC_BI__Manage_Fees</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Manage Fees Enhanced --></label>
+        <name>LLC_BI__Manage_Fees_Enhanced</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Manage Fees Enhanced List --></label>
+        <name>LLC_BI__Manage_Fees_List_Enhanced</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Manage Pricing Fees --></label>
+        <name>LLC_BI__Manage_Pricing_Fees</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Fees --></label>
+        <name>LLC_BI__Product_Package_Fees</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>LLC_BI__Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Lookup Fields --></label>
+        <name>LLC_BI__UI_Lookup_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Fees --></label>
+        <name>UI_Fees</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Fees --></label>
+        <name>UI_Loan_Fees</name>
+    </fieldSets>
+    <recordTypes>
+        <description><!-- Record Type for Adjustments Page Layout --></description>
+        <label><!-- Adjustments --></label>
+        <name>LLC_BI__Adjustments</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Costs Page Layout --></description>
+        <label><!-- Costs --></label>
+        <name>LLC_BI__Costs</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Fees Page Layout --></description>
+        <label><!-- Fees --></label>
+        <name>LLC_BI__Fees</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- TRID Disclosure and Tolerance categories are only required for Fees and Costs. To continue, remove any category values from non applicable fee types. --></errorMessage>
+        <name>LLC_BI__Credit_Disclosure_Tolerances_Categories</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The cost to cure already exists for the loan. Click Edit to update the cost to cure. --></errorMessage>
+        <name>LLC_BI__Duplicate_Cost_to_Cure</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- A seller-paid fee cannot be added when Add to Finance Charge is selected. Deselect Add to Finance Charge. --></errorMessage>
+        <name>LLC_BI__Exclude_Seller_Paid_Fee_From_APR</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- For loans subject to TRID tolerances, you must select the appropriate TRID Disclosure Category and TRID Tolerances Category for each fee. --></errorMessage>
+        <name>LLC_BI__Fee_Disclosure_Tolerances_Categories</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The General Lender Credit or Cost to Cure cannot be paid by the Borrower or Seller. Select Paid By Lender or leave this field blank. --></errorMessage>
+        <name>LLC_BI__Lender_Paid_Fee_Types</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Error: Invalid Cost to Cure fee. Enter one fee with a positive amount. --></errorMessage>
+        <name>LLC_BI__Negative_Cost_to_Cure</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Enter a positive value in the Fee Amount field. TRID tolerances require a positive value. --></errorMessage>
+        <name>LLC_BI__Negative_Trid_Fee</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- A Borrower, Lender, or Seller cannot pay an Other Credit. Select Paid By Other or leave this field blank. --></errorMessage>
+        <name>LLC_BI__Other_Credit_Fee_Types</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Ensure values are entered for Basis Source and Percentage so the system can calculate the percentage calculation type. --></errorMessage>
+        <name>LLC_BI__Percentage_Fee_Required_Fields</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The General Seller Credit cannot be paid by the Borrower or Lender. Select Paid By Seller or leave this field blank. --></errorMessage>
+        <name>LLC_BI__Seller_Paid_Fee_Types</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The Service Shopped For picklist only applies to fees where the TRID Disclosure Category value is Services You Can Shop For. --></errorMessage>
+        <name>LLC_BI__Service_Shopped_For</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Manage_Fees --></label>
+        <name>LLC_BI__Manage_Fees</name>
+    </webLinks>
+</CustomObjectTranslation>

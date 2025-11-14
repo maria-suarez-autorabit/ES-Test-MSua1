@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Sum of all Liens associated with the loan --></help>
+    <label><!-- Total Current Lien Amount --></label>
+    <name>LLC_BI__Total_Current_Lien_Amount__c</name>
+</CustomFieldTranslation>

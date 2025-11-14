@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>-D Screen View</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>-D Screen Views</value>
+    </caseValues>
+    <layouts>
+        <layout>Screen View Layout</layout>
+        <sections>
+            <label><!-- New Section --></label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Convert_Multiple_to_Bootstrap3 --></label>
+        <name>nDESIGN__Convert_Multiple_to_Bootstrap3</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Convert_Single_to_Bootstrap3 --></label>
+        <name>nDESIGN__Convert_Single_to_Bootstrap3</name>
+    </webLinks>
+</CustomObjectTranslation>

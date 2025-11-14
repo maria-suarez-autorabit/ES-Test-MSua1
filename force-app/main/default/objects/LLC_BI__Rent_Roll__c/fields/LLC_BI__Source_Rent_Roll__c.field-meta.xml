@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Source_Rent_Roll__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional lookup field to reference the source rent roll.</description>
+    <label>Source Rent Roll</label>
+    <referenceTo>LLC_BI__Rent_Roll__c</referenceTo>
+    <relationshipLabel>Cloned Rent Rolls</relationshipLabel>
+    <relationshipName>Cloned_Rent_Rolls</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

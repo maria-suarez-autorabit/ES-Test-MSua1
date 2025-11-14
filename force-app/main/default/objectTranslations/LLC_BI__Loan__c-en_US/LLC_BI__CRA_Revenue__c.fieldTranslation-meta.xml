@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- CRA Revenue --></help>
+    <label><!-- Revenue Code --></label>
+    <name>LLC_BI__CRA_Revenue__c</name>
+    <picklistValues>
+        <masterLabel>1 - Less than or equal to $1 million</masterLabel>
+        <translation><!-- 1 - Less than or equal to $1 million --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Greater than $1 million</masterLabel>
+        <translation><!-- 2 - Greater than $1 million --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - Not Known</masterLabel>
+        <translation><!-- 3 - Not Known --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

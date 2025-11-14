@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The Spread Statement Period the Covenant Compliance record is being associated with. --></help>
+    <label><!-- Associated Spread Statement Period --></label>
+    <name>LLC_BI__Associated_Spread_Statement_Period__c</name>
+    <relationshipLabel><!-- Covenant Compliances --></relationshipLabel>
+</CustomFieldTranslation>

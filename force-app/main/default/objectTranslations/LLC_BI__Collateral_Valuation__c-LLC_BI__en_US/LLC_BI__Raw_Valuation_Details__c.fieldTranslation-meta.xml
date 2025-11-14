@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system auto-populates this field with vehicle detail IDs received from the corresponding vehicle valuations integration. --></help>
+    <label><!-- Raw Valuation Details --></label>
+    <name>LLC_BI__Raw_Valuation_Details__c</name>
+</CustomFieldTranslation>

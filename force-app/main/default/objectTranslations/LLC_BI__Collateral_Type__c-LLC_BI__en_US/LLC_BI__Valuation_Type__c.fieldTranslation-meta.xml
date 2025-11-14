@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The potential types of collateral valuation --></help>
+    <label><!-- Valuation Type --></label>
+    <name>LLC_BI__Valuation_Type__c</name>
+    <picklistValues>
+        <masterLabel>Actual Cash Value</masterLabel>
+        <translation><!-- Actual Cash Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>As Complete Value</masterLabel>
+        <translation><!-- As Complete Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>As Is Value</masterLabel>
+        <translation><!-- As Is Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>As Stabilized Value</masterLabel>
+        <translation><!-- As Stabilized Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Balance Sheet</masterLabel>
+        <translation><!-- Balance Sheet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Book Value</masterLabel>
+        <translation><!-- Book Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cash Balance</masterLabel>
+        <translation><!-- Cash Balance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Contents Value</masterLabel>
+        <translation><!-- Contents Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fair Market Value - Equipment / Transportation</masterLabel>
+        <translation><!-- Fair Market Value - Equipment / Transportation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fair Market Value - Real Estate</masterLabel>
+        <translation><!-- Fair Market Value - Real Estate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Net Orderly Liquidation Value</masterLabel>
+        <translation><!-- Net Orderly Liquidation Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Orderly Liquidation Value</masterLabel>
+        <translation><!-- Orderly Liquidation Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Preliminary Value</masterLabel>
+        <translation><!-- Preliminary Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Purchase Price</masterLabel>
+        <translation><!-- Purchase Price --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Replacement Cost Value</masterLabel>
+        <translation><!-- Replacement Cost Value --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Waived Value</masterLabel>
+        <translation><!-- Waived Value --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

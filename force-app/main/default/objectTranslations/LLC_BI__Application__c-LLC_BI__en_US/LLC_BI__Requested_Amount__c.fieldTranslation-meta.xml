@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field displays the requested amount for the loan when the borrower begins the credit application. --></help>
+    <label><!-- Requested Amount --></label>
+    <name>LLC_BI__Requested_Amount__c</name>
+</CustomFieldTranslation>

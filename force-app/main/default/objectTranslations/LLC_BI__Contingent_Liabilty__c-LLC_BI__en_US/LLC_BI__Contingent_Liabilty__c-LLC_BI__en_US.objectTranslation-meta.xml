@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Authorized Signer</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Authorized Signers</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Loan --></label>
+        <name>Credit_Memo_Standard_Loan</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Add Signer Modal --></label>
+        <name>LLC_BI__Add_Signer_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Authorized Signer Maintenance Delta --></label>
+        <name>LLC_BI__Authorized_Signer_Maintenance_Delta</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Borrowing Structure Table --></label>
+        <name>LLC_BI__Borrowing_Structure_Table</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Ownership Structure Table --></label>
+        <name>LLC_BI__Ownership_Structure_Table</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Authorized Signer Fieldset --></label>
+        <name>LLC_BI__UI_Authorized_Signer_Fieldset</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- A percentage can only be specified if the contingency type is &apos;Assign Specific&apos; or  &apos;Pro Rata&apos; - AS#01 --></errorMessage>
+        <name>Authorized_Signer_Validation_01</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The valid capacity options for this entity&apos;s account type (Association) are &quot;Officer&quot; and &quot;Agent&quot; --></errorMessage>
+        <name>LLC_BI__Capacity_Association</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The valid capacity options for this entity&apos;s account type (Corporation) are &quot;Officer&quot; and &quot;Agent&quot; --></errorMessage>
+        <name>LLC_BI__Capacity_Corporation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The valid capacity options for this entity&apos;s account type (Government) are &quot;Official&quot; and &quot;Agent&quot; --></errorMessage>
+        <name>LLC_BI__Capacity_Government</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The valid capacity options for this entity&apos;s account type (Limited Liability Company) are &quot;Member&quot; and &quot;Agent&quot; --></errorMessage>
+        <name>LLC_BI__Capacity_Limited_Liability_Company</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The valid capacity options for this entity&apos;s account type (Partnership) are &quot;Partner&quot; and &quot;Agent&quot; --></errorMessage>
+        <name>LLC_BI__Capacity_Partnership</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The only valid capacity option for this entity&apos;s account type (Sole Proprietorship) are &quot;Sole Proprietorship&quot; --></errorMessage>
+        <name>LLC_BI__Capacity_Soleprietorship</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- The valid capacity options for this entity&apos;s account type (Trust) are &quot;Trustee&quot;,&quot;Beneficiary&quot; and &quot;Agent&quot; --></errorMessage>
+        <name>LLC_BI__Capacity_Trust</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- - - DEPRECATED- -  A percentage can only be specified if the contingency type is &apos;Assign Specific&apos; or  &apos;Pro Rata&apos; --></errorMessage>
+        <name>LLC_BI__percentage_only_if_assign_specific</name>
+    </validationRules>
+</CustomObjectTranslation>

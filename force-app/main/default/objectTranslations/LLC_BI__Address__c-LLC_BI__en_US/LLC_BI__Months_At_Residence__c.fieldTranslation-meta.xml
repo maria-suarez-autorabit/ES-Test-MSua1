@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field displays the applicant’s total number of months at their current residence. --></help>
+    <label><!-- Months at Residence --></label>
+    <name>LLC_BI__Months_At_Residence__c</name>
+</CustomFieldTranslation>

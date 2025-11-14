@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true the Designated Beneficiary of a CESA will become the Responsible Individual at age of majority. --></help>
+    <label><!-- CESA Responsible Individual Indicator --></label>
+    <name>LLC_BI__CESA_Responsible_Individual_Indicator__c</name>
+</CustomFieldTranslation>

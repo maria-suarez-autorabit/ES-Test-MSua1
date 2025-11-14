@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The tax year of first Roth IRA contribution or conversion. --></help>
+    <label><!-- Tax Year of First Roth Contribution --></label>
+    <name>LLC_BI__Tax_Year_of_First_Roth_Contribution__c</name>
+</CustomFieldTranslation>

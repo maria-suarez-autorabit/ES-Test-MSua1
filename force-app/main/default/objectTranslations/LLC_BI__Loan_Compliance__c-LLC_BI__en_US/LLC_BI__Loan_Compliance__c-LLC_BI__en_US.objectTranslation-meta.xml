@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Loan Compliance</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Loan Compliances</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- UI HMDA Loan Compliance 2017 --></label>
+        <name>LLC_BI__UI_HMDA_Loan_Compliance_2017</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI HMDA Loan Compliance 2018 --></label>
+        <name>LLC_BI__UI_HMDA_Loan_Compliance_2018</name>
+    </fieldSets>
+    <recordTypes>
+        <description><!-- HMDA Compliance record, using rules effective as of 2017 --></description>
+        <label><!-- HMDA-Effective-2017 --></label>
+        <name>LLC_BI__HMDA_Effective_2017</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- HMDA Compliance record, using rules effective as of 2018 --></description>
+        <label><!-- HMDA-Effective-2018 --></label>
+        <name>LLC_BI__HMDA_Effective_2018</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- One or more required date fields are empty. Enter the initial loan estimate date or the initial closing disclosure date to continue. --></errorMessage>
+        <name>LLC_BI__LE_CD_Date_Required</name>
+    </validationRules>
+</CustomObjectTranslation>

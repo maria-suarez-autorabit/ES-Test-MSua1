@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Which screen section resource should be used for this route? --></help>
+    <label><!-- Screen Section Resource --></label>
+    <name>LLC_BI__Screen_Section_Resource__c</name>
+</CustomFieldTranslation>

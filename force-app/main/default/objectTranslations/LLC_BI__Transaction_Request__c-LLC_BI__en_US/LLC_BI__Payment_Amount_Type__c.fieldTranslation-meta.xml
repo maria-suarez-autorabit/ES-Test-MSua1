@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the type of payment amount. NOTE: This amount when used in the context of a recharacterization includes the contribution amount plus earnings attributable. --></help>
+    <label><!-- Payment Amount Type --></label>
+    <name>LLC_BI__Payment_Amount_Type__c</name>
+    <picklistValues>
+        <masterLabel>Entire balance or contribution amount</masterLabel>
+        <translation><!-- Entire balance or contribution amount --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Portion of balance or contribution amount</masterLabel>
+        <translation><!-- Portion of balance or contribution amount --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

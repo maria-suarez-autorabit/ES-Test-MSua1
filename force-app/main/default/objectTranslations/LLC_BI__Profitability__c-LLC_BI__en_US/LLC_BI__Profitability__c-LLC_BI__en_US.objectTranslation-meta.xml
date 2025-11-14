@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Profitability</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Profitabilities</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Additional Income Deal Impact --></label>
+        <name>LLC_BI__Additional_Income_Deal_Impact</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Comments Deal Impact --></label>
+        <name>LLC_BI__Comments_Deal_Impact</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- DMW Panel Profitability Metrics --></label>
+        <name>LLC_BI__DMW_Panel_Profitability_Metrics</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Income Deal Impact --></label>
+        <name>LLC_BI__Deposit_Income_Deal_Impact</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Profitability Card Metrics --></label>
+        <name>LLC_BI__Profitability_Card_Metrics</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Proforma Profitability Top Component --></label>
+        <name>LLC_BI__Proforma_Profitability_Top_Component</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price Profitability Card --></label>
+        <name>LLC_BI__Quick_Price_Profitability_Card</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Relationship Profitability --></label>
+        <name>LLC_BI__Relationship_Profitability</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Scenario Card Profitability Component --></label>
+        <name>LLC_BI__Scenario_Card_Profitability_Component</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Treasury Income Deal Impact --></label>
+        <name>LLC_BI__Treasury_Income_Deal_Impact</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

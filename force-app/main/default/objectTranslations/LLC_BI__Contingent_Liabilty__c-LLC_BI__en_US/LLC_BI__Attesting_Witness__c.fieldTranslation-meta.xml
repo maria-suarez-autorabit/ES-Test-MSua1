@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this checkbox to indicate that the authorized signer is only acting as an attesting witness rather than the authorizing signer. --></help>
+    <label><!-- Attesting Witness --></label>
+    <name>LLC_BI__Attesting_Witness__c</name>
+</CustomFieldTranslation>

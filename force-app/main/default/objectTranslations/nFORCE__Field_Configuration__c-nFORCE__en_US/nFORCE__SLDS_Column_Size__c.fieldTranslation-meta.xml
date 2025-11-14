@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specify the size of the SLDS Grid column this field should span. This number will be divided into 1 to give the percentage of the row the field will span. For example, a value of 3 will equate to 33.333% of the row. --></help>
+    <label><!-- SLDS Grid Column Size --></label>
+    <name>nFORCE__SLDS_Column_Size__c</name>
+</CustomFieldTranslation>

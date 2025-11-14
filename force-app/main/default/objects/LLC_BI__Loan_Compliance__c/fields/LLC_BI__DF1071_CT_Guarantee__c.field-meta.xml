@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_CT_Guarantee__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional multi-select picklist field to indicate the type(s) of guarantee. By default, it is empty.</description>
+    <inlineHelpText>Select a value to indicate the type(s) of guarantee.</inlineHelpText>
+    <label>Credit Type - Guarantee Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>false</default>
+                <label>1 - Personal guarantee - owner(s)</label>
+            </value>
+            <value>
+                <fullName>2</fullName>
+                <default>false</default>
+                <label>2 - Personal guarantee - non-owner(s)</label>
+            </value>
+            <value>
+                <fullName>3</fullName>
+                <default>false</default>
+                <label>3 - SBA guarantee - 7(a) program</label>
+            </value>
+            <value>
+                <fullName>4</fullName>
+                <default>false</default>
+                <label>4 - SBA guarantee - 504 program</label>
+            </value>
+            <value>
+                <fullName>5</fullName>
+                <default>false</default>
+                <label>5 - SBA guarantee - other</label>
+            </value>
+            <value>
+                <fullName>6</fullName>
+                <default>false</default>
+                <label>6 - USDA guarantee</label>
+            </value>
+            <value>
+                <fullName>7</fullName>
+                <default>false</default>
+                <label>7 - FHA insurance</label>
+            </value>
+            <value>
+                <fullName>8</fullName>
+                <default>false</default>
+                <label>8 - Bureau of Indian Affairs guarantee</label>
+            </value>
+            <value>
+                <fullName>9</fullName>
+                <default>false</default>
+                <label>9 - Other Federal guarantee</label>
+            </value>
+            <value>
+                <fullName>10</fullName>
+                <default>false</default>
+                <label>10 - State government guarantee</label>
+            </value>
+            <value>
+                <fullName>11</fullName>
+                <default>false</default>
+                <label>11 - Local government guarantee</label>
+            </value>
+            <value>
+                <fullName>977</fullName>
+                <default>false</default>
+                <label>977 - Other</label>
+            </value>
+            <value>
+                <fullName>999</fullName>
+                <default>false</default>
+                <label>999 - No guarantee</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

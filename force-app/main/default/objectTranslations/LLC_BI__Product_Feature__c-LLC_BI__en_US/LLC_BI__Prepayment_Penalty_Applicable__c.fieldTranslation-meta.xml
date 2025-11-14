@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select whether prepayment penalties are possible for the products associated with this product feature. --></help>
+    <label><!-- Prepayment Penalty is Applicable --></label>
+    <name>LLC_BI__Prepayment_Penalty_Applicable__c</name>
+</CustomFieldTranslation>

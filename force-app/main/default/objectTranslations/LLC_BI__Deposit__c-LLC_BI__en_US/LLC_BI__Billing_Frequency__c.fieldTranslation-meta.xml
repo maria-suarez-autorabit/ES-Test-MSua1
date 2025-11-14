@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies how often billing for the safe deposit box will occur. --></help>
+    <label><!-- Billing Frequency --></label>
+    <name>LLC_BI__Billing_Frequency__c</name>
+    <picklistValues>
+        <masterLabel>Annually</masterLabel>
+        <translation><!-- Annually --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Biannually</masterLabel>
+        <translation><!-- Biannually --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Monthly</masterLabel>
+        <translation><!-- Monthly --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Monthly on the lease date anniversary</masterLabel>
+        <translation><!-- Monthly on the lease date anniversary --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Quarterly</masterLabel>
+        <translation><!-- Quarterly --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Semiannually</masterLabel>
+        <translation><!-- Semiannually --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Yearly on the lease date anniversary</masterLabel>
+        <translation><!-- Yearly on the lease date anniversary --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

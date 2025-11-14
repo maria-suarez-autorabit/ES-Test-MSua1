@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate the range of non-owner workers for the applicant or business. --></help>
+    <label><!-- Number of Workers --></label>
+    <name>LLC_BI__DF1071_Number_Of_Workers__c</name>
+    <picklistValues>
+        <masterLabel>1 - Firms with no workers</masterLabel>
+        <translation><!-- 1 - Firms with no workers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Firms with 1 to 4 workers</masterLabel>
+        <translation><!-- 2 - Firms with 1 to 4 workers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - Firms with 5 to 9 workers</masterLabel>
+        <translation><!-- 3 - Firms with 5 to 9 workers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>4 - Firms with 10 to 19 workers</masterLabel>
+        <translation><!-- 4 - Firms with 10 to 19 workers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>5 - Firms with 20 to 49 workers</masterLabel>
+        <translation><!-- 5 - Firms with 20 to 49 workers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>6 - Firms with 50 to 99 workers</masterLabel>
+        <translation><!-- 6 - Firms with 50 to 99 workers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>7 - Firms with 100 to 249 workers</masterLabel>
+        <translation><!-- 7 - Firms with 100 to 249 workers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>8 - Firms with 250 to 499 workers</masterLabel>
+        <translation><!-- 8 - Firms with 250 to 499 workers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>9 - Firms with 500 workers or more</masterLabel>
+        <translation><!-- 9 - Firms with 500 workers or more --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided by applicant and otherwise undetermined</masterLabel>
+        <translation><!-- 988 - Not provided by applicant and otherwise undetermined --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

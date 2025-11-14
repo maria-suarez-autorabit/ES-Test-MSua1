@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field displays the total loan cost the borrower will pay over 5 years. --></help>
+    <label><!-- Total Loan Cost Over 5 Years --></label>
+    <name>LLC_BI__Total_Loan_Cost_Over_5_Years__c</name>
+</CustomFieldTranslation>

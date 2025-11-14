@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the Account that receives the accrued interest. --></help>
+    <label><!-- Account to Receive Accrued Interest --></label>
+    <name>LLC_BI__Account_To_Receive_Accrued_Interest__c</name>
+    <relationshipLabel><!-- Accrued Interest Deposit Accounts --></relationshipLabel>
+</CustomFieldTranslation>

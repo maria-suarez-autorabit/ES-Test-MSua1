@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Frequency_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional picklist field with the frequency type used to categorize the template for integrations and simplified views (for example, Document Preparation). By default, it is blank.</description>
+    <inlineHelpText>Select the date frequency type to determine which type of frequency this is (ex. Monthly, Annual, etc.).</inlineHelpText>
+    <label>Frequency Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Monthly</fullName>
+                <default>false</default>
+                <label>Monthly</label>
+            </value>
+            <value>
+                <fullName>Every 2 Months</fullName>
+                <default>false</default>
+                <label>Every 2 Months</label>
+            </value>
+            <value>
+                <fullName>Quarterly</fullName>
+                <default>false</default>
+                <label>Quarterly</label>
+            </value>
+            <value>
+                <fullName>Semi-Annually</fullName>
+                <default>false</default>
+                <label>Semi-Annually</label>
+            </value>
+            <value>
+                <fullName>Annually</fullName>
+                <default>false</default>
+                <label>Annually</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

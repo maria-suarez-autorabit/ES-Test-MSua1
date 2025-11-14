@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Entity Involvement</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Entity Involvement</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Loan --></label>
+        <name>Credit_Memo_Standard_Loan</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Account --></label>
+        <name>Credit_Memo_Standard_Review_Account</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Product Package --></label>
+        <name>Credit_Memo_Standard_Review_Product_Pack</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Account Affiliated Exposure --></label>
+        <name>LLC_BI__Account_Affiliated_Exposure</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Account Direct Exposure --></label>
+        <name>LLC_BI__Account_Direct_Exposure</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Account Indirect Exposure --></label>
+        <name>LLC_BI__Account_Indirect_Exposure</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Add Entity Involvement Modal --></label>
+        <name>LLC_BI__Add_Entity_Involvement_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Borrowing Structure Table --></label>
+        <name>LLC_BI__Borrowing_Structure_Table</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Covenant Bulk Associate Loan Selections --></label>
+        <name>LLC_BI__Covenant_Bulk_Associate_Loan_Selections</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Products --></label>
+        <name>LLC_BI__Deposit_Products</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Entity_ID --></label>
+        <name>LLC_BI__Entity_ID</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Entity Involvement Maintenance Delta --></label>
+        <name>LLC_BI__Entity_Involvement_Maintenance_Delta</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Extension Action Page --></label>
+        <name>LLC_BI__Extension_Action_Page</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Global Entity Fields --></label>
+        <name>LLC_BI__Global_Entity_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- HMDA Demographic Questions --></label>
+        <name>LLC_BI__HMDA_Demographic_Questions</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- HMDA Entity Relationship Name --></label>
+        <name>LLC_BI__HMDA_Entity_Relationship_Name</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Products --></label>
+        <name>LLC_BI__Loan_Products</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Ownership Structure Table --></label>
+        <name>LLC_BI__Ownership_Structure_Table</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Entity --></label>
+        <name>LLC_BI__Product_Package_Entity</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Relationship Loan Products --></label>
+        <name>LLC_BI__Relationship_Loan_Products</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- ReviewDisplay --></label>
+        <name>LLC_BI__ReviewDisplay</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Spreads Debt Schedule Generator --></label>
+        <name>LLC_BI__Spreads_Debt_Schedule_Generator</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>LLC_BI__Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Total Exposure Expand Loan Product Package --></label>
+        <name>LLC_BI__TE_Expand_Loan_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Total Exposure Expand Loan Relationship --></label>
+        <name>LLC_BI__TE_Expand_Loan_Relationship</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Deposit Products --></label>
+        <name>LLC_BI__UI_Deposit_Products</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Entity Involvement Fieldset --></label>
+        <name>LLC_BI__UI_Entity_Involvement_Fieldset</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI HMDA Demographic Questions --></label>
+        <name>LLC_BI__UI_HMDA_Demographic_Questions</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Products --></label>
+        <name>LLC_BI__UI_Loan_Products</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Lookup Fields --></label>
+        <name>LLC_BI__UI_Lookup_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Treasury Products --></label>
+        <name>LLC_BI__UI_Treasury_Products</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Products 2 --></label>
+        <name>Loan_Products_2</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Borrowing Structure --></label>
+        <name>UI_Borrowing_Structure</name>
+    </fieldSets>
+    <layouts>
+        <layout>Deposit Entity Layout</layout>
+        <sections>
+            <label><!-- Notes --></label>
+            <section>Notes</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Legal Entity Layout</layout>
+        <sections>
+            <label><!-- Contingent Details --></label>
+            <section>Contingent Details</section>
+        </sections>
+        <sections>
+            <label><!-- Notes --></label>
+            <section>Notes</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Entity Auto Number</nameFieldLabel>
+    <recordTypes>
+        <label><!-- Deposit Involvement --></label>
+        <name>LLC_BI__Deposit_Involvement</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Loan Involvement --></label>
+        <name>LLC_BI__Loan_Involvement</name>
+    </recordTypes>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- Contingent amount cannot exceed the loan amount. --></errorMessage>
+        <name>LLC_BI__Contingent_Amount_Exceeds_Loan_Amount</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Contingent Amount must be greater than 0. --></errorMessage>
+        <name>LLC_BI__Contingent_Amount_Less_Than_0</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Only one field can be used to calculate contingent guarantee. Please specify either amount or percentage before saving. --></errorMessage>
+        <name>LLC_BI__Contingent_Amount_and_Contingent_Percent</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- - - DEPRECATED- -  --></errorMessage>
+        <name>LLC_BI__HMDA_Demographic</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Contingent Percentage must be greater than 0. --></errorMessage>
+        <name>LLC_BI__Ownership_Less_Than_0</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- New_on_Account --></label>
+        <name>LLC_BI__New_on_Account</name>
+    </webLinks>
+    <webLinks>
+        <label>New Loan Entity</label>
+        <name>LLC_BI__New_on_Loan</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_on_Package --></label>
+        <name>LLC_BI__New_on_Package</name>
+    </webLinks>
+</CustomObjectTranslation>

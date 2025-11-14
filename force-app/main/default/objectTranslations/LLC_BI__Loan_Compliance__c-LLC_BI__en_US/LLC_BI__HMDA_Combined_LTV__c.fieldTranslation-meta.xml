@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use decimal places only if the ratio relied upon uses decimal places. --></help>
+    <label><!-- Combined Loan-to-Value Ratio --></label>
+    <name>LLC_BI__HMDA_Combined_LTV__c</name>
+</CustomFieldTranslation>

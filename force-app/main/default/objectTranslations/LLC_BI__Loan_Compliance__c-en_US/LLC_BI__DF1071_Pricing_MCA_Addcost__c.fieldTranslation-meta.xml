@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use this field to specify the dollar difference between the advanced amount and the repayment amount. --></help>
+    <label><!-- MCA Addcost --></label>
+    <name>LLC_BI__DF1071_Pricing_MCA_Addcost__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the path to an SLDS Icon (Custom, Standard, or Utility) starting after &apos;...icons/&apos;. For example, the account standard icon path would be &apos;standard-sprite/svg/symbols.svg#account&apos;. --></help>
+    <label><!-- Icon Path --></label>
+    <name>nFORCE__Icon_Path__c</name>
+</CustomFieldTranslation>

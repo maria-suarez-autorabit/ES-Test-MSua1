@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the alternate maturity of an account if any. This only applies to notice accounts. --></help>
+    <label><!-- Notice Account Maturity Type --></label>
+    <name>LLC_BI__Notice_Account_Maturity_Type__c</name>
+    <picklistValues>
+        <masterLabel>Date</masterLabel>
+        <translation><!-- Date --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>No Alternate Maturity</masterLabel>
+        <translation><!-- No Alternate Maturity --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Period</masterLabel>
+        <translation><!-- Period --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

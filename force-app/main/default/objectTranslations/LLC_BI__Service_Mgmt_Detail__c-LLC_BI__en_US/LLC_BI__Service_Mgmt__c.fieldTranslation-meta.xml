@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The lookup for the Service Management record. --></help>
+    <label><!-- Service Mgmt --></label>
+    <name>LLC_BI__Service_Mgmt__c</name>
+    <relationshipLabel><!-- Service Mgmt Details --></relationshipLabel>
+</CustomFieldTranslation>

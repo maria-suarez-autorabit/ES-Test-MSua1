@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Date is automatically populated whenever Covenant Compliance records are updated to approved. It identifies the last date that a covenant record was reviewed. --></help>
+    <label><!-- Last Evaluation Date --></label>
+    <name>LLC_BI__Last_Evaluation_Date__c</name>
+</CustomFieldTranslation>

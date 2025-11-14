@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This auto-populated field can display the status of the requirement, and determines the available sub-status of the requirement in process. --></help>
+    <label><!-- Sub-Status Attribute --></label>
+    <name>LLC_BI__Sub_Status_Attribute__c</name>
+    <picklistValues>
+        <masterLabel>Loan-Complete</masterLabel>
+        <translation><!-- Loan-Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Loan-In Progress</masterLabel>
+        <translation><!-- Loan-In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Loan-To Do</masterLabel>
+        <translation><!-- Loan-To Do --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Covenant Mgmt</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Covenant Mgmt</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Loan --></label>
+        <name>Credit_Memo_Standard_Loan</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>Credit_Memo_Standard_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Account --></label>
+        <name>Credit_Memo_Standard_Review_Account</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Product Package --></label>
+        <name>Credit_Memo_Standard_Review_Product_Pack</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Account Covenant Related List --></label>
+        <name>LLC_BI__Account_Covenant_Related_List</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CovenantBulkAssociate --></label>
+        <name>LLC_BI__CovenantBulkAssociate</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>LLC_BI__Credit_Memo_Standard_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Covenant Related List --></label>
+        <name>LLC_BI__Loan_Covenant_Related_List</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Account Covenant FS --></label>
+        <name>LLC_BI__Product_Package_Account_Covenant_FS</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Loan Covenant FS --></label>
+        <name>LLC_BI__Product_Package_Loan_Covenant_FS</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- manageCovenants --></label>
+        <name>LLC_BI__manageCovenants</name>
+    </fieldSets>
+    <layouts>
+        <layout>Covenant2 Layout</layout>
+        <sections>
+            <label><!-- Comments --></label>
+            <section>Comments</section>
+        </sections>
+        <sections>
+            <label><!-- Covenant Compliance Fields --></label>
+            <section>Covenant Compliance Fields</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

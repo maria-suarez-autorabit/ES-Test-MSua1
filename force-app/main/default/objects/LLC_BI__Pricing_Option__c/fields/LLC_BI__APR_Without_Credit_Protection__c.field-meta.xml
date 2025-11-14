@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__APR_Without_Credit_Protection__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional percent field to calculate and display the annual percentage rate (APR) without any applied credit protections. By default, it is blank.</description>
+    <inlineHelpText>When populated, this field contains the annual percentage rate (APR) without any applied credit protections.</inlineHelpText>
+    <label>APR Without Credit Protection</label>
+    <precision>6</precision>
+    <required>false</required>
+    <scale>3</scale>
+    <trackTrending>false</trackTrending>
+    <type>Percent</type>
+</CustomField>

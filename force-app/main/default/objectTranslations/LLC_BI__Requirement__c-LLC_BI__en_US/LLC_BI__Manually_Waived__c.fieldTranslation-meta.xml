@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates whether a Requirement record has been manually waived. The system sets this field automatically if the user sets a Requirement to &apos;Waived&apos; in the user interface. --></help>
+    <label><!-- Manually Waived --></label>
+    <name>LLC_BI__Manually_Waived__c</name>
+</CustomFieldTranslation>

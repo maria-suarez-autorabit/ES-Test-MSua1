@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The number of owners of this asset that have the authority to pledge the asset as collateral. --></help>
+    <label><!-- Authority Number --></label>
+    <name>LLC_BI__Authority_Number__c</name>
+</CustomFieldTranslation>

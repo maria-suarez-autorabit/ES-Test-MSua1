@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This automatically populated field displays the end-to-end processing time of this Business Activity execution. --></help>
+    <label><!-- Execution Duration --></label>
+    <name>nFORCE__Duration__c</name>
+</CustomFieldTranslation>

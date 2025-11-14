@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system-populated field displays the maximum possible percentage of a loan&apos;s interest rate for a set period of time. --></help>
+    <label><!-- Rate Ceiling --></label>
+    <name>LLC_BI__Rate_Ceiling__c</name>
+</CustomFieldTranslation>

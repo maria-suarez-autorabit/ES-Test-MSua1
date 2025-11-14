@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Selfref_field__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <label>Selfref_field</label>
+    <referenceTo>Obj_1__c</referenceTo>
+    <relationshipLabel>Obj 1</relationshipLabel>
+    <relationshipName>Obj_1</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

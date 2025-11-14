@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>validation_deprecate</fullName>
+    <active>true</active>
+    <errorConditionFormula>LLC_BI__Account__r.Site  = LLC_BI__Comments__c</errorConditionFormula>
+    <errorMessage>qwerty</errorMessage>
+</ValidationRule>

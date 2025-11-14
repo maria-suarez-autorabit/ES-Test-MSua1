@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Semicolon delimited list of roles that are allowed to approve the document. If left blank all roles can approve the document. --></help>
+    <label><!-- Placeholder Approval Roles --></label>
+    <name>NDOC__Placeholder_Approval_Roles__c</name>
+</CustomFieldTranslation>

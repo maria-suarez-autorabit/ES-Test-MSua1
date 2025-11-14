@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The net dollar amount of Federal Withholding, including the standard 10% applied to the distribution subtotal --></help>
+    <label><!-- Federal Withholding Amount --></label>
+    <name>LLC_BI__Federal_Withholding_Amount__c</name>
+</CustomFieldTranslation>

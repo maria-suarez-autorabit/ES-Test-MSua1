@@ -7,7 +7,7 @@
         <label>Prospecting</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
-        <probability>10</probability>
+        <probability>5</probability>
         <won>false</won>
     </standardValue>
     <standardValue>
@@ -20,57 +20,75 @@
         <won>false</won>
     </standardValue>
     <standardValue>
-        <fullName>Needs Analysis</fullName>
+        <fullName>Proposal</fullName>
         <default>false</default>
-        <label>Needs Analysis</label>
+        <label>Proposal</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
         <probability>20</probability>
         <won>false</won>
     </standardValue>
     <standardValue>
-        <fullName>Value Proposition</fullName>
+        <fullName>Credit Underwriting</fullName>
         <default>false</default>
-        <label>Value Proposition</label>
+        <label>Credit Underwriting</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>30</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Final Review</fullName>
+        <default>false</default>
+        <label>Final Review</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>40</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Approval / Loan Committee</fullName>
+        <default>false</default>
+        <label>Approval / Loan Committee</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
         <probability>50</probability>
         <won>false</won>
     </standardValue>
     <standardValue>
-        <fullName>Id. Decision Makers</fullName>
+        <fullName>Processing</fullName>
         <default>false</default>
-        <label>Id. Decision Makers</label>
+        <label>Processing</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
         <probability>60</probability>
         <won>false</won>
     </standardValue>
     <standardValue>
-        <fullName>Perception Analysis</fullName>
+        <fullName>Doc Prep</fullName>
         <default>false</default>
-        <label>Perception Analysis</label>
+        <label>Doc Prep</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
         <probability>70</probability>
         <won>false</won>
     </standardValue>
     <standardValue>
-        <fullName>Proposal/Price Quote</fullName>
+        <fullName>Closing</fullName>
         <default>false</default>
-        <label>Proposal/Price Quote</label>
+        <label>Closing</label>
         <closed>false</closed>
         <forecastCategory>Pipeline</forecastCategory>
-        <probability>75</probability>
+        <probability>80</probability>
         <won>false</won>
     </standardValue>
     <standardValue>
-        <fullName>Negotiation/Review</fullName>
+        <fullName>Closed Lost</fullName>
         <default>false</default>
-        <label>Negotiation/Review</label>
-        <closed>false</closed>
-        <forecastCategory>Pipeline</forecastCategory>
-        <probability>90</probability>
+        <label>Closed Lost</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
         <won>false</won>
     </standardValue>
     <standardValue>
@@ -81,14 +99,5 @@
         <forecastCategory>Closed</forecastCategory>
         <probability>100</probability>
         <won>true</won>
-    </standardValue>
-    <standardValue>
-        <fullName>Closed Lost</fullName>
-        <default>false</default>
-        <label>Closed Lost</label>
-        <closed>true</closed>
-        <forecastCategory>Omitted</forecastCategory>
-        <probability>0</probability>
-        <won>false</won>
     </standardValue>
 </StandardValueSet>

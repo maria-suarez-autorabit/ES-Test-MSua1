@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Choose an Anchor Date Method to determine how to arrive at the anchor date. --></help>
+    <label><!-- Odd Days Anchor Date Method --></label>
+    <name>LLC_BI__Odd_Days_Anchor_Date_Method__c</name>
+    <picklistValues>
+        <masterLabel>Back Days Per Period</masterLabel>
+        <translation><!-- Back Days Per Period --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Back Unit Period</masterLabel>
+        <translation><!-- Back Unit Period --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

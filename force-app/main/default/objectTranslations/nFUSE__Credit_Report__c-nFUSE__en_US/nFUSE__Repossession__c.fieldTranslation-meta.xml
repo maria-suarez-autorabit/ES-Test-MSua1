@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field signifies if a record contains an indication of repossession on a tradeline. --></help>
+    <label><!-- Repossession --></label>
+    <name>nFUSE__Repossession__c</name>
+</CustomFieldTranslation>

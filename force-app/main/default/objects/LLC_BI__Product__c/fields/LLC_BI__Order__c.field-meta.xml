@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Order__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional text field to set the ordering priority of a product. By default, it is blank.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter a number to assign ordering priority on the product list. Products display in ascending order of priority.</inlineHelpText>
+    <label>Order</label>
+    <precision>9</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

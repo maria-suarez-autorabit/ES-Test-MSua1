@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Pacific_Islander_Race__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional text field to specify the applicant’s Pacific Islander race. By default, it is empty.</description>
+    <inlineHelpText>Use this field to specify the applicant’s Pacific Islander race.</inlineHelpText>
+    <label>Pacific Islander Race</label>
+    <length>300</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

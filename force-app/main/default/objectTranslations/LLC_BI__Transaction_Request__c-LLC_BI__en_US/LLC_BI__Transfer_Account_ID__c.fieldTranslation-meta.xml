@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The ID assigned to the account or plan at the transferring financial institution. For recharacterizations, this is the ID number of the plan where the original contribution was made. --></help>
+    <label><!-- Transfer Account ID --></label>
+    <name>LLC_BI__Transfer_Account_ID__c</name>
+</CustomFieldTranslation>

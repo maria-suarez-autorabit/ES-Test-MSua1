@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Report the amount in thousands, rounded to the nearest thousand ($500 should be rounded up to the next thousand). --></help>
+    <label><!-- Loan Amount (amount in thousands) --></label>
+    <name>LLC_BI__CRA_Amount__c</name>
+</CustomFieldTranslation>

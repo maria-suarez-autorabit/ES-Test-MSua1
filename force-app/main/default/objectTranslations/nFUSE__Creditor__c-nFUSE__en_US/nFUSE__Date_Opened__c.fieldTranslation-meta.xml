@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system populates this optional date field with the date the account was opened. --></help>
+    <label><!-- Date Opened --></label>
+    <name>nFUSE__Date_Opened__c</name>
+</CustomFieldTranslation>

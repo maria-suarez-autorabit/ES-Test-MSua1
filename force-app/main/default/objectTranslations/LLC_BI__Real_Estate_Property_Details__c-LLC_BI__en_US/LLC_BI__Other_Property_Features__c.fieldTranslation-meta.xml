@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the extra features included with the property from the picklist. You can select more than one. --></help>
+    <label><!-- Other Property Features --></label>
+    <name>LLC_BI__Other_Property_Features__c</name>
+    <picklistValues>
+        <masterLabel>Basement</masterLabel>
+        <translation><!-- Basement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Chimney</masterLabel>
+        <translation><!-- Chimney --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Elevator/Lift</masterLabel>
+        <translation><!-- Elevator/Lift --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Swimming Pool</masterLabel>
+        <translation><!-- Swimming Pool --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the checkbox to indicate that this range is inclusive of this maximum value. --></help>
+    <label><!-- Maximum Inclusive --></label>
+    <name>LLC_BI__Maximum_Inclusive__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is automatically computed. Its value represents the total &apos;lendable&apos; value of all collateral (the children of this collateral) directly pledged to the same loan as this (the parent) piece of collateral. --></help>
+    <label><!-- Total Pledged Rollup Lendable Value --></label>
+    <name>LLC_BI__Total_Pledged_Rollup_Lendable_Value__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_App_Recipient__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional picklist field to indicate the application recipient. By default, it is empty.</description>
+    <inlineHelpText>Enter one of the specified codes to indicate the application recipient.</inlineHelpText>
+    <label>Application Recipient</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>true</default>
+                <label>1 - Directly submitted</label>
+            </value>
+            <value>
+                <fullName>2</fullName>
+                <default>false</default>
+                <label>2 - Indirectly submitted via a third party</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

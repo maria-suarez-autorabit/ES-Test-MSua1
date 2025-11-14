@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- You may enter up to 50 characters to list the other denial reason. --></help>
+    <label><!-- Other Denial Reason Details --></label>
+    <name>LLC_BI__HMDA_Denial_Reason_Text__c</name>
+</CustomFieldTranslation>

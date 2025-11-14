@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If checked, a search box is showed for every grid allowing row contents to be filtered. --></help>
+    <label><!-- Allow Record Filtering --></label>
+    <name>LLC_BI__Allow_Record_Filtering__c</name>
+</CustomFieldTranslation>

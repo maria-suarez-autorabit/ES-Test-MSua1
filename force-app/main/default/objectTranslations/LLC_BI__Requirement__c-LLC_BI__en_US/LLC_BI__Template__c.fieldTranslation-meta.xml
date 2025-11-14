@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This optional field contains the developer name of the Requirement Template on which this Requirement is based. --></help>
+    <label><!-- Template --></label>
+    <name>LLC_BI__Template__c</name>
+</CustomFieldTranslation>

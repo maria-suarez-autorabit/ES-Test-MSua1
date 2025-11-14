@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the interest rate at which the account will be renewed. --></help>
+    <label><!-- Renewal Interest Rate Type --></label>
+    <name>LLC_BI__Renewal_Interest_Rate_Type__c</name>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Same Basis</masterLabel>
+        <translation><!-- Same Basis --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

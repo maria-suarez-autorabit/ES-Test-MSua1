@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This optional lookup field links the Titled Property Details records that capture additional property details to the Titled Collateral records. --></help>
+    <label><!-- Titled Property Details --></label>
+    <name>LLC_BI__Titled_Property_Details__c</name>
+    <relationshipLabel><!-- Collateral Mgmt --></relationshipLabel>
+</CustomFieldTranslation>

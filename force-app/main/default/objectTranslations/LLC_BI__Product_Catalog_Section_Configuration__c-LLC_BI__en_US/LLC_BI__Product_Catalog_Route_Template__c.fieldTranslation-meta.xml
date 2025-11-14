@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Which product catalog route template is this section configuration template associated with? --></help>
+    <label><!-- Product Catalog Route Template --></label>
+    <name>LLC_BI__Product_Catalog_Route_Template__c</name>
+    <relationshipLabel><!-- Product Catalog Section Configurations --></relationshipLabel>
+</CustomFieldTranslation>

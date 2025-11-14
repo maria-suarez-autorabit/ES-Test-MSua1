@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Status__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional picklist field to capture the status of the tenancy.</description>
+    <label>Status</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Vacant</fullName>
+                <default>false</default>
+                <label>Vacant</label>
+            </value>
+            <value>
+                <fullName>Proposed</fullName>
+                <default>false</default>
+                <label>Proposed</label>
+            </value>
+            <value>
+                <fullName>Occupied</fullName>
+                <default>false</default>
+                <label>Occupied</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

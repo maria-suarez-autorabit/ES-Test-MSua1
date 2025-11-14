@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Please enter the icon folder name then a &quot;/&quot; followed by the icon name. Example &quot;standard/client&quot; --></help>
+    <label><!-- Icon Type --></label>
+    <name>LLC_BI__Icon_Type__c</name>
+</CustomFieldTranslation>

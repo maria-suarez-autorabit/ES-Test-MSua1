@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Spread</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Spreads</value>
+    </caseValues>
+    <layouts>
+        <layout>Spread Layout</layout>
+        <sections>
+            <label><!-- Spread Statement --></label>
+            <section>Spread Statement</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Print --></label>
+        <name>LLC_BI__Print</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Underwriting --></label>
+        <name>Underwriting</name>
+    </webLinks>
+</CustomObjectTranslation>

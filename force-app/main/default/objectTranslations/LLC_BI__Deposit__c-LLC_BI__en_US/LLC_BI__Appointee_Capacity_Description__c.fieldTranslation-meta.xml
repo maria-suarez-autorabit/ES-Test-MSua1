@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Capacity of a designated appointee, often by court order/will. Acts for a fiduciary or estate account ward. Capacity identified by court order/legal document as guardian, conservator, or legal representative. Captured once and applied to appointee(s). --></help>
+    <label><!-- Appointee Capacity Description --></label>
+    <name>LLC_BI__Appointee_Capacity_Description__c</name>
+</CustomFieldTranslation>

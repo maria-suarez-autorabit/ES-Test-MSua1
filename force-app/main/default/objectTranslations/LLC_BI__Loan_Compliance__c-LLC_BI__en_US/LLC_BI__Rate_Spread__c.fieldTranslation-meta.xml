@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter, as a percentage, to at least three (3) decimal places. Numbers calculated to beyond three (3) decimal places may either be reported beyond three (3) decimal places or rounded or truncated to three (3) decimal places. --></help>
+    <label><!-- Rate Spread (##.### format) --></label>
+    <name>LLC_BI__Rate_Spread__c</name>
+</CustomFieldTranslation>

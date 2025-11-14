@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SampleView</fullName>
+    <columns>nFORCE__Format_Expression__c</columns>
+    <columns>NAME</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>NAME</field>
+        <operation>equals</operation>
+        <value>FC-002583</value>
+    </filters>
+    <label>SampleView</label>
+    <language>en_US</language>
+</ListView>

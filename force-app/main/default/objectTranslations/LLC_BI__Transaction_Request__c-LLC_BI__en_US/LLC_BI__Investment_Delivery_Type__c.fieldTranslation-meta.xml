@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the way in which the requested investment should be sent. --></help>
+    <label><!-- Investment Delivery Type --></label>
+    <name>LLC_BI__Investment_Delivery_Type__c</name>
+    <picklistValues>
+        <masterLabel>Cash Proceeds</masterLabel>
+        <translation><!-- Cash Proceeds --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Kind</masterLabel>
+        <translation><!-- In Kind --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

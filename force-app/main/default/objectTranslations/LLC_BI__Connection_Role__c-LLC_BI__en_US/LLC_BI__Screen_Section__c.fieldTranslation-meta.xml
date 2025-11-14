@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Administrators populate this optional field to link field sets to connection roles, controlling the fields displayed in the UI. --></help>
+    <label><!-- Screen Section --></label>
+    <name>LLC_BI__Screen_Section__c</name>
+    <relationshipLabel><!-- Screen Sections --></relationshipLabel>
+</CustomFieldTranslation>

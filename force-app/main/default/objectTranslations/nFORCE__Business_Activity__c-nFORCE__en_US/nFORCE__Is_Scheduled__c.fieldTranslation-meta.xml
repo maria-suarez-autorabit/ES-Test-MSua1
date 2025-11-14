@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This checkbox field indicates if the system should schedule the business activity to run at a particular time. --></help>
+    <label><!-- Is Scheduled --></label>
+    <name>nFORCE__Is_Scheduled__c</name>
+</CustomFieldTranslation>

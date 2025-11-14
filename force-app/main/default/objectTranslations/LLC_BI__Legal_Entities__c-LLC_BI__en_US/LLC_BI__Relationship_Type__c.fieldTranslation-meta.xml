@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Describes relationship ownership for Deposit account types. --></help>
+    <label><!-- Ownership Type --></label>
+    <name>LLC_BI__Relationship_Type__c</name>
+    <picklistValues>
+        <masterLabel>Joint Owner</masterLabel>
+        <translation><!-- Joint Owner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Liability Partnership</masterLabel>
+        <translation><!-- Limited Liability Partnership --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Primary Owner</masterLabel>
+        <translation><!-- Primary Owner --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

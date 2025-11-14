@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The order in which liens will be repaid when the property is transferred to a new owner. --></help>
+    <label><!-- Position --></label>
+    <name>LLC_BI__Position__c</name>
+    <picklistValues>
+        <masterLabel>1st</masterLabel>
+        <translation><!-- 1st --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2nd</masterLabel>
+        <translation><!-- 2nd --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3rd</masterLabel>
+        <translation><!-- 3rd --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

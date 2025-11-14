@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- In Automated Spreading, every Spreads group has a color to assist the user in identifying which group each category belongs to. --></help>
+    <label><!-- Group Color --></label>
+    <name>LLC_BI__Color__c</name>
+</CustomFieldTranslation>

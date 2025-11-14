@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Using this optional field, administrators can select a log level to capture for the process to communicate what occurred during the execution. The options available are ERROR, WARN, INFO, DEBUG, FINE, FINER, FINEST. --></help>
+    <label><!-- Log Level To Capture --></label>
+    <name>nFORCE__Log_Level_To_Capture__c</name>
+    <picklistValues>
+        <masterLabel>Debug</masterLabel>
+        <translation><!-- Debug --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Error</masterLabel>
+        <translation><!-- Error --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fine</masterLabel>
+        <translation><!-- Fine --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finer</masterLabel>
+        <translation><!-- Finer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finest</masterLabel>
+        <translation><!-- Finest --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Info</masterLabel>
+        <translation><!-- Info --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Warning</masterLabel>
+        <translation><!-- Warning --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

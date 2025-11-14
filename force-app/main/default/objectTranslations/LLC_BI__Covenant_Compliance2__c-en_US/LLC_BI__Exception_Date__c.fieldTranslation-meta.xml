@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If there was an exception, the date that the exception occurred. --></help>
+    <label><!-- Exception Date --></label>
+    <name>LLC_BI__Exception_Date__c</name>
+</CustomFieldTranslation>

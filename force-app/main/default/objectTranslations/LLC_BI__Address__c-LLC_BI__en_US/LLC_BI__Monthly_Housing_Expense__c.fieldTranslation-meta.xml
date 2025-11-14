@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field contains the applicant’s current housing payment. --></help>
+    <label><!-- Monthly Housing Expense --></label>
+    <name>LLC_BI__Monthly_Housing_Expense__c</name>
+</CustomFieldTranslation>

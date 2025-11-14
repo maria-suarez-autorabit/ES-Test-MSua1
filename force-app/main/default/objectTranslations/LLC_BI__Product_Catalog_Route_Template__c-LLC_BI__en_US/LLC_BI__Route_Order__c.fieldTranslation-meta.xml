@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- What sorting order number will be assigned to this route? This will decide its placement among other routes in the same group. --></help>
+    <label><!-- Route Order --></label>
+    <name>LLC_BI__Route_Order__c</name>
+</CustomFieldTranslation>

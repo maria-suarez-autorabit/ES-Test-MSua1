@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is required and populated based on the Frequency. This field sets the number of days prior to the Covenant&apos;s next evaluation date that a compliance record will be created. --></help>
+    <label><!-- Compliance Days Prior --></label>
+    <name>LLC_BI__Compliance_Days_Prior__c</name>
+    <picklistValues>
+        <masterLabel>14</masterLabel>
+        <translation><!-- 14 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>30</masterLabel>
+        <translation><!-- 30 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>7</masterLabel>
+        <translation><!-- 7 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

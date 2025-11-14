@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This checkbox will be automatically set to = True when the Amortization Period (Months) and the Term (Months) are different. --></help>
+    <label>Balloon Loan</label>
+    <name>LLC_BI__Balloon__c</name>
+</CustomFieldTranslation>

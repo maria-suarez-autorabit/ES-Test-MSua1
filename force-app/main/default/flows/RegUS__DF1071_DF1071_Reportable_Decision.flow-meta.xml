@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>57.0</apiVersion>
+    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
+    <assignments>
+        <description>Update LLC_BI__DF1071_Reportable__c field on Loan Detail to false.</description>
+        <name>Set_Reportable_To_False</name>
+        <label>Set Reportable To False</label>
+        <locationX>506</locationX>
+        <locationY>866</locationY>
+        <assignmentItems>
+            <assignToReference>loanDetail.LLC_BI__DF1071_Reportable__c</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <booleanValue>false</booleanValue>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>Update_Loan_Detail</targetReference>
+        </connector>
+    </assignments>
+    <assignments>
+        <description>Update LLC_BI__DF1071_Reportable__c field on Loan Detail to true.</description>
+        <name>Set_Reportable_To_True</name>
+        <label>Set Reportable To True</label>
+        <locationX>242</locationX>
+        <locationY>866</locationY>
+        <assignmentItems>
+            <assignToReference>loanDetail.LLC_BI__DF1071_Reportable__c</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <booleanValue>true</booleanValue>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>Update_Loan_Detail</targetReference>
+        </connector>
+    </assignments>
+    <decisions>
+        <description>Determines whether any Loan Detail Record is associated with the current Loan.</description>
+        <name>Does_Loan_Detail_Exist</name>
+        <label>Does Loan Detail Exist?</label>
+        <locationX>374</locationX>
+        <locationY>458</locationY>
+        <defaultConnector>
+            <targetReference>Is_Loan_DF1071_Reportable</targetReference>
+        </defaultConnector>
+        <defaultConnectorLabel>Loan Detail Does Exist</defaultConnectorLabel>
+        <rules>
+            <name>Loan_Detail_Does_Not_Exist</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>loanDetail.Id</leftValueReference>
+                <operator>EqualTo</operator>
+            </conditions>
+            <connector>
+                <targetReference>Create_Loan_Detail</targetReference>
+            </connector>
+            <label>Loan Detail Does Not Exist</label>
+        </rules>
+    </decisions>
+    <decisions>
+        <description>Determines whether the DF1071 Reportable Field meets the desired criteria.</description>
+        <name>Is_Loan_DF1071_Reportable</name>
+        <label>Is Loan DF1071 Reportable?</label>
+        <locationX>374</locationX>
+        <locationY>758</locationY>
+        <defaultConnector>
+            <targetReference>Set_Reportable_To_False</targetReference>
+        </defaultConnector>
+        <defaultConnectorLabel>Is Not Reportable</defaultConnectorLabel>
+        <rules>
+            <name>Is_Reportable</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>Get_Loan.LLC_BI__Account__r.AnnualRevenue</leftValueReference>
+                <operator>LessThan</operator>
+                <rightValue>
+                    <numberValue>5000000.0</numberValue>
+                </rightValue>
+            </conditions>
+            <conditions>
+                <leftValueReference>Get_Loan.LLC_BI__isRenewal__c</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <booleanValue>false</booleanValue>
+                </rightValue>
+            </conditions>
+            <conditions>
+                <leftValueReference>Get_Loan.LLC_BI__Is_Modification__c</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <booleanValue>false</booleanValue>
+                </rightValue>
+            </conditions>
+            <conditions>
+                <leftValueReference>Get_Loan.LLC_BI__HMDA_Reportable__c</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <booleanValue>false</booleanValue>
+                </rightValue>
+            </conditions>
+            <connector>
+                <targetReference>Set_Reportable_To_True</targetReference>
+            </connector>
+            <label>Is Reportable</label>
+        </rules>
+    </decisions>
+    <decisions>
+        <description>Checks if the primary relationship type is individual.</description>
+        <name>Is_Primary_Relationship_Type_Individual</name>
+        <label>Is Primary Relationship Type Individual?</label>
+        <locationX>176</locationX>
+        <locationY>350</locationY>
+        <defaultConnector>
+            <targetReference>Does_Loan_Detail_Exist</targetReference>
+        </defaultConnector>
+        <defaultConnectorLabel>Is Not Individual</defaultConnectorLabel>
+        <rules>
+            <name>Is_Individual</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>Get_Loan.LLC_BI__Account__r.Type</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>Individual</stringValue>
+                </rightValue>
+            </conditions>
+            <label>Is Individual</label>
+        </rules>
+    </decisions>
+    <description>This flow sets the field LLC_BI__Loan_Compliance__c.LLC_BI__DF1071_Reportable__c to determine if a loan is DF1071 reportable.</description>
+    <environments>Default</environments>
+    <interviewLabel>DF1071 - DF1071 Reportable Decision {!$Flow.CurrentDateTime}</interviewLabel>
+    <isTemplate>true</isTemplate>
+    <label>DF1071 - DF1071 Reportable Decision</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>CanvasMode</name>
+        <value>
+            <stringValue>AUTO_LAYOUT_CANVAS</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>AutoLaunchedFlow</processType>
+    <recordCreates>
+        <description>Creates new loan detail in LLC_BI__Loan__c with value of current Record ID.</description>
+        <name>Create_Loan_Detail</name>
+        <label>Create Loan Detail</label>
+        <locationX>242</locationX>
+        <locationY>566</locationY>
+        <assignRecordIdToReference>loanDetail.Id</assignRecordIdToReference>
+        <connector>
+            <targetReference>Is_Loan_DF1071_Reportable</targetReference>
+        </connector>
+        <inputAssignments>
+            <field>LLC_BI__Loan__c</field>
+            <value>
+                <elementReference>loanId</elementReference>
+            </value>
+        </inputAssignments>
+        <object>LLC_BI__Loan_Detail__c</object>
+    </recordCreates>
+    <recordLookups>
+        <description>Query to find necessary loan fields for Is DF1071 Reportable decision.</description>
+        <name>Get_Loan</name>
+        <label>Get Loan</label>
+        <locationX>176</locationX>
+        <locationY>242</locationY>
+        <assignNullValuesIfNoRecordsFound>false</assignNullValuesIfNoRecordsFound>
+        <connector>
+            <targetReference>Is_Primary_Relationship_Type_Individual</targetReference>
+        </connector>
+        <filterLogic>and</filterLogic>
+        <filters>
+            <field>Id</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>loanId</elementReference>
+            </value>
+        </filters>
+        <getFirstRecordOnly>true</getFirstRecordOnly>
+        <object>LLC_BI__Loan__c</object>
+        <queriedFields>Id</queriedFields>
+        <queriedFields>LLC_BI__Account__c</queriedFields>
+        <queriedFields>LLC_BI__isRenewal__c</queriedFields>
+        <queriedFields>LLC_BI__Is_Modification__c</queriedFields>
+        <queriedFields>LLC_BI__HMDA_Reportable__c</queriedFields>
+        <storeOutputAutomatically>true</storeOutputAutomatically>
+    </recordLookups>
+    <recordLookups>
+        <description>Query to see if loan detail is associated with loanId.</description>
+        <name>Get_Loan_Detail</name>
+        <label>Get Loan Detail</label>
+        <locationX>176</locationX>
+        <locationY>134</locationY>
+        <assignNullValuesIfNoRecordsFound>false</assignNullValuesIfNoRecordsFound>
+        <connector>
+            <targetReference>Get_Loan</targetReference>
+        </connector>
+        <filterLogic>and</filterLogic>
+        <filters>
+            <field>LLC_BI__Loan__c</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>loanId</elementReference>
+            </value>
+        </filters>
+        <object>LLC_BI__Loan_Detail__c</object>
+        <outputReference>loanDetail</outputReference>
+        <queriedFields>Id</queriedFields>
+        <queriedFields>LLC_BI__Loan__c</queriedFields>
+        <queriedFields>LLC_BI__DF1071_Reportable__c</queriedFields>
+    </recordLookups>
+    <recordUpdates>
+        <description>Updates LLC_BI__DF1071_Reportable__c field.</description>
+        <name>Update_Loan_Detail</name>
+        <label>Update Loan Detail</label>
+        <locationX>374</locationX>
+        <locationY>1058</locationY>
+        <inputReference>loanDetail</inputReference>
+    </recordUpdates>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Get_Loan_Detail</targetReference>
+        </connector>
+    </start>
+    <status>Draft</status>
+    <variables>
+        <name>loanDetail</name>
+        <dataType>SObject</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+        <objectType>LLC_BI__Loan_Detail__c</objectType>
+    </variables>
+    <variables>
+        <name>loanId</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>

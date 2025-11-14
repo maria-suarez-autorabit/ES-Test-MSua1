@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Source Rent Roll --></label>
+    <name>LLC_BI__Source_Rent_Roll__c</name>
+    <relationshipLabel><!-- Cloned Rent Rolls --></relationshipLabel>
+</CustomFieldTranslation>

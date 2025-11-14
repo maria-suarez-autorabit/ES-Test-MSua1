@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>
+        <!-- This field is utilized for trigger approval process actions that add loan team members
+            to the loan for the user to view. Loan Team Members are populated from queues and users
+            chosen to approve items. -->
+    </help>
+    <label><!-- ApprovalTriggerField --></label>
+    <name>LLC_BI__Is_Approved__c</name>
+</CustomFieldTranslation>

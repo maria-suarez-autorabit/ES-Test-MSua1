@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__HMDA_Reported_Gross_Annual_Income__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional formula field to indicate the gross annual income used to make the credit decision for a HMDA reportable loan. The system queries the Gross Annual Income field on Loan Compliance and rounds the value to the nearest thousand dollar amount. If Gross Annual Income is blank, the system populates this field with a value of NA.</description>
+    <externalId>false</externalId>
+    <formula>IF(NOT(ISBLANK(LLC_BI__HMDA_Gross_Annual_Income__c)),TEXT(ROUND(LLC_BI__HMDA_Gross_Annual_Income__c, - 3)/1000) ,&apos;NA&apos;)</formula>
+    <inlineHelpText>This system-populated formula field indicates the gross annual income, rounded to the nearest thousand dollars, used to make the credit decision for HMDA reportable loans.</inlineHelpText>
+    <label>Reported Gross Annual Income</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

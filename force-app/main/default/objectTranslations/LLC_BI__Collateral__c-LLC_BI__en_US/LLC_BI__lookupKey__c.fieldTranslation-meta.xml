@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field must entered once the Collateral is created in the Core.  This field allows the Collateral to be updated in the nightly sync from the Core automatically. --></help>
+    <label><!-- lookupKey --></label>
+    <name>LLC_BI__lookupKey__c</name>
+</CustomFieldTranslation>

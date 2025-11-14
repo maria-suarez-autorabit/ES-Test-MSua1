@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Lead Layout</layout>
+        <sections>
+            <label><!-- Product Selection --></label>
+            <section>Product Selection</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- Select for a New Loan Opportunity --></description>
+        <label><!-- Loan --></label>
+        <name>LLC_BI__Loan</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Select for a New Treasury Management Opportunity --></description>
+        <label><!-- Treasury Management --></label>
+        <name>LLC_BI__Treasury_Management</name>
+    </recordTypes>
+    <webLinks>
+        <label><!-- AltavistaNews --></label>
+        <name>AltavistaNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Convert_to_Product_Package --></label>
+        <name>Convert_to_Product_Package</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Convert_to_nCino --></label>
+        <name>Convert_to_nCino</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- HooversProfile --></label>
+        <name>HooversProfile</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Convert --></label>
+        <name>LLC_BI__Convert</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Convert_to_Product_Package --></label>
+        <name>LLC_BI__Convert_to_Product_Package</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- SendGmail --></label>
+        <name>SendGmail</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- YahooMaps --></label>
+        <name>YahooMaps</name>
+    </webLinks>
+</CustomObjectTranslation>

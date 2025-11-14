@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This is a System Generated field from the Value field on the Collateral object. Do not modify. --></help>
+    <label><!-- Collateral Value --></label>
+    <name>LLC_BI__Collateral_Value__c</name>
+</CustomFieldTranslation>

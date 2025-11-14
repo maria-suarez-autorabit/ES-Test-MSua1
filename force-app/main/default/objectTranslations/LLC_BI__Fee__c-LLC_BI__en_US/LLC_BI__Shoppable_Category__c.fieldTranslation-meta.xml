@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select Cannot Shop Service if your customer cannot shop for this service. Select Shoppable Service if your customer can shop for this service. --></help>
+    <label><!-- -D Shoppable Category --></label>
+    <name>LLC_BI__Shoppable_Category__c</name>
+    <picklistValues>
+        <masterLabel>Service You Can Shop For</masterLabel>
+        <translation><!-- Service You Can Shop For --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Service You Cannot Shop For</masterLabel>
+        <translation><!-- Service You Cannot Shop For --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

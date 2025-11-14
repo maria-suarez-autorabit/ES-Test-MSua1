@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The value of the third lien position. This field is populated by the system. --></help>
+    <label><!-- Third Lien Position Value --></label>
+    <name>LLC_BI__Third_Lien_Position_Value__c</name>
+</CustomFieldTranslation>

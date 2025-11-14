@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Requirement_Template__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional lookup field to reference an associated Requirement Template so that Covenant Compliances can generate an associated Requirement.</description>
+    <inlineHelpText>Populate this field with the Requirement Template needed to generate an associated Requirement. The template generates the Requirement, and links it to a Covenant Compliance created by the system.</inlineHelpText>
+    <label>Requirement Template Lookup</label>
+    <lookupFilter>
+        <active>true</active>
+        <filterItems>
+            <field>LLC_BI__Requirement__c.LLC_BI__Is_Template__c</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </filterItems>
+        <isOptional>false</isOptional>
+    </lookupFilter>
+    <referenceTo>LLC_BI__Requirement__c</referenceTo>
+    <relationshipLabel>Covenant Types</relationshipLabel>
+    <relationshipName>Covenant_Types</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

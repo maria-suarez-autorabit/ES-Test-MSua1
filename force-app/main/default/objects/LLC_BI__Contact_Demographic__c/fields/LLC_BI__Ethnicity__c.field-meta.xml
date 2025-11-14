@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Ethnicity__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional multi-select picklist field to indicate the applicant’s ethnicity. By default, it is empty.</description>
+    <inlineHelpText>Select value(s) to indicate the applicant’s ethnicity.</inlineHelpText>
+    <label>Ethnicity</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Hispanic or Latino</fullName>
+                <default>false</default>
+                <label>Hispanic or Latino</label>
+            </value>
+            <value>
+                <fullName>Cuban</fullName>
+                <default>false</default>
+                <label>Cuban</label>
+            </value>
+            <value>
+                <fullName>Mexican</fullName>
+                <default>false</default>
+                <label>Mexican</label>
+            </value>
+            <value>
+                <fullName>Puerto Rican</fullName>
+                <default>false</default>
+                <label>Puerto Rican</label>
+            </value>
+            <value>
+                <fullName>Other Hispanic or Latino Ethnicity</fullName>
+                <default>false</default>
+                <label>Other Hispanic or Latino Ethnicity</label>
+            </value>
+            <value>
+                <fullName>Not Hispanic or Latino</fullName>
+                <default>false</default>
+                <label>Not Hispanic or Latino</label>
+            </value>
+            <value>
+                <fullName>Prefer not to answer</fullName>
+                <default>false</default>
+                <label>Prefer not to answer</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>7</visibleLines>
+</CustomField>

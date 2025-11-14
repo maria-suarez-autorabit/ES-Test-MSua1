@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is used to relate Financial Indicator covenants to Financial Statement Requirements covenants.  When a Financial Statement Requirement covenant goes into exception all of its related FI covenants are also set to Exception. --></help>
+    <label><!-- Related Covenant --></label>
+    <name>LLC_BI__Related_Covenant__c</name>
+    <relationshipLabel><!-- Covenant Mgmt --></relationshipLabel>
+</CustomFieldTranslation>

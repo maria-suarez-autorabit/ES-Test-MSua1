@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Document Placeholder</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Document Placeholders</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Add New Fields --></label>
+        <name>NDOC__Add_New_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Add New Fields --></label>
+        <name>NDOC__DocMan_Add_New_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral DocMan Columns --></label>
+        <name>NDOC__DocMan_Collateral_Columns</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit DocMan Columns --></label>
+        <name>NDOC__DocMan_Deposit_Columns</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- DocMan Fields --></label>
+        <name>NDOC__DocMan_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Generic DocMan Columns --></label>
+        <name>NDOC__DocMan_Generic_Columns</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package DocMan Columns --></label>
+        <name>NDOC__DocMan_Product_Package_Columns</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Treasury DocMan Columns --></label>
+        <name>NDOC__DocMan_Treasury_Columns</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Document Placeholder Bulk Update Fields --></label>
+        <name>NDOC__Document_Placeholder_Bulk_Update_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Document Placeholder Bulk Update Summary --></label>
+        <name>NDOC__Document_Placeholder_Bulk_Update_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- TEST_DOC_PLACEHOLDER_ADDITIONAL_FIELDS --></label>
+        <name>NDOC__TEST_DOC_PLACEHOLDER_ADDITIONAL_FIELDS</name>
+    </fieldSets>
+    <layouts>
+        <layout>Document Placeholder Layout</layout>
+        <sections>
+            <label><!-- Customer Portal Information --></label>
+            <section>Customer Portal Information</section>
+        </sections>
+        <sections>
+            <label><!-- Document Status Information --></label>
+            <section>Document Status Information</section>
+        </sections>
+        <sections>
+            <label><!-- Permissions --></label>
+            <section>Permissions</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

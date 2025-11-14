@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Scenario Item</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Scenario Items</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- TM Proforma Quantity Pricing --></label>
+        <name>LLC_BI__TM_Proforma_Quantity_Pricing</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- TM Proforma Total Quantity Pricing --></label>
+        <name>LLC_BI__TM_Proforma_Total_Quantity_Pricing</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

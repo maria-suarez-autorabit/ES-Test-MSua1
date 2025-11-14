@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Stage --></label>
+    <name>LLC_BI__Stage__c</name>
+    <picklistValues>
+        <masterLabel>Approval / Loan Committee</masterLabel>
+        <translation><!-- Approval / Loan Committee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Boarding</masterLabel>
+        <translation><!-- Boarding --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Booked</masterLabel>
+        <translation><!-- Booked --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closing</masterLabel>
+        <translation><!-- Closing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Complete</masterLabel>
+        <translation><!-- Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Underwriting</masterLabel>
+        <translation><!-- Credit Underwriting --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Doc Prep</masterLabel>
+        <translation><!-- Doc Prep --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Final Review</masterLabel>
+        <translation><!-- Final Review --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Processing</masterLabel>
+        <translation><!-- Processing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Proposal</masterLabel>
+        <translation><!-- Proposal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Qualification</masterLabel>
+        <translation><!-- Qualification --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Debt</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Debts</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Add Debt --></label>
+        <name>LLC_BI__Add_Debt</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Add Debt Account --></label>
+        <name>LLC_BI__Add_Debt_Account</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Add Debt Product Package --></label>
+        <name>LLC_BI__Add_Debt_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Debt Schedule --></label>
+        <name>LLC_BI__Debt_Schedule</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Spreads Debt Schedule Grid --></label>
+        <name>LLC_BI__Spreads_Debt_Schedule_Grid</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Spreads Debt Schedule Modal --></label>
+        <name>LLC_BI__Spreads_Debt_Schedule_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Total Exposure Expand Debt Product Package --></label>
+        <name>LLC_BI__TE_Expand_Debt_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Total Exposure Expand Debt Relationship --></label>
+        <name>LLC_BI__TE_Expand_Debt_Relationship</name>
+    </fieldSets>
+    <layouts>
+        <layout>Debt Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

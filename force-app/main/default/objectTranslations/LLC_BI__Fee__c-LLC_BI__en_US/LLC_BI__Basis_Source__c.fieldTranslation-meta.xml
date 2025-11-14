@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the basis for percentage fees, such as loan amount, total interest, or another loan field. --></help>
+    <label><!-- Basis Source --></label>
+    <name>LLC_BI__Basis_Source__c</name>
+    <picklistValues>
+        <masterLabel>Loan Amount</masterLabel>
+        <translation><!-- Loan Amount --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

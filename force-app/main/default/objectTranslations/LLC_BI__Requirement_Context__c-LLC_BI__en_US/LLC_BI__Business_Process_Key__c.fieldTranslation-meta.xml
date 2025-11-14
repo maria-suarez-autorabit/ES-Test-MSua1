@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field uses a unique key that identifies a business process for a specific domain or feature. --></help>
+    <label><!-- Business Process Key --></label>
+    <name>LLC_BI__Business_Process_Key__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A description of any vault keys that have been issued for the safe deposit box. --></help>
+    <label><!-- Vault Key Description --></label>
+    <name>LLC_BI__Vault_Key_Description__c</name>
+</CustomFieldTranslation>

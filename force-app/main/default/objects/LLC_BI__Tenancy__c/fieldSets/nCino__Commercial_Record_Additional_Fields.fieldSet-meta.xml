@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nCino__Commercial_Record_Additional_Fields</fullName>
+    <description>This field set displays additional fields on the commercial record form.</description>
+    <label>Tenancy Management Commercial Additional Fields</label>
+</FieldSet>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Modification Type --></label>
+    <name>LLC_BI__Modification_Type__c</name>
+    <picklistValues>
+        <masterLabel>Correct Existing Note</masterLabel>
+        <translation><!-- Correct Existing Note --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Extend Amortization</masterLabel>
+        <translation><!-- Extend Amortization --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Increase Loan Amount</masterLabel>
+        <translation><!-- Increase Loan Amount --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Interest Only</masterLabel>
+        <translation><!-- Interest Only --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Interest Rate Reduction</masterLabel>
+        <translation><!-- Interest Rate Reduction --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Payment Deferral</masterLabel>
+        <translation><!-- Payment Deferral --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reduce Loan Amount</masterLabel>
+        <translation><!-- Reduce Loan Amount --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

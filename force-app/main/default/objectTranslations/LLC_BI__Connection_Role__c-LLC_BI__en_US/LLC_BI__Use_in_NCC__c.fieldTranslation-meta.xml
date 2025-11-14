@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Allow the connection role to be selected in NCC. --></help>
+    <label><!-- Use in NCC --></label>
+    <name>LLC_BI__Use_in_NCC__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- When the user selects a product type, the system redirects them to the app or route name entered here. --></help>
+    <label><!-- Start Product Application --></label>
+    <name>LLC_BI__Start_Production_Application__c</name>
+</CustomFieldTranslation>

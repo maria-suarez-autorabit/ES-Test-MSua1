@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This indicates the type of activity that will be performed for the plan. --></help>
+    <label><!-- TFA Activity Type --></label>
+    <name>LLC_BI__TFA_Activity_Type__c</name>
+    <picklistValues>
+        <masterLabel>Manage or maintain an existing plan</masterLabel>
+        <translation><!-- Manage or maintain an existing plan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Open a new plan</masterLabel>
+        <translation><!-- Open a new plan --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

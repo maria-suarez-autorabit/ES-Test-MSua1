@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true the election of payment type selected is the default election that was made after the election deadline has passed. --></help>
+    <label><!-- Election of Payment Default Indicator --></label>
+    <name>LLC_BI__Election_Of_Payment_Default_Indicator__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field automatically displays the document exception date and time. --></help>
+    <label><!-- Exception Date Time --></label>
+    <name>LLC_BI__Exception_Date_Time__c</name>
+</CustomFieldTranslation>

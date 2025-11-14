@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nFORCE__Log_Provider__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional text field with the fully qualified Class Name for the ALogProvider extending class. The Log_Provider__c field in the Business_Process__c custom object will take precendence over this value.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter the fully-qualified class name for the ALogProvider extending class.</inlineHelpText>
+    <label>Log Provider</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

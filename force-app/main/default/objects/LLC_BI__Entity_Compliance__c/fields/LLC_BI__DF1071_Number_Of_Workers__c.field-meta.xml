@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_Number_Of_Workers__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional picklist field to indicate the range of non-owner workers for the applicant or business. By default, it is empty.</description>
+    <inlineHelpText>Select a value to indicate the range of non-owner workers for the applicant or business.</inlineHelpText>
+    <label>Number of Workers</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>false</default>
+                <label>1 - Firms with no workers</label>
+            </value>
+            <value>
+                <fullName>2</fullName>
+                <default>false</default>
+                <label>2 - Firms with 1 to 4 workers</label>
+            </value>
+            <value>
+                <fullName>3</fullName>
+                <default>false</default>
+                <label>3 - Firms with 5 to 9 workers</label>
+            </value>
+            <value>
+                <fullName>4</fullName>
+                <default>false</default>
+                <label>4 - Firms with 10 to 19 workers</label>
+            </value>
+            <value>
+                <fullName>5</fullName>
+                <default>false</default>
+                <label>5 - Firms with 20 to 49 workers</label>
+            </value>
+            <value>
+                <fullName>6</fullName>
+                <default>false</default>
+                <label>6 - Firms with 50 to 99 workers</label>
+            </value>
+            <value>
+                <fullName>7</fullName>
+                <default>false</default>
+                <label>7 - Firms with 100 to 249 workers</label>
+            </value>
+            <value>
+                <fullName>8</fullName>
+                <default>false</default>
+                <label>8 - Firms with 250 to 499 workers</label>
+            </value>
+            <value>
+                <fullName>9</fullName>
+                <default>false</default>
+                <label>9 - Firms with 500 workers or more</label>
+            </value>
+            <value>
+                <fullName>988</fullName>
+                <default>false</default>
+                <label>988 - Not provided by applicant and otherwise undetermined</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

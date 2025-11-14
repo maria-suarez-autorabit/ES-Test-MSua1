@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field associates the authorized business to a specific ownership structure role. --></help>
+    <label><!-- Ownership Structure Role --></label>
+    <name>LLC_BI__Ownership_Structure_Role__c</name>
+    <relationshipLabel><!-- Authorized Accounts --></relationshipLabel>
+</CustomFieldTranslation>

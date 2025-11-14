@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate whether the business is minority-owned, women-owned, and/or LGBTQI+ owned. --></help>
+    <label><!-- Business Ownership Status --></label>
+    <name>LLC_BI__DF1071_Business_Ownership_Status__c</name>
+    <picklistValues>
+        <masterLabel>1 - Minority-owned business</masterLabel>
+        <translation><!-- 1 - Minority-owned business --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Women-owned business</masterLabel>
+        <translation><!-- 2 - Women-owned business --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - LGBTQI+-owned business</masterLabel>
+        <translation><!-- 3 - LGBTQI+-owned business --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>955 - None of these apply</masterLabel>
+        <translation><!-- 955 - None of these apply --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>966 - The applicant responded that they did not wish to provide this information</masterLabel>
+        <translation><!-- 966 - The applicant responded that they did not wish to provide this information --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided by applicant</masterLabel>
+        <translation><!-- 988 - Not provided by applicant --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

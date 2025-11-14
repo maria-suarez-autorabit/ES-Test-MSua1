@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>
+        <!-- Enter the group portion of the requested app.
+
+E.g. If the requested app is &apos;loan.change-product&apos;, then the group portion is &apos;loan&apos;. -->
+    </help>
+    <label><!-- App --></label>
+    <name>nFORCE__App__c</name>
+</CustomFieldTranslation>

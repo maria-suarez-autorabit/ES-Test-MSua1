@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Pricing_Option__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this lookup field with the Pricing Option record. By default, this field is blank.</description>
+    <inlineHelpText>This system-populated field displays the unique identifier for the Pricing Option record.</inlineHelpText>
+    <label>Pricing Option</label>
+    <referenceTo>LLC_BI__Pricing_Option__c</referenceTo>
+    <relationshipLabel>Projected Draw Schedules</relationshipLabel>
+    <relationshipName>Projected_Draw_Schedules</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

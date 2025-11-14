@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Status --></label>
+    <name>LLC_BI__Status__c</name>
+    <picklistValues>
+        <masterLabel>Compliant</masterLabel>
+        <translation><!-- Compliant --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exception</masterLabel>
+        <translation><!-- Exception --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New</masterLabel>
+        <translation><!-- New --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Waived</masterLabel>
+        <translation><!-- Waived --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

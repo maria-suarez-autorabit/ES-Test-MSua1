@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system automatically populates this optional picklist field based on the template’s created route that indicates the template’s use. By default, the field value is Projection. --></help>
+    <label><!-- Purpose --></label>
+    <name>LLC_BI__Purpose__c</name>
+    <picklistValues>
+        <masterLabel>Average</masterLabel>
+        <translation><!-- Average --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Projection</masterLabel>
+        <translation><!-- Projection --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

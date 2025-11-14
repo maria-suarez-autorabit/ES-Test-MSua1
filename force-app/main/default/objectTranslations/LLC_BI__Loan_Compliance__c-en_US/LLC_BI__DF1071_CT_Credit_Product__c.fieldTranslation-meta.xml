@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate the credit product of the loan. --></help>
+    <label><!-- Credit Type - Credit Product --></label>
+    <name>LLC_BI__DF1071_CT_Credit_Product__c</name>
+    <picklistValues>
+        <masterLabel>1 - Term loan - unsecured</masterLabel>
+        <translation><!-- 1 - Term loan - unsecured --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Term loan - secured</masterLabel>
+        <translation><!-- 2 - Term loan - secured --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - Line of credit - unsecured</masterLabel>
+        <translation><!-- 3 - Line of credit - unsecured --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>4 - Line of credit - secured</masterLabel>
+        <translation><!-- 4 - Line of credit - secured --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>5 - Credit card account, not private-label</masterLabel>
+        <translation><!-- 5 - Credit card account, not private-label --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>6 - Private-label credit card account</masterLabel>
+        <translation><!-- 6 - Private-label credit card account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>7 - Merchant cash advance</masterLabel>
+        <translation><!-- 7 - Merchant cash advance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>8 - Other sales-based financing transaction</masterLabel>
+        <translation><!-- 8 - Other sales-based financing transaction --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>977 - Other</masterLabel>
+        <translation><!-- 977 - Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided</masterLabel>
+        <translation><!-- 988 - Not provided --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

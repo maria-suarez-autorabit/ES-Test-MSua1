@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use this text field to store the JSON data that determines the branding style. --></help>
+    <label><!-- Brand JSON --></label>
+    <name>nFORCE__Brand_JSON__c</name>
+</CustomFieldTranslation>

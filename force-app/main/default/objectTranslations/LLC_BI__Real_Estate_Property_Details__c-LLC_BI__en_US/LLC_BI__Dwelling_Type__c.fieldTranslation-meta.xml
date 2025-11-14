@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the property’s dwelling type from the picklist. --></help>
+    <label><!-- Dwelling Type --></label>
+    <name>LLC_BI__Dwelling_Type__c</name>
+    <picklistValues>
+        <masterLabel>Above Shop/Commercial</masterLabel>
+        <translation><!-- Above Shop/Commercial --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Conversion</masterLabel>
+        <translation><!-- Conversion --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Detached</masterLabel>
+        <translation><!-- Detached --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Duplex</masterLabel>
+        <translation><!-- Duplex --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>High Rise Multiple Units</masterLabel>
+        <translation><!-- High Rise Multiple Units --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Low Rise Multiple Units</masterLabel>
+        <translation><!-- Low Rise Multiple Units --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Purpose Built</masterLabel>
+        <translation><!-- Purpose Built --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Semi Detached</masterLabel>
+        <translation><!-- Semi Detached --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Single Family Detached Four Square</masterLabel>
+        <translation><!-- Single Family Detached Four Square --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Single Family Detached Ranch</masterLabel>
+        <translation><!-- Single Family Detached Ranch --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Single Family Detached Row Home</masterLabel>
+        <translation><!-- Single Family Detached Row Home --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Studio</masterLabel>
+        <translation><!-- Studio --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Terraced</masterLabel>
+        <translation><!-- Terraced --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

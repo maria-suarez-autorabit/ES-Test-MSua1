@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the type of distribution for a Coverdell Education Savings Account (CESA). --></help>
+    <label><!-- CESA Distribution Type --></label>
+    <name>LLC_BI__CESA_Distribution_Type__c</name>
+    <picklistValues>
+        <masterLabel>Correction of Excess Contribution after May 31 of the tax year after excess contribution</masterLabel>
+        <translation><!-- Correction of Excess Contribution after May 31 of the tax year after excess contribution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Correction of Excess Contribution in same year as excess contribution</masterLabel>
+        <translation><!-- Correction of Excess Contribution in same year as excess contribution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Correction of Excess Contribution in year after excess contribution but by May 31</masterLabel>
+        <translation><!-- Correction of Excess Contribution in year after excess contribution but by May 31 --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Death</masterLabel>
+        <translation><!-- Death --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Disability</masterLabel>
+        <translation><!-- Disability --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Distributions - Non Transfer</masterLabel>
+        <translation><!-- Distributions - Non Transfer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Distributions - Transfer to CESA of new qualified designated beneficiary</masterLabel>
+        <translation><!-- Distributions - Transfer to CESA of new qualified designated beneficiary --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Distributions - Transfer to CESA of same Designated Beneficiary</masterLabel>
+        <translation><!-- Distributions - Transfer to CESA of same Designated Beneficiary --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Distributions - Transfer to former spouse&apos;s CESA due to divorce or legal separation</masterLabel>
+        <translation><!-- Distributions - Transfer to former spouse&apos;s CESA due to divorce or legal separation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prohibited Transaction</masterLabel>
+        <translation><!-- Prohibited Transaction --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

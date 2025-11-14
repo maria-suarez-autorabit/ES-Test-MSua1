@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The value comes from the Current LTV at the time the loan hits booked. This value is populated by the system. --></help>
+    <label><!-- Original LTV --></label>
+    <name>LLC_BI__Original_LTV__c</name>
+</CustomFieldTranslation>

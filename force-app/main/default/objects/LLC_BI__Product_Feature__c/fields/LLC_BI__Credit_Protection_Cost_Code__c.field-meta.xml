@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Credit_Protection_Cost_Code__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this field to indicate the level of coverage or pricing for Credit Protection products. By default, it is blank.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This field displays the level of coverage or pricing of the selected insurance.</inlineHelpText>
+    <label>Credit Protection Cost Code</label>
+    <length>80</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Risk Rating Review</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Risk Rating Review</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Commercial Credit Memo --></label>
+        <name>LLC_BI__Commercial_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Risk Rating --></label>
+        <name>LLC_BI__UI_Risk_Rating</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Risk Rating --></label>
+        <name>UI_Risk_Rating</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Risk Rating Review --></label>
+        <name>UI_Risk_Rating_Review</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Risk Rating Reviews --></label>
+        <name>UI_Risk_Rating_Reviews</name>
+    </fieldSets>
+    <layouts>
+        <layout>Annual Review Layout</layout>
+        <sections>
+            <label><!-- Risk Rating Worksheet --></label>
+            <section>Risk Rating Worksheet</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please add a comment before overriding the computed risk grade value. --></errorMessage>
+        <name>LLC_BI__Mandatory_comment</name>
+    </validationRules>
+</CustomObjectTranslation>

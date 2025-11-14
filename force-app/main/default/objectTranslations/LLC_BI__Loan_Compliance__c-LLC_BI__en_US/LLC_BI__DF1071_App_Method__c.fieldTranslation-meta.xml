@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to describe which method the applicant uses to submit the application. --></help>
+    <label><!-- Application Method --></label>
+    <name>LLC_BI__DF1071_App_Method__c</name>
+    <picklistValues>
+        <masterLabel>1 - In-person</masterLabel>
+        <translation><!-- 1 - In-person --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Telephone</masterLabel>
+        <translation><!-- 2 - Telephone --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - Online</masterLabel>
+        <translation><!-- 3 - Online --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>4 - Mail</masterLabel>
+        <translation><!-- 4 - Mail --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

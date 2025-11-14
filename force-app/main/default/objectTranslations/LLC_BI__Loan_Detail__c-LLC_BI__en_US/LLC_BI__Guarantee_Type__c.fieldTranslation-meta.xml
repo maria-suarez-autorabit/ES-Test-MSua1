@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the guarantee type(s) that apply to the loan. --></help>
+    <label><!-- Guarantee Type --></label>
+    <name>LLC_BI__Guarantee_Type__c</name>
+    <picklistValues>
+        <masterLabel>Bureau of Indian Affairs guarantee</masterLabel>
+        <translation><!-- Bureau of Indian Affairs guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>FHA insurance</masterLabel>
+        <translation><!-- FHA insurance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Local government guarantee</masterLabel>
+        <translation><!-- Local government guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>No guarantee</masterLabel>
+        <translation><!-- No guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Federal guarantee</masterLabel>
+        <translation><!-- Other Federal guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Personal guarantee - non-owner(s)</masterLabel>
+        <translation><!-- Personal guarantee - non-owner(s) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Personal guarantee - owner(s)</masterLabel>
+        <translation><!-- Personal guarantee - owner(s) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SBA guarantee - 504 program</masterLabel>
+        <translation><!-- SBA guarantee - 504 program --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SBA guarantee - 7(a) program</masterLabel>
+        <translation><!-- SBA guarantee - 7(a) program --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SBA guarantee - other</masterLabel>
+        <translation><!-- SBA guarantee - other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>State government guarantee</masterLabel>
+        <translation><!-- State government guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>USDA guarantee</masterLabel>
+        <translation><!-- USDA guarantee --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

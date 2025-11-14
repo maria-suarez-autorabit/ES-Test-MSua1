@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A text field used for grouping. --></help>
+    <label><!-- Text 18 --></label>
+    <name>nFORCE__Text_18__c</name>
+</CustomFieldTranslation>

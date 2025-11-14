@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The percentage that is added to (or subtracted from) the index to determine the applicable rate for a given account tier with variable rate tiers. --></help>
+    <label><!-- Tiered Margin Percent --></label>
+    <name>LLC_BI__Tiered_Margin_Percent__c</name>
+</CustomFieldTranslation>

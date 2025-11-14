@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Semicolon delimited list of roles that are allowed to view the document. If blank all roles can view the document. --></help>
+    <label><!-- Viewer Roles --></label>
+    <name>LLC_BI__Viewer_Roles__c</name>
+</CustomFieldTranslation>

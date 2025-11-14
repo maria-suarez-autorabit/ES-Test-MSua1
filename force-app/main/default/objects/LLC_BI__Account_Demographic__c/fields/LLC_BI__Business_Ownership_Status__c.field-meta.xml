@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Business_Ownership_Status__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional multi-select picklist field to indicate the business ownership status. By default, it is empty.</description>
+    <inlineHelpText>Select value(s) to indicate the business ownership status.</inlineHelpText>
+    <label>Business Ownership Status</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Minority-owned business</fullName>
+                <default>false</default>
+                <label>Minority-owned business</label>
+            </value>
+            <value>
+                <fullName>Women-owned business</fullName>
+                <default>false</default>
+                <label>Women-owned business</label>
+            </value>
+            <value>
+                <fullName>LGBTQI+-owned business</fullName>
+                <default>false</default>
+                <label>LGBTQI+-owned business</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+            <value>
+                <fullName>Prefer not to answer</fullName>
+                <default>false</default>
+                <label>Prefer not to answer</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>5</visibleLines>
+</CustomField>

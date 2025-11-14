@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Dependent Structures --></label>
+    <name>LLC_BI__Dependent_Structures__c</name>
+    <picklistValues>
+        <masterLabel>ELOC</masterLabel>
+        <translation><!-- ELOC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Letter of Credit</masterLabel>
+        <translation><!-- Letter of Credit --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Multi Level Future</masterLabel>
+        <translation><!-- Multi Level Future --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Regular Future</masterLabel>
+        <translation><!-- Regular Future --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Term Loan/Current</masterLabel>
+        <translation><!-- Term Loan/Current --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Loan</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Loans</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Loan --></label>
+        <name>Credit_Memo_Standard_Loan</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Loan --></label>
+        <name>Credit_Memo_Standard_Loan_Exp</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review --></label>
+        <name>Credit_Memo_Standard_Review</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Account --></label>
+        <name>Credit_Memo_Standard_Review_Account</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Product Package --></label>
+        <name>Credit_Memo_Standard_Review_Product_Pack</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Fields To Not Clone Modification --></label>
+        <name>Fields_To_Not_Clone_Modification</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Fields To Not Clone Renewal --></label>
+        <name>Fields_To_Not_Clone_Renewal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Affiliated Detail --></label>
+        <name>LLC_BI__Affiliated_Detail</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Balance Information --></label>
+        <name>LLC_BI__Balance_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Booked Information --></label>
+        <name>LLC_BI__Booked_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CRA Action Taken --></label>
+        <name>LLC_BI__CRA_Action_Taken</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CRA Loan Information --></label>
+        <name>LLC_BI__CRA_Loan_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CRA Other --></label>
+        <name>LLC_BI__CRA_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CRA Property Location --></label>
+        <name>LLC_BI__CRA_Property_Location</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Summary --></label>
+        <name>LLC_BI__Collateral_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Construction --></label>
+        <name>LLC_BI__Construction</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deal Management Loan Tree Grid --></label>
+        <name>LLC_BI__Deal_Management_Loan_Tree_Grid</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Fields To Clone --></label>
+        <name>LLC_BI__Fields_To_Clone</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- HMDA Action Taken --></label>
+        <name>LLC_BI__HMDA_Action_Taken</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- HMDA Application/Loan Information --></label>
+        <name>LLC_BI__HMDA_Application_Loan_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- HMDA Loan Lifecycle --></label>
+        <name>LLC_BI__HMDA_Loan_Lifecycle</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- HMDA Property Location --></label>
+        <name>LLC_BI__HMDA_Property_Location</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Key Dates --></label>
+        <name>LLC_BI__Key_Dates</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Auto-Decision Overview --></label>
+        <name>LLC_BI__Loan_Auto_Decision_Overview</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Collateral Summary --></label>
+        <name>LLC_BI__Loan_Collateral_Summary_SS</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Facility Creation Additional Fields --></label>
+        <name>LLC_BI__Loan_Facility_Creation_Additional_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Information --></label>
+        <name>LLC_BI__Loan_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Pricing Information --></label>
+        <name>LLC_BI__Loan_Pricing_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Dashboard Summary --></label>
+        <name>LLC_BI__Loan_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Manage Loan Facilities --></label>
+        <name>LLC_BI__Manage_Loan_Facilities</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- MemoCategoryAmount --></label>
+        <name>LLC_BI__MemoCategoryAmount</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- MemoCategoryInformation --></label>
+        <name>LLC_BI__MemoCategoryInformation</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- MemoCategoryMaturityDate --></label>
+        <name>LLC_BI__MemoCategoryMaturityDate</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- MemoCategoryPostClosingItems --></label>
+        <name>LLC_BI__MemoCategoryPostClosingItems</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- MemoCategoryRate --></label>
+        <name>LLC_BI__MemoCategoryRate</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- MemoCategoryTerms --></label>
+        <name>LLC_BI__MemoCategoryTerms</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Participation Details --></label>
+        <name>LLC_BI__Participation_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Loan Summary --></label>
+        <name>LLC_BI__Pricing_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Action --></label>
+        <name>LLC_BI__Product_Package_Credit_Action</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Pending Actions --></label>
+        <name>LLC_BI__Product_Package_Facilities</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Facilities Active --></label>
+        <name>LLC_BI__Product_Package_Facilities_Active</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Facilities Inactive --></label>
+        <name>LLC_BI__Product_Package_Facilities_Inactive</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Facilities Non Pending --></label>
+        <name>LLC_BI__Product_Package_Facilities_Non_Pending</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Pending Actions --></label>
+        <name>LLC_BI__Product_Package_Pending_Actions</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Referral Information --></label>
+        <name>LLC_BI__Referral_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- ReviewDisplay --></label>
+        <name>LLC_BI__ReviewDisplay</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- SBA --></label>
+        <name>LLC_BI__SBA_Loan_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>LLC_BI__Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>LLC_BI__Standard_Product_Package_Credit_Memo_Exp</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Third Parties --></label>
+        <name>LLC_BI__Third_Parties</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Asset Summary --></label>
+        <name>LLC_BI__UI_Asset_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Balance Information --></label>
+        <name>LLC_BI__UI_Balance_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Booked Information --></label>
+        <name>LLC_BI__UI_Booked_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Budget Details --></label>
+        <name>LLC_BI__UI_Budget_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI CRA Action Taken --></label>
+        <name>LLC_BI__UI_CRA_Action_Taken</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI CRA Loan Information --></label>
+        <name>LLC_BI__UI_CRA_Loan_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI CRA Other --></label>
+        <name>LLC_BI__UI_CRA_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI CRA Property Location --></label>
+        <name>LLC_BI__UI_CRA_Property_Location</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Collateral Summary --></label>
+        <name>LLC_BI__UI_Collateral_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Fees Summary --></label>
+        <name>LLC_BI__UI_Fees_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI HMDA Action Taken --></label>
+        <name>LLC_BI__UI_HMDA_Action_Taken</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI HMDA Application/Loan Information --></label>
+        <name>LLC_BI__UI_HMDA_Application_Loan_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI HMDA Loan Lifecycle --></label>
+        <name>LLC_BI__UI_HMDA_Loan_Lifecycle</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI HMDA Property Location --></label>
+        <name>LLC_BI__UI_HMDA_Property_Location</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Information --></label>
+        <name>LLC_BI__UI_Loan_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Pricing Information --></label>
+        <name>LLC_BI__UI_Loan_Pricing_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Dashboard Summary --></label>
+        <name>LLC_BI__UI_Loan_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Lookup Fields --></label>
+        <name>LLC_BI__UI_Lookup_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Referral Information --></label>
+        <name>LLC_BI__UI_Referral_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- MemoCategoryLoanInformation --></label>
+        <name>MemoCategoryLoanInformation</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- PricingReadOnly --></label>
+        <name>PricingReadOnly</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- RequiredLoanFieldsToCreateRateOrPayment --></label>
+        <name>RequiredLoanFieldsToCreateRateOrPayment</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>Standard_Product_Package_Credit_Memo_Exp</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Approval Fields --></label>
+        <name>UI_Approval_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Attorney Info --></label>
+        <name>UI_Attorney_Info</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Compliance Information --></label>
+        <name>UI_Compliance_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Construction Info --></label>
+        <name>UI_Construction_Info</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Key Dates Editable --></label>
+        <name>UI_Key_Dates_Editable</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Key Dates Read Only --></label>
+        <name>UI_Key_Dates_Read_Only</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Collateral1 Summary --></label>
+        <name>UI_Loan_Collateral1_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Collateral Pledged --></label>
+        <name>UI_Loan_Collateral_Pledged</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Loan Compliance Certifications --></label>
+        <name>UI_Loan_Compliance_Certifications</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Details --></label>
+        <name>UI_Loan_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Narrative --></label>
+        <name>UI_Loan_Narrative</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Pricing --></label>
+        <name>UI_Loan_Pricing</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Post Closing Review --></label>
+        <name>UI_Post_Closing_Review</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Product Selection --></label>
+        <name>UI_Product_Selection</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Secondary Market --></label>
+        <name>UI_Secondary_Market</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI - Structure Information --></label>
+        <name>UI_Structure_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Review Display --></label>
+        <name>cm_Review_Display</name>
+    </fieldSets>
+    <layouts>
+        <layout>Classic Layout</layout>
+        <sections>
+            <label><!-- Attorney Information --></label>
+            <section>Attorney Information</section>
+        </sections>
+        <sections>
+            <label><!-- Balance Detail --></label>
+            <section>Balance Detail</section>
+        </sections>
+        <sections>
+            <label><!-- Booked Loan Detail --></label>
+            <section>Booked Loan Detail</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Coverage --></label>
+            <section>Collateral Coverage</section>
+        </sections>
+        <sections>
+            <label><!-- Compliance Information --></label>
+            <section>Compliance Information</section>
+        </sections>
+        <sections>
+            <label><!-- Construction --></label>
+            <section>Construction</section>
+        </sections>
+        <sections>
+            <label><!-- Document Manager --></label>
+            <section>Document Manager</section>
+        </sections>
+        <sections>
+            <label><!-- Key Dates --></label>
+            <section>Key Dates</section>
+        </sections>
+        <sections>
+            <label><!-- Loan Covenants --></label>
+            <section>Loan Covenants</section>
+        </sections>
+        <sections>
+            <label><!-- Loan Stage History --></label>
+            <section>Loan Stage History</section>
+        </sections>
+        <sections>
+            <label><!-- Post Closing Review --></label>
+            <section>Post Closing Review</section>
+        </sections>
+        <sections>
+            <label><!-- Rate &amp; Term --></label>
+            <section>Rate &amp; Term</section>
+        </sections>
+        <sections>
+            <label><!-- Referral &amp; Lead Information --></label>
+            <section>Referral &amp; Lead Information</section>
+        </sections>
+        <sections>
+            <label><!-- Renewals --></label>
+            <section>Renewals</section>
+        </sections>
+        <sections>
+            <label><!-- Secondary Market Detail --></label>
+            <section>Secondary Market Detail</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>nCino UI Hybrid</layout>
+        <sections>
+            <label><!-- nCino UI --></label>
+            <section>nCino UI</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- This Record Type will Apply to Commercial Loans --></description>
+        <label><!-- Commercial Loan Record Type --></label>
+        <name>Commercial_Loan_Record_Type</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- This Record Type will Apply to Consumer Loans --></description>
+        <label><!-- Consumer Loan Record Type --></label>
+        <name>Consumer_Loan_Record_Type</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- This Record Type will Apply to Government Guaranteed Loans --></description>
+        <label><!-- Government Guaranteed Record Type --></label>
+        <name>Government_Guaranteed_Record_Type</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- This Record Type will Apply to Guidance LOC Sub Loans --></description>
+        <label><!-- Guidance LOC Sub Loan Record Type --></label>
+        <name>Guidance_LOC_Sub_Loan_Record_Type</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- This Record Type will Apply to Guidance Lines of Credit --></description>
+        <label><!-- Guidance Line Record Type --></label>
+        <name>Guidance_Line_Record_Type</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- This is the layout that&apos;s shown when &quot;New Record&quot; is clicked, only showing the basic info, and product selection info. --></description>
+        <label><!-- Start --></label>
+        <name>LLC_BI__Start</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Used for Unit Tests --></description>
+        <label><!-- Test Product Type 1 - Test Product 1 --></label>
+        <name>LLC_BI__Test_Product_Type_1</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- testing the product type broad match --></description>
+        <label><!-- Test Product Type 1 --></label>
+        <name>LLC_BI__Test_Product_Type_1v2</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Amount Outstanding cannot exceed the maximum Amount available. --></errorMessage>
+        <name>LLC_BI__Amount_Outstanding_Check_Against_Amount</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Loan Term and Amortized Term must have the same value. --></errorMessage>
+        <name>LLC_BI__Balloon_Amount_terms_must_be_equal</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You must input values for Loan Term and Amortized Term. --></errorMessage>
+        <name>LLC_BI__Balloon_Loan_terms_cannot_be_blank</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Loan Term and Amortized Term cannot be equal. --></errorMessage>
+        <name>LLC_BI__Balloon_Term_loan_not_equal_to_amortized</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- A loan can be a renewal OR a modification.  It cannot be both. --></errorMessage>
+        <name>LLC_BI__Cannot_Check_More_Than_One_Loan_Type</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please ensure that the interest rate for this loan is not above the ceiling rate. --></errorMessage>
+        <name>LLC_BI__Interest_Rate_Above_Ceiling</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please ensure that the interest rate for this loan is not below the floor rate. --></errorMessage>
+        <name>LLC_BI__Interest_Rate_Below_Floor</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please ensure that the rate ceiling is higher or equal to the floor rate. --></errorMessage>
+        <name>LLC_BI__Rate_Ceiling_Higher_Or_Equal_To_Floor</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Ensure that the floor rate is lower or equal to the ceiling rate --></errorMessage>
+        <name>LLC_BI__Rate_Floor_Lower_Or_Equal_To_Ceiling</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Committed amount cannot be greater than the amount taken down from --></errorMessage>
+        <name>LLC_BI__Takedown_Amount_Less_Or_Equal_Parent</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Amount Outstanding cannot exceed the maximum Amount available - LV01 --></errorMessage>
+        <name>Loan_Validation_01</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please ensure that the interest rate for this loan is not above the ceiling rate - LV02 --></errorMessage>
+        <name>Loan_Validation_02</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please ensure that the interest rate for this loan is not below the floor rate - LV03 --></errorMessage>
+        <name>Loan_Validation_03</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You Cannot Manually Change the Loan Stage to Approval / Loan Committee. Please Ensure That All Information is Accurate and Press the &apos;Submit for Approval&apos; Button at the Top of the Page. - LV04 --></errorMessage>
+        <name>Loan_Validation_04</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- A Loan Number is Required Prior to Changing the Loan Stage to &apos;Booked&apos; - LV05 --></errorMessage>
+        <name>Loan_Validation_05</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You Cannot Manually Change the Loan to a Post Approval Stage. The Loan Must be Approved by pressing the &apos;Submit for Approval&apos; Button at the top of the page. - LV06 --></errorMessage>
+        <name>Loan_Validation_06</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Please ensure that the rate ceiling is higher or equal to the floor rate - LV07 --></errorMessage>
+        <name>Loan_Validation_07</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This Loan has been Superseded and cannot be edited.  Please review the most recent Renewal or contact your Administrator for more information. - LV09 --></errorMessage>
+        <name>Loan_Validation_09</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Is Review Ready cannot be marked True in a post-approval loan stage. --></errorMessage>
+        <name>Loan_Validation_10</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Borrower_Tree --></label>
+        <name>LLC_BI__Borrower_Tree</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Change_Product --></label>
+        <name>LLC_BI__Change_Product</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Copy_Loan --></label>
+        <name>LLC_BI__Copy_Loan</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Credit_Memo --></label>
+        <name>LLC_BI__Credit_Memo</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Decline_Loan --></label>
+        <name>LLC_BI__Decline_Loan</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- DocuSign --></label>
+        <name>LLC_BI__DocuSign</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Loan_Submit_For_Approval --></label>
+        <name>LLC_BI__Loan_Submit_For_Approval</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- NewLoan --></label>
+        <name>LLC_BI__NewLoan</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Facility --></label>
+        <name>LLC_BI__New_Facility</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- New_Takedown --></label>
+        <name>LLC_BI__New_Takedown</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Switch_UI --></label>
+        <name>LLC_BI__Switch_UI</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Underwriting_Summary --></label>
+        <name>LLC_BI__Underwriting_Summary</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- deleteLoan --></label>
+        <name>LLC_BI__deleteLoan</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- renew_loan --></label>
+        <name>LLC_BI__renew_loan</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- StatementLauncher --></label>
+        <name>nCRED__StatementLauncher</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Form_Generation --></label>
+        <name>nFORMS__Form_Generation</name>
+    </webLinks>
+</CustomObjectTranslation>

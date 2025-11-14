@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is optional and is populated by the Section Builder tool. This field denotes whether a tier should return only unique records. When the value is set to true, the generated html code will respect the setting. --></help>
+    <label><!-- Unique --></label>
+    <name>nFORCE__Unique__c</name>
+</CustomFieldTranslation>

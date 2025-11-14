@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system automatically populates this field if Matrix Manager set the advance rate for a pledge. --></help>
+    <label><!-- Matrix Version --></label>
+    <name>LLC_BI__Matrix_Version__c</name>
+</CustomFieldTranslation>

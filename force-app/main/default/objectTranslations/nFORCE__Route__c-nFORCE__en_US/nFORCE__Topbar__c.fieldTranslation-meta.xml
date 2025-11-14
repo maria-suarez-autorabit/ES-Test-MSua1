@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The page include for the top bar region of the base UI template. --></help>
+    <label><!-- Topbar --></label>
+    <name>nFORCE__Topbar__c</name>
+</CustomFieldTranslation>

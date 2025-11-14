@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- When populated, the system uses this lookup field to determine the product represented. --></help>
+    <label><!-- Product --></label>
+    <name>LLC_BI__Product__c</name>
+    <relationshipLabel><!-- Credit Protections --></relationshipLabel>
+</CustomFieldTranslation>

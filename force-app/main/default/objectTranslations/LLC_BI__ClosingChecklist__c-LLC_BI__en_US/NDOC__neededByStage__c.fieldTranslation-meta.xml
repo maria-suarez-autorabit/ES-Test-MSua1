@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Needed By Stage --></label>
+    <name>NDOC__neededByStage__c</name>
+    <picklistValues>
+        <masterLabel>Approval / Loan Committee</masterLabel>
+        <translation><!-- Approval / Loan Committee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Booked</masterLabel>
+        <translation><!-- Booked --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closing</masterLabel>
+        <translation><!-- Closing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Complete</masterLabel>
+        <translation><!-- Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Doc Prep</masterLabel>
+        <translation><!-- Doc Prep --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Doc Review</masterLabel>
+        <translation><!-- Doc Review --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Processing</masterLabel>
+        <translation><!-- Processing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Proposal</masterLabel>
+        <translation><!-- Proposal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Qualification / Application</masterLabel>
+        <translation><!-- Qualification / Application --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Underwriting</masterLabel>
+        <translation><!-- Underwriting --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

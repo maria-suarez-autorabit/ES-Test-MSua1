@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This required field contains a reference to the Requirement to which this entry pertains. --></help>
+    <label><!-- Requirement --></label>
+    <name>LLC_BI__Requirement__c</name>
+    <relationshipLabel><!-- Requirement History --></relationshipLabel>
+</CustomFieldTranslation>

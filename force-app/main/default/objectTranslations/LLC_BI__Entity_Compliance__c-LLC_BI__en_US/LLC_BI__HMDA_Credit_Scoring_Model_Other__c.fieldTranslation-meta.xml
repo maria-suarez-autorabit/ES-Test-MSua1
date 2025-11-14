@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If Other Credit Scoring Model is selected as the Credit Scoring Model, this field allows you to enter a description of the model. --></help>
+    <label><!-- Other Credit Scoring Model Description --></label>
+    <name>LLC_BI__HMDA_Credit_Scoring_Model_Other__c</name>
+</CustomFieldTranslation>

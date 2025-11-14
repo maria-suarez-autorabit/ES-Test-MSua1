@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter a value for the engine capacity or displacement volume of the titled collateral. --></help>
+    <label><!-- Engine Size --></label>
+    <name>LLC_BI__Engine_Size__c</name>
+</CustomFieldTranslation>

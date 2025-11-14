@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Populate this field with the screen section that should be presented in the questionnaire. --></help>
+    <label><!-- Screen Section --></label>
+    <name>nFORCE__Screen_Section__c</name>
+    <relationshipLabel><!-- Screen Section --></relationshipLabel>
+</CustomFieldTranslation>

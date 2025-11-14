@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Describes the frequency with which the safe deposit box rent amount will be debited from the account. --></help>
+    <label><!-- Billing Frequency Other --></label>
+    <name>LLC_BI__Billing_Frequency_Other__c</name>
+</CustomFieldTranslation>

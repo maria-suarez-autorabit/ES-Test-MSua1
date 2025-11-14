@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- CRA Consortium/Third Party Reportable --></help>
+    <label><!-- Consortium/Third Party Reportable --></label>
+    <name>LLC_BI__CRA_Consortium_Third_Party_Reportable__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The percentage that the IRA owner elects to have withheld from the IRA distribution for state income tax purposes. --></help>
+    <label><!-- State Income Withholdings Percentage --></label>
+    <name>LLC_BI__State_Income_Withholdings_Percentage__c</name>
+</CustomFieldTranslation>

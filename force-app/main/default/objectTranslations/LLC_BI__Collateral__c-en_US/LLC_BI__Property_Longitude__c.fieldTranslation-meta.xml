@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Optionally enter a property longitude instead of a property address for the flood determination request. --></help>
+    <label><!-- Property Longitude --></label>
+    <name>LLC_BI__Property_Longitude__c</name>
+</CustomFieldTranslation>

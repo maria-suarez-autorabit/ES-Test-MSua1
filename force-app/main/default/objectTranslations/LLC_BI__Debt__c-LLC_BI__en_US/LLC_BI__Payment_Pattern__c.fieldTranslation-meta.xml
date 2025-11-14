@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system populates this optional text field with the borrower&apos;s payment pattern. --></help>
+    <label><!-- Payment Pattern --></label>
+    <name>LLC_BI__Payment_Pattern__c</name>
+</CustomFieldTranslation>

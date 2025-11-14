@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Number of payment months that are interest only. Don&apos;t include these months in the total month terms field above. --></help>
+    <label><!-- Interest Only Months --></label>
+    <name>LLC_BI__Interest_Only_Months__c</name>
+</CustomFieldTranslation>

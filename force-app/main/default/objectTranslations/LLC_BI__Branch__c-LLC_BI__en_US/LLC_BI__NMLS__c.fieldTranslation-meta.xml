@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the unique National Mortgage Licensing System (NMLS) number for the financial institution&apos;s branch. --></help>
+    <label><!-- NMLS --></label>
+    <name>LLC_BI__NMLS__c</name>
+</CustomFieldTranslation>

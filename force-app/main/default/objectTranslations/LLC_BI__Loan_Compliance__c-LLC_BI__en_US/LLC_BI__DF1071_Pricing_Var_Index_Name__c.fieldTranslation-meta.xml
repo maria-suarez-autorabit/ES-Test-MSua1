@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate the variable rate index name. --></help>
+    <label><!-- Variable Rate Index Name --></label>
+    <name>LLC_BI__DF1071_Pricing_Var_Index_Name__c</name>
+    <picklistValues>
+        <masterLabel>1 - Wall Street Journal Prime</masterLabel>
+        <translation><!-- 1 - Wall Street Journal Prime --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>10 - Internal Proprietary Index</masterLabel>
+        <translation><!-- 10 - Internal Proprietary Index --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - 6-month CD rate</masterLabel>
+        <translation><!-- 2 - 6-month CD rate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - 1-year T-Bill</masterLabel>
+        <translation><!-- 3 - 1-year T-Bill --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>4 - 3-year T-Bill</masterLabel>
+        <translation><!-- 4 - 3-year T-Bill --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>5 - 5-year T-Note</masterLabel>
+        <translation><!-- 5 - 5-year T-Note --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>6 - 12-month average of 10-year T-Bill</masterLabel>
+        <translation><!-- 6 - 12-month average of 10-year T-Bill --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>7 - Cost of Funds Index (COFI) - National</masterLabel>
+        <translation><!-- 7 - Cost of Funds Index (COFI) - National --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>8 - Cost of Funds Index (COFI) - 11th District</masterLabel>
+        <translation><!-- 8 - Cost of Funds Index (COFI) - 11th District --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>9 - Constant Maturity Treasury (CMT)</masterLabel>
+        <translation><!-- 9 - Constant Maturity Treasury (CMT) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>977 - Other</masterLabel>
+        <translation><!-- 977 - Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>999 - Not applicable</masterLabel>
+        <translation><!-- 999 - Not applicable --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

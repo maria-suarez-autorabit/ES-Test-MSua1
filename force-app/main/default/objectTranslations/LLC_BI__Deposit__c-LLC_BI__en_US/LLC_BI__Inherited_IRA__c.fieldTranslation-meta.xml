@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This indicates whether the plan is an inherited IRA. An IRA is inherited when the original owner of the IRA dies and ownership of the IRA passes to the named beneficiary of the original IRA. --></help>
+    <label><!-- Inherited IRA --></label>
+    <name>LLC_BI__Inherited_IRA__c</name>
+</CustomFieldTranslation>

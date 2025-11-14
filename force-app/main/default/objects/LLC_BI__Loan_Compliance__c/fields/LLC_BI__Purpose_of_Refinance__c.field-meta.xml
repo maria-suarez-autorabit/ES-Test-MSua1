@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Purpose_of_Refinance__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional picklist field to indicate the purpose of a refinance
+        loan. By default, this field is blank.</description>
+    <inlineHelpText>Select the purpose of the refinance loan.</inlineHelpText>
+    <label>Purpose of Refinance</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Refinance_with_current_lender_and_cash-out</fullName>
+                <default>false</default>
+                <label>Refinance with current lender and cash-out</label>
+            </value>
+            <value>
+                <fullName>Refinance_with_current_lender_and_limited_cash-out</fullName>
+                <default>false</default>
+                <label>Refinance with current lender and limited cash-out</label>
+            </value>
+            <value>
+                <fullName>Refinance_with_current_lender_and_no_cash-out</fullName>
+                <default>false</default>
+                <label>Refinance with current lender and no cash-out</label>
+            </value>
+            <value>
+                <fullName>Refinance_with_different_lender_and_cash-out</fullName>
+                <default>false</default>
+                <label>Refinance with different lender and cash-out</label>
+            </value>
+            <value>
+                <fullName>Refinance_with_different_lender_and_limited_cash-out</fullName>
+                <default>false</default>
+                <label>Refinance with different lender and limited cash-out</label>
+            </value>
+            <value>
+                <fullName>Refinance_with_different_lender_and_no_cash-out</fullName>
+                <default>false</default>
+                <label>Refinance with different lender and no cash-out</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

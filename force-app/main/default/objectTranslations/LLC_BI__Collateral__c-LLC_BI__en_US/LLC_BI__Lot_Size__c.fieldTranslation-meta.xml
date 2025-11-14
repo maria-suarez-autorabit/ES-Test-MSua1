@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the total area of the property’s plot of land in your local unit of measurement. --></help>
+    <label><!-- Lot Size --></label>
+    <name>LLC_BI__Lot_Size__c</name>
+</CustomFieldTranslation>

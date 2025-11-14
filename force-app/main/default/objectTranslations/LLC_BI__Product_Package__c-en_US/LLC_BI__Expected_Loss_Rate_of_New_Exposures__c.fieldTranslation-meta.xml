@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The approximate expected loss rate for any new treasury exposures an FI originates in the deal outside of nCino. This value should represent an average blended rate of PD &amp; LGD. --></help>
+    <label><!-- Expected Loss Rate of New Exposures --></label>
+    <name>LLC_BI__Expected_Loss_Rate_of_New_Exposures__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>-D Screen Section</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>-D Screen Sections</value>
+    </caseValues>
+    <layouts>
+        <layout>Screen Section Layout</layout>
+        <sections>
+            <label><!-- Related Information --></label>
+            <section>Related Information</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please select a section resource. --></errorMessage>
+        <name>nDESIGN__Mandatory</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Build_Layout --></label>
+        <name>nDESIGN__Build_Layout</name>
+    </webLinks>
+</CustomObjectTranslation>

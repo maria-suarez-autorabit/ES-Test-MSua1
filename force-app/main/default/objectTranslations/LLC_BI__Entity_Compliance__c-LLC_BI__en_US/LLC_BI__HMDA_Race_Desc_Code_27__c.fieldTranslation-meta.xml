@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If Other Asian is selected as a Race, this text field allows you to specify the Other Asian race(s). You may enter up to 50 characters. --></help>
+    <label><!-- Other Asian race(s) --></label>
+    <name>LLC_BI__HMDA_Race_Desc_Code_27__c</name>
+</CustomFieldTranslation>

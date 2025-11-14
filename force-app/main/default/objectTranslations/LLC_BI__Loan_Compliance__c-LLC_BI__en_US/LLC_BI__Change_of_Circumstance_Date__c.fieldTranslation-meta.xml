@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the date for the change of circumstance. --></help>
+    <label><!-- Change of Circumstance Date --></label>
+    <name>LLC_BI__Change_of_Circumstance_Date__c</name>
+</CustomFieldTranslation>

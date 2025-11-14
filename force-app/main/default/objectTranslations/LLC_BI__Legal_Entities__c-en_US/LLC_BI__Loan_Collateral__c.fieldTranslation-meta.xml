@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The collateral that the legal entity is associated with. --></help>
+    <label><!-- Loan Collateral --></label>
+    <name>LLC_BI__Loan_Collateral__c</name>
+    <relationshipLabel><!-- Entity Involvement --></relationshipLabel>
+</CustomFieldTranslation>

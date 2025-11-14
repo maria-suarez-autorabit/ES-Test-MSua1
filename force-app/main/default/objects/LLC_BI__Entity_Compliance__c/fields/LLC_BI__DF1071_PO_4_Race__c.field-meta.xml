@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_PO_4_Race__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional multi-select picklist field to indicate the race of principal owner 4. By default, it is empty.</description>
+    <inlineHelpText>Select a value(s) to indicate the race of principal owner 4.</inlineHelpText>
+    <label>Principal Owner 4 Race</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>false</default>
+                <label>1- American Indian or Alaska Native</label>
+            </value>
+            <value>
+                <fullName>2</fullName>
+                <default>false</default>
+                <label>2 - Asian</label>
+            </value>
+            <value>
+                <fullName>21</fullName>
+                <default>false</default>
+                <label>21 - Asian Indian</label>
+            </value>
+            <value>
+                <fullName>22</fullName>
+                <default>false</default>
+                <label>22 - Chinese</label>
+            </value>
+            <value>
+                <fullName>23</fullName>
+                <default>false</default>
+                <label>23 - Filipino</label>
+            </value>
+            <value>
+                <fullName>24</fullName>
+                <default>false</default>
+                <label>24 - Japanese</label>
+            </value>
+            <value>
+                <fullName>25</fullName>
+                <default>false</default>
+                <label>25 - Korean</label>
+            </value>
+            <value>
+                <fullName>26</fullName>
+                <default>false</default>
+                <label>26 - Vietnamese</label>
+            </value>
+            <value>
+                <fullName>27</fullName>
+                <default>false</default>
+                <label>27 - Other Asian Race</label>
+            </value>
+            <value>
+                <fullName>3</fullName>
+                <default>false</default>
+                <label>3 - Black or African American</label>
+            </value>
+            <value>
+                <fullName>31</fullName>
+                <default>false</default>
+                <label>31 - African American</label>
+            </value>
+            <value>
+                <fullName>32</fullName>
+                <default>false</default>
+                <label>32 - Ethiopian</label>
+            </value>
+            <value>
+                <fullName>33</fullName>
+                <default>false</default>
+                <label>33 - Haitian</label>
+            </value>
+            <value>
+                <fullName>34</fullName>
+                <default>false</default>
+                <label>34 - Jamaican</label>
+            </value>
+            <value>
+                <fullName>35</fullName>
+                <default>false</default>
+                <label>35 - Nigerian</label>
+            </value>
+            <value>
+                <fullName>36</fullName>
+                <default>false</default>
+                <label>36 - Somali</label>
+            </value>
+            <value>
+                <fullName>37</fullName>
+                <default>false</default>
+                <label>37 - Other Black or African American Race</label>
+            </value>
+            <value>
+                <fullName>4</fullName>
+                <default>false</default>
+                <label>4 - Native Hawaiian or Other Pacific Islander</label>
+            </value>
+            <value>
+                <fullName>41</fullName>
+                <default>false</default>
+                <label>41 - Native Hawaiian</label>
+            </value>
+            <value>
+                <fullName>42</fullName>
+                <default>false</default>
+                <label>42 - Guamanian or Chamorro</label>
+            </value>
+            <value>
+                <fullName>43</fullName>
+                <default>false</default>
+                <label>43 - Samoan</label>
+            </value>
+            <value>
+                <fullName>44</fullName>
+                <default>false</default>
+                <label>44 - Other Pacific Islander Race</label>
+            </value>
+            <value>
+                <fullName>5</fullName>
+                <default>false</default>
+                <label>5 - White</label>
+            </value>
+            <value>
+                <fullName>966</fullName>
+                <default>false</default>
+                <label>966 - The applicant responded that they did not wish to provide this information</label>
+            </value>
+            <value>
+                <fullName>971</fullName>
+                <default>false</default>
+                <label>971 - The applicant responded in the free-form text field for American Indian or Alaska Native Enrolled or Principal Tribe</label>
+            </value>
+            <value>
+                <fullName>972</fullName>
+                <default>false</default>
+                <label>972 - The applicant responded in the free-form text field for Other Asian race</label>
+            </value>
+            <value>
+                <fullName>973</fullName>
+                <default>false</default>
+                <label>973 - The applicant responded in the free-form text field for Other Black or African race</label>
+            </value>
+            <value>
+                <fullName>974</fullName>
+                <default>false</default>
+                <label>974 - The applicant responded in the free-form text field for Other Pacific Islander race</label>
+            </value>
+            <value>
+                <fullName>988</fullName>
+                <default>false</default>
+                <label>988 - Not provided by applicant</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

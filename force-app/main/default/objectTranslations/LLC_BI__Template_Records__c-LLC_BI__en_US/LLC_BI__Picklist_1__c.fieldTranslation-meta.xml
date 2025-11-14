@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Picklist 1 --></label>
+    <name>LLC_BI__Picklist_1__c</name>
+    <picklistValues>
+        <masterLabel>Appraisal</masterLabel>
+        <translation><!-- Appraisal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Attorney</masterLabel>
+        <translation><!-- Attorney --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Report</masterLabel>
+        <translation><!-- Credit Report --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>DMV</masterLabel>
+        <translation><!-- DMV --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Government Recording</masterLabel>
+        <translation><!-- Government Recording --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Loan Origination</masterLabel>
+        <translation><!-- Loan Origination --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Settlement/Close</masterLabel>
+        <translation><!-- Settlement/Close --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>State Tax Stamps</masterLabel>
+        <translation><!-- State Tax Stamps --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Survey</masterLabel>
+        <translation><!-- Survey --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Title Insurance</masterLabel>
+        <translation><!-- Title Insurance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Title Search</masterLabel>
+        <translation><!-- Title Search --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

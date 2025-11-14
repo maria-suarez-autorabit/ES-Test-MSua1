@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If checked then the final risk grade will be a round number. If unchecked then the final risk grade will be a decimal number. --></help>
+    <label><!-- Round Final Risk Grade --></label>
+    <name>LLC_BI__Round_Final_Risk_Grade__c</name>
+</CustomFieldTranslation>

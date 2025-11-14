@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Indicates the auto creation of a collateral record via Add Child or Add Sub Collateral. --></help>
+    <label><!-- Is Copy --></label>
+    <name>LLC_BI__Is_Copy__c</name>
+</CustomFieldTranslation>

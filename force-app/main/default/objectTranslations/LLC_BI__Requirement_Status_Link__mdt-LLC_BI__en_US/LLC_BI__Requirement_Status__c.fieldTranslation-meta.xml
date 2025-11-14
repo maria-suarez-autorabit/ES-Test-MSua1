@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If an administrator does not use the packaged custom metadata type, they must manually populate this field. --></help>
+    <label><!-- Requirement Status --></label>
+    <name>LLC_BI__Requirement_Status__c</name>
+    <picklistValues>
+        <masterLabel>Assigned</masterLabel>
+        <translation><!-- Assigned --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Canceled</masterLabel>
+        <translation><!-- Canceled --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Complete</masterLabel>
+        <translation><!-- Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exception</masterLabel>
+        <translation><!-- Exception --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Progress</masterLabel>
+        <translation><!-- In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>New</masterLabel>
+        <translation><!-- New --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>On-hold</masterLabel>
+        <translation><!-- On-hold --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Open</masterLabel>
+        <translation><!-- Open --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>To Do</masterLabel>
+        <translation><!-- To Do --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Waived</masterLabel>
+        <translation><!-- Waived --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

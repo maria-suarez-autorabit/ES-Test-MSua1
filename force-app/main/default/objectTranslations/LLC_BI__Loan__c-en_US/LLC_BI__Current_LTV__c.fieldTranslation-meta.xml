@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Principal Balance or Loan Amount / (Collateral Value from all Collateral - Total Prior Lien Amount from all Collateral) --></help>
+    <label><!-- Current LTV --></label>
+    <name>LLC_BI__Current_LTV__c</name>
+</CustomFieldTranslation>

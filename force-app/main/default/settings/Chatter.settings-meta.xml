@@ -4,7 +4,7 @@
     <allowRecordsInChatterGroup>true</allowRecordsInChatterGroup>
     <enableCaseFeedRelativeTimestamps>true</enableCaseFeedRelativeTimestamps>
     <enableChatter>true</enableChatter>
-    <enableChatterEmoticons>false</enableChatterEmoticons>
+    <enableChatterEmoticons>true</enableChatterEmoticons>
     <enableFeedEdit>true</enableFeedEdit>
     <enableFeedPinning>true</enableFeedPinning>
     <enableFeedsDraftPosts>true</enableFeedsDraftPosts>

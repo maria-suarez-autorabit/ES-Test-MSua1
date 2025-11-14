@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_PO_4_Race_ANAI_FF__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional text field to specify the Alaska Native Enrolled, American Indian, or Principal Tribe race of principal owner 4. By default, it is empty.</description>
+    <inlineHelpText>Use this field to specify the Alaska Native Enrolled, American Indian, or Principal Tribe race of principal owner 4.</inlineHelpText>
+    <label>Principal Owner 4 Race ANAI Free Form</label>
+    <length>300</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

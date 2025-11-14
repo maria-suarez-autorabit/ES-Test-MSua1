@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Adjustments_Other_Credits__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system populates this optional currency field to capture the sum of adjustments and other credits for a Real Estate transaction. By default, this field is blank.</description>
+    <inlineHelpText>This system-populated field displays the sum of Adjustments and Other Credits.</inlineHelpText>
+    <label>Adjustments and Other Credits</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>

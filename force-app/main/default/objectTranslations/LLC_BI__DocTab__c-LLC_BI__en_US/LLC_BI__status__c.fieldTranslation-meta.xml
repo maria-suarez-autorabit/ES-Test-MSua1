@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- status --></label>
+    <name>LLC_BI__status__c</name>
+    <picklistValues>
+        <masterLabel>Approved</masterLabel>
+        <translation><!-- Approved --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closer Updated</masterLabel>
+        <translation><!-- Closer Updated --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exception</masterLabel>
+        <translation><!-- Exception --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Expired</masterLabel>
+        <translation><!-- Expired --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In File</masterLabel>
+        <translation><!-- In File --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Process</masterLabel>
+        <translation><!-- In Process --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Missing</masterLabel>
+        <translation><!-- Missing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Open</masterLabel>
+        <translation><!-- Open --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Recorded Doc/Policy</masterLabel>
+        <translation><!-- Recorded Doc/Policy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reviewed</masterLabel>
+        <translation><!-- Reviewed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Waived</masterLabel>
+        <translation><!-- Waived --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Event_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>This field is automatically populated by the system based off of the associated period and payment start date values. By default, it is blank.</description>
+    <label>Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

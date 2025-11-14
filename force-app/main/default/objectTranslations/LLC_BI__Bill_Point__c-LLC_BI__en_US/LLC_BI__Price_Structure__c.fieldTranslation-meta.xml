@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is used to specify if the price of the bill point is a single price, tiered, or progressive tiered price structure. The default value is Single. --></help>
+    <label><!-- Price Structure --></label>
+    <name>LLC_BI__Price_Structure__c</name>
+    <picklistValues>
+        <masterLabel>Progressive Tiered</masterLabel>
+        <translation><!-- Progressive Tiered --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Single</masterLabel>
+        <translation><!-- Single --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tiered</masterLabel>
+        <translation><!-- Tiered --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

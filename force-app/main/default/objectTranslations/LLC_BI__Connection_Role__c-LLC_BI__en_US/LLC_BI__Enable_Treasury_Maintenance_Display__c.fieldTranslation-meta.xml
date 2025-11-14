@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Contacts and deposits for connected relationships display as authorized users and analyzed accounts. --></help>
+    <label><!-- Enable Treasury Maintenance Display --></label>
+    <name>LLC_BI__Enable_Treasury_Maintenance_Display__c</name>
+</CustomFieldTranslation>

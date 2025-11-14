@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field displays the unique identifier for Ownership Structure Type --></help>
+    <label><!-- lookupKey --></label>
+    <name>LLC_BI__lookupKey__c</name>
+</CustomFieldTranslation>

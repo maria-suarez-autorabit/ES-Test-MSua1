@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_PO_2_Ethnicity__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional multi-select picklist field to indicate the ethnicity of principal owner 2. By default, it is empty.</description>
+    <inlineHelpText>Select a value to indicate the ethnicity of principal owner 2.</inlineHelpText>
+    <label>Principal Owner 2 Ethnicity</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>false</default>
+                <label>1 - Hispanic or Latino</label>
+            </value>
+            <value>
+                <fullName>11</fullName>
+                <default>false</default>
+                <label>11 - Mexican</label>
+            </value>
+            <value>
+                <fullName>12</fullName>
+                <default>false</default>
+                <label>12 - Puerto Rican</label>
+            </value>
+            <value>
+                <fullName>13</fullName>
+                <default>false</default>
+                <label>13 - Cuban</label>
+            </value>
+            <value>
+                <fullName>14</fullName>
+                <default>false</default>
+                <label>14 - Other Hispanic or Latino Ethnicity</label>
+            </value>
+            <value>
+                <fullName>2</fullName>
+                <default>false</default>
+                <label>2 - Not Hispanic or Latino</label>
+            </value>
+            <value>
+                <fullName>966</fullName>
+                <default>false</default>
+                <label>966 - The applicant responded that they did not wish to provide this information</label>
+            </value>
+            <value>
+                <fullName>977</fullName>
+                <default>false</default>
+                <label>977 - The applicant responded in the free-form text field</label>
+            </value>
+            <value>
+                <fullName>988</fullName>
+                <default>false</default>
+                <label>988 - Not provided by applicant</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

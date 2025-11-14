@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>admin@arfall21reljanupd.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <folderShares>
+        <accessLevel>View</accessLevel>
+        <sharedTo>ncinotest.user.ipw0bzjqsyca.3ybenyw0vqrj.g5ioezrh7pyg@arfall21reljanupd.com</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <name>nCino - Loan Officer Reports</name>
+</ReportFolder>

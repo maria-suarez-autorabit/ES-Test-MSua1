@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field displays the sum of all percents from the associated projected draw event records. --></help>
+    <label><!-- Cumulative Utilized Percentage --></label>
+    <name>LLC_BI__Cumulative_Utilized_Percentage__c</name>
+</CustomFieldTranslation>

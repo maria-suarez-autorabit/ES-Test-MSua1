@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field represents the unit of measurement used to indicate the size of the area. --></help>
+    <label><!-- Area Measurement --></label>
+    <name>LLC_BI__Area_Measurement__c</name>
+    <picklistValues>
+        <masterLabel>Sq Feet</masterLabel>
+        <translation><!-- Sq Feet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sq Meters</masterLabel>
+        <translation><!-- Sq Meters --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

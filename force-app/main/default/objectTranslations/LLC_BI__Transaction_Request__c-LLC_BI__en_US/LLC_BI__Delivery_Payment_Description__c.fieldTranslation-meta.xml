@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This is a description of how the individual should be referenced on the check or certificate registration. --></help>
+    <label><!-- Delivery Payment Description --></label>
+    <name>LLC_BI__Delivery_Payment_Description__c</name>
+</CustomFieldTranslation>

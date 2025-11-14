@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Screen</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Screens</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- UI Config Builder --></label>
+        <name>nFORCE__UI_Config_Builder</name>
+    </fieldSets>
+    <layouts>
+        <layout>Screen Layout</layout>
+        <sections>
+            <label><!-- Display Options --></label>
+            <section>Display Options</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

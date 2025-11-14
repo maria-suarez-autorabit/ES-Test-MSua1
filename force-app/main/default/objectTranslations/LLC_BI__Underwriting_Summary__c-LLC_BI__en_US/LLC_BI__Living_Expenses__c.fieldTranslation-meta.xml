@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the amount of the borrower’s average monthly living expenses. Must be a numerical value. --></help>
+    <label><!-- Living Expenses --></label>
+    <name>LLC_BI__Living_Expenses__c</name>
+</CustomFieldTranslation>

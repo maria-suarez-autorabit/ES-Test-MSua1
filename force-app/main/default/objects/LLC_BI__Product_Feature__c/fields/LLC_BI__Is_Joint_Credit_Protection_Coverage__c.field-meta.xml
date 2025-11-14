@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Is_Joint_Credit_Protection_Coverage__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional checkbox field to indicate coverage is applied to multiple applicants. By default, it is false.</description>
+    <inlineHelpText>Select this checkbox to indicate the credit protection product(s) covers multiple applicants.</inlineHelpText>
+    <label>Is Joint Credit Protection Coverage</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Data Source will be &quot;Salesforce Org&quot; for analytics as all data comes from child orgs.  The Data Store object, however, is generic enough to hold data from additional sources such as the FDIC. --></help>
+    <label><!-- Data Source --></label>
+    <name>nFORCE__Data_Source__c</name>
+    <picklistValues>
+        <masterLabel>Salesforce Org</masterLabel>
+        <translation><!-- Salesforce Org --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

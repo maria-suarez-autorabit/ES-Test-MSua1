@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the type of contribution for a Traditional Beneficiary IRA. --></help>
+    <label><!-- Trad Benficiary IRA Contribution Type --></label>
+    <name>LLC_BI__Traditional_Benficiary_IRA_Contribution__c</name>
+    <picklistValues>
+        <masterLabel>Direct Rollover from an Eligible Retirement Plan</masterLabel>
+        <translation><!-- Direct Rollover from an Eligible Retirement Plan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Recharacterization</masterLabel>
+        <translation><!-- Recharacterization --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transfer from an IRA</masterLabel>
+        <translation><!-- Transfer from an IRA --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

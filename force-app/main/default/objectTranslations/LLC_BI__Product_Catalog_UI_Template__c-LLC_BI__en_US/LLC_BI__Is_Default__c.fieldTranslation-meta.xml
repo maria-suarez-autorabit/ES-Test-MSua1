@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Should this be the default Product Catalog UI Template? --></help>
+    <label><!-- Is Default --></label>
+    <name>LLC_BI__Is_Default__c</name>
+</CustomFieldTranslation>

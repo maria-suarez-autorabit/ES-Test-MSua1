@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates if a user has manually edited the entity compliance record. When selected, the system does not automatically populate fields on the entity compliance record with values entered in the workflow. --></help>
+    <label><!-- Is Manually Edited --></label>
+    <name>LLC_BI__Is_Manually_Edited__c</name>
+</CustomFieldTranslation>

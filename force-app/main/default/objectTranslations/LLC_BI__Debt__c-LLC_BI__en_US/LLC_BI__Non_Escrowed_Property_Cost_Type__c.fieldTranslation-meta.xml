@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the type(s) of non-escrowed property costs. --></help>
+    <label><!-- Non-Escrowed Property Cost Type --></label>
+    <name>LLC_BI__Non_Escrowed_Property_Cost_Type__c</name>
+    <picklistValues>
+        <masterLabel>City Property Taxes</masterLabel>
+        <translation><!-- City Property Taxes --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Condo Association Dues</masterLabel>
+        <translation><!-- Condo Association Dues --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Condo Association Special Assessment</masterLabel>
+        <translation><!-- Condo Association Special Assessment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Coop Association Dues</masterLabel>
+        <translation><!-- Coop Association Dues --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Coop Association Special Assessment</masterLabel>
+        <translation><!-- Coop Association Special Assessment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>County Property Taxes</masterLabel>
+        <translation><!-- County Property Taxes --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Flood Insurance</masterLabel>
+        <translation><!-- Flood Insurance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ground Rent</masterLabel>
+        <translation><!-- Ground Rent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Homeowners Association Dues</masterLabel>
+        <translation><!-- Homeowners Association Dues --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Homeowners Association Special Assessment</masterLabel>
+        <translation><!-- Homeowners Association Special Assessment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Homeowners Insurance</masterLabel>
+        <translation><!-- Homeowners Insurance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Leasehold Payment</masterLabel>
+        <translation><!-- Leasehold Payment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wind and Hail</masterLabel>
+        <translation><!-- Wind and Hail --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

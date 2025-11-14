@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the type of contribution for a Roth Beneficiary IRA. --></help>
+    <label><!-- Roth Beneficiary Contribution Type --></label>
+    <name>LLC_BI__Roth_Beneficiary_Contribution_Type__c</name>
+    <picklistValues>
+        <masterLabel>Rollover/Direct Rollover from a Designated Roth Account</masterLabel>
+        <translation><!-- Rollover/Direct Rollover from a Designated Roth Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rollover/Direct Rollover from an Eligible Retirement Plan</masterLabel>
+        <translation><!-- Rollover/Direct Rollover from an Eligible Retirement Plan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transfer from a Roth IRA</masterLabel>
+        <translation><!-- Transfer from a Roth IRA --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

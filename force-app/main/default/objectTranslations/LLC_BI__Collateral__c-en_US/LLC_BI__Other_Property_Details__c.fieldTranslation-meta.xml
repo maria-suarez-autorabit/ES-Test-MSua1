@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This optional lookup field links the Other Property Details records that capture granular details that the system does not capture in Possessory, Real Estate, Titled, or UCC Collateral records to the Other Collateral records. --></help>
+    <label><!-- Other Property Details --></label>
+    <name>LLC_BI__Other_Property_Details__c</name>
+    <relationshipLabel><!-- Collateral Mgmt --></relationshipLabel>
+</CustomFieldTranslation>

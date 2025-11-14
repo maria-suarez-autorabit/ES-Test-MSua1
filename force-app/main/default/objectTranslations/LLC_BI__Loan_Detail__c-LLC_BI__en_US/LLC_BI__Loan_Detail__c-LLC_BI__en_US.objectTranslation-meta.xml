@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Loan Detail</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Loan Details</value>
+    </caseValues>
+    <layouts>
+        <layout>Loan Detail</layout>
+        <sections>
+            <label><!-- Discounts --></label>
+            <section>Discounts</section>
+        </sections>
+        <sections>
+            <label><!-- Loan Detail Information --></label>
+            <section>Loan Detail Information</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

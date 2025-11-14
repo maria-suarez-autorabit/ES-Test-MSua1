@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Status --></label>
+    <name>LLC_BI__Status__c</name>
+    <picklistValues>
+        <masterLabel>Occupied</masterLabel>
+        <translation><!-- Occupied --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Proposed</masterLabel>
+        <translation><!-- Proposed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vacant</masterLabel>
+        <translation><!-- Vacant --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

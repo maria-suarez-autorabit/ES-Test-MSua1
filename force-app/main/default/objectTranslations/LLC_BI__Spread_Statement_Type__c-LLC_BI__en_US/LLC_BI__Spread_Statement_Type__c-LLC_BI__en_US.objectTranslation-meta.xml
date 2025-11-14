@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Spread Statement Template</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Spread Statement Templates</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Upgradeable Fields --></label>
+        <name>LLC_BI__Upgradeable_Fields</name>
+    </fieldSets>
+    <layouts>
+        <layout>Admin Spread Statement Type Layout</layout>
+        <sections>
+            <label><!-- Portfolio Management - Statement --></label>
+            <section>Portfolio Management - Statement</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Spread Statement Type Layout</layout>
+        <sections>
+            <label><!-- Portfolio Management - Statement --></label>
+            <section>Portfolio Management - Statement</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Clone_Template --></label>
+        <name>LLC_BI__Clone_Template</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Print --></label>
+        <name>LLC_BI__Print</name>
+    </webLinks>
+</CustomObjectTranslation>

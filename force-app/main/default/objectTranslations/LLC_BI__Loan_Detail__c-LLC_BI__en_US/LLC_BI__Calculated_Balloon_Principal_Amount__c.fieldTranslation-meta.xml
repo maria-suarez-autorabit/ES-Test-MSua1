@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field will populate after a user enters a rate and payment stream and an amortization term greater than the loan term. This results in a calculated balloon payment. --></help>
+    <label><!-- Calculated Balloon Principal Amount --></label>
+    <name>LLC_BI__Calculated_Balloon_Principal_Amount__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate the range of specified years the business has been in operation. --></help>
+    <label><!-- Time In Business Type --></label>
+    <name>LLC_BI__DF1071_Time_In_Business_Type__c</name>
+    <picklistValues>
+        <masterLabel>1 - The number of years the applicant has been in business is collected or obtained by the financial institution</masterLabel>
+        <translation><!-- 1 - The number of years the applicant has been in business is collected or obtained by the financial institution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Applicant has been in business less than two years</masterLabel>
+        <translation><!-- 2 - Applicant has been in business less than two years --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - Applicant has been in business two or more years</masterLabel>
+        <translation><!-- 3 - Applicant has been in business two or more years --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided by applicant and otherwise undetermined</masterLabel>
+        <translation><!-- 988 - Not provided by applicant and otherwise undetermined --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

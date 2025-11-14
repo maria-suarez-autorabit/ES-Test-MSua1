@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Number of days past the Next Evaluation Date. --></help>
+    <label><!-- Days Past Next Evaluation --></label>
+    <name>LLC_BI__Days_Past_Next_Evaluation__c</name>
+</CustomFieldTranslation>

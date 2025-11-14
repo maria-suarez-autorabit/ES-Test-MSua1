@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Spread Statement Period</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Spread Statement Period</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Add Rent Roll Modal --></label>
+        <name>LLC_BI__Add_Rent_Roll_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Associated Periods --></label>
+        <name>LLC_BI__Associated_Periods</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Average Add Period Modal --></label>
+        <name>LLC_BI__Average_Add_Period_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CRE Analysis Add Period Modal --></label>
+        <name>LLC_BI__CRE_Analysis_Add_Period_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CRE Analysis Edit Period Modal --></label>
+        <name>LLC_BI__CRE_Analysis_Edit_Period_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CRE Analysis Period Header --></label>
+        <name>LLC_BI__CRE_Analysis_Period_Header</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Edit Rent Roll Modal --></label>
+        <name>LLC_BI__Edit_Rent_Roll_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Projections Add Period Modal --></label>
+        <name>LLC_BI__Projections_Add_Period_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Projections Period Header --></label>
+        <name>LLC_BI__Projections_Period_Header</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Rent Roll Details Header --></label>
+        <name>LLC_BI__Rent_Roll_Details_Header</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Spreads Add Period Modal --></label>
+        <name>LLC_BI__Spreads_Add_Period_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Spreads Edit Period Modal --></label>
+        <name>LLC_BI__Spreads_Edit_Period_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Spreads Period Header --></label>
+        <name>LLC_BI__Spreads_Period_Header</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Template Migration Field Selections --></label>
+        <name>LLC_BI__Template_Migration_Field_Selections</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

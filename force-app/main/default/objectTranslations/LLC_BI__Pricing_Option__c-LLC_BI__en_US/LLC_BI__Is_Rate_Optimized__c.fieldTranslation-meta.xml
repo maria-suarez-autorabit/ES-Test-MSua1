@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system uses a profitability calculator to determine the rate that will maximize the return of this scenario. --></help>
+    <label><!-- nIQ Rate Optimization --></label>
+    <name>LLC_BI__Is_Rate_Optimized__c</name>
+</CustomFieldTranslation>

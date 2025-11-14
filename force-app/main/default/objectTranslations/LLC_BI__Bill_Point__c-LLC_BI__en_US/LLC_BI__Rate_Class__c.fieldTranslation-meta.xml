@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates the rate classes that are defined for the bill point. This is used to display the correct pricing on the Quantity &amp; Pricing page based on the rate classes configured by the financial institution. --></help>
+    <label><!-- Rate Class --></label>
+    <name>LLC_BI__Rate_Class__c</name>
+    <picklistValues>
+        <masterLabel>Gold</masterLabel>
+        <translation><!-- Gold --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>N/A</masterLabel>
+        <translation><!-- N/A --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Platinum</masterLabel>
+        <translation><!-- Platinum --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Silver</masterLabel>
+        <translation><!-- Silver --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

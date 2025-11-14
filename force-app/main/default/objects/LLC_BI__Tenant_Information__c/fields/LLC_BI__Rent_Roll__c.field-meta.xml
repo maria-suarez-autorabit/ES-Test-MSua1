@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Rent_Roll__c</fullName>
+    <deleteConstraint>Cascade</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional lookup field with the associated tenant information for a rent roll.</description>
+    <label>Rent Roll</label>
+    <referenceTo>LLC_BI__Rent_Roll__c</referenceTo>
+    <relationshipLabel>Tenant Information</relationshipLabel>
+    <relationshipName>Tenant_Information</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

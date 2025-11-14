@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The percentage that is added to the index rate to determine the initial (teaser) rate. --></help>
+    <label><!-- Initial Rate Margin --></label>
+    <name>LLC_BI__Initial_Rate_Margin__c</name>
+</CustomFieldTranslation>

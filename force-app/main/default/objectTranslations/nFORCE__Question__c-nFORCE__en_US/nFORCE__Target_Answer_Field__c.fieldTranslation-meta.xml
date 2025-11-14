@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the context record object API and target field API using dot notation (for example, Account.Name). This field is case-sensitive. --></help>
+    <label><!-- Target Answer Field --></label>
+    <name>nFORCE__Target_Answer_Field__c</name>
+</CustomFieldTranslation>

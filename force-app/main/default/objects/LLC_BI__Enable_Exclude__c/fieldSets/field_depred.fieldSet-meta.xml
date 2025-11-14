@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>field_depred</fullName>
+    <description>uioo</description>
+    <displayedFields>
+        <field>LLC_BI__Loan__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>field_depred</label>
+</FieldSet>

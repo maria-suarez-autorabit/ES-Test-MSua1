@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- ^[a-zA-Z0-9!#$%&amp;&apos;*+=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&amp;&apos;*+=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$ --></help>
+    <label><!-- Format Expression --></label>
+    <name>nFORCE__Format_Expression__c</name>
+</CustomFieldTranslation>

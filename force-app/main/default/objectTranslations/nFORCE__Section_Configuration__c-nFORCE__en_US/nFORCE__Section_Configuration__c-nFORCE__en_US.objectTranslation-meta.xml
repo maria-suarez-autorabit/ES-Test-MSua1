@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Section Configuration</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Section Configurations</value>
+    </caseValues>
+    <layouts>
+        <layout>Section Configuration Layout</layout>
+        <sections>
+            <label><!-- Additional Config --></label>
+            <section>Additional Config</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Child configurations must follow their parents in display order. --></errorMessage>
+        <name>nFORCE__Child_Display_Order</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Parent Configuration and Parent Relationship Name must both be set. --></errorMessage>
+        <name>nFORCE__Parent_Integrity</name>
+    </validationRules>
+</CustomObjectTranslation>

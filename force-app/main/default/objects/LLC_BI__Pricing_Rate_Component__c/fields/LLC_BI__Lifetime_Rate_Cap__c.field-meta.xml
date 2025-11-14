@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Lifetime_Rate_Cap__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional percentage field to specify how much the interest rate may increase or decrease over the term of the loan.</description>
+    <inlineHelpText>The system-populated field displays how much the interest rate may increase or decrease over the term of the loan.</inlineHelpText>
+    <label>Lifetime Rate Cap</label>
+    <precision>12</precision>
+    <required>false</required>
+    <scale>8</scale>
+    <trackTrending>false</trackTrending>
+    <type>Percent</type>
+</CustomField>

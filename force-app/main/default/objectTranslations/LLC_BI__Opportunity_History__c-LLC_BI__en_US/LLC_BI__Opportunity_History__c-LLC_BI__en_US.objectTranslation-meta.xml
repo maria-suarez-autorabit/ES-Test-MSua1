@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Opportunity History</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Opportunity History</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Opp History For Dashboard --></label>
+        <name>LLC_BI__Opp_History_For_Dashboard</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Stage History --></label>
+        <name>UI_Stage_History</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

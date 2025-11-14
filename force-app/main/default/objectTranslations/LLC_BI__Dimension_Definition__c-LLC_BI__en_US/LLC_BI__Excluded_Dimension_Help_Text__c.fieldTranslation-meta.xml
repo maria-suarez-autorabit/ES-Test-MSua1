@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter information to help the matrix analyst populate values into this dimension; for example, the desired unit type. --></help>
+    <label><!-- Excluded Dimension Help Text --></label>
+    <name>LLC_BI__Excluded_Dimension_Help_Text__c</name>
+</CustomFieldTranslation>

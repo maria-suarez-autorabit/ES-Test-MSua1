@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this checkbox to use the Preferred Rate in loan calculations. --></help>
+    <label><!-- Calculate with Preferred Rate --></label>
+    <name>LLC_BI__Use_Preferred_Rate__c</name>
+</CustomFieldTranslation>

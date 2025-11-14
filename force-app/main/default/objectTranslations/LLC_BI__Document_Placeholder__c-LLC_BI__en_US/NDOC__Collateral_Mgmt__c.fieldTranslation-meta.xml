@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Facilitate reporting on Collateral objects tied to Document_Placeholder --></help>
+    <label><!-- Collateral Mgmt --></label>
+    <name>NDOC__Collateral_Mgmt__c</name>
+    <relationshipLabel><!-- Document Placeholders --></relationshipLabel>
+</CustomFieldTranslation>

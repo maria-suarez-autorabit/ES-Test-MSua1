@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Onboarding Case</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Onboarding Cases</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- EMEA Commercial Onboarding Business Entity Structure --></label>
+        <name>nCino__Customer_Onboarding_Business_Entity</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- EMEA Commercial Onboarding Individual Entity Structure --></label>
+        <name>nCino__Customer_Onboarding_Individual_Entity</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

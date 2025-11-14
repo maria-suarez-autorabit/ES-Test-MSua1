@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the authorized signer for your financial institution. --></help>
+    <label><!-- Financial Institution Authorized Signer --></label>
+    <name>LLC_BI__Financial_Institution_Authorized_Signer__c</name>
+    <relationshipLabel><!-- Deposits --></relationshipLabel>
+</CustomFieldTranslation>

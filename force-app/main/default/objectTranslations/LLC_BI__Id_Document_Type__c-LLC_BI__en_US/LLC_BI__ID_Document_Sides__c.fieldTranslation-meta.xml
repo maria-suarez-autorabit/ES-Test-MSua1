@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the ID Document type to help the system determine how many sides need to be captured. --></help>
+    <label><!-- ID Document Sides --></label>
+    <name>LLC_BI__ID_Document_Sides__c</name>
+</CustomFieldTranslation>

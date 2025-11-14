@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Frequency_Template__c</fullName>
+    <deleteConstraint>Restrict</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>The user manually populates this optional lookup field to reference the Date-Based Template record ID.</description>
+    <label>Frequency Template</label>
+    <lookupFilter>
+        <active>true</active>
+        <filterItems>
+            <field>LLC_BI__Date_Template__c.LLC_BI__Status__c</field>
+            <operation>equals</operation>
+            <value>Active</value>
+        </filterItems>
+        <filterItems>
+            <field>LLC_BI__Date_Template__c.LLC_BI__Type__c</field>
+            <operation>equals</operation>
+            <value>Covenants</value>
+        </filterItems>
+        <isOptional>true</isOptional>
+    </lookupFilter>
+    <referenceTo>LLC_BI__Date_Template__c</referenceTo>
+    <relationshipLabel>Covenant Mgmt</relationshipLabel>
+    <relationshipName>Covenant_Mgmt</relationshipName>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

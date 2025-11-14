@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Estimated_Time_In_Business__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users select this optional picklist field to specify the time in business if Business Start Date is missing. By default, it is empty.</description>
+    <inlineHelpText>Use this field to specify the time in business if Business Start Date is missing.</inlineHelpText>
+    <label>Estimated Time in Business</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Applicant has been in business less than two years</fullName>
+                <default>false</default>
+                <label>Applicant has been in business less than two years</label>
+            </value>
+            <value>
+                <fullName>Applicant has been in business two or more years</fullName>
+                <default>false</default>
+                <label>Applicant has been in business two or more years</label>
+            </value>
+            <value>
+                <fullName>Not provided by applicant and otherwise undetermined</fullName>
+                <default>false</default>
+                <label>Not provided by applicant and otherwise undetermined</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

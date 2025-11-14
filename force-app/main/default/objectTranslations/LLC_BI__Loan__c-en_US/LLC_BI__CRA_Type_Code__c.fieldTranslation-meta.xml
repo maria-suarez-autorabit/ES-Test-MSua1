@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Loan Type --></label>
+    <name>LLC_BI__CRA_Type_Code__c</name>
+    <picklistValues>
+        <masterLabel>Credit card</masterLabel>
+        <translation><!-- Credit card --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Home equity</masterLabel>
+        <translation><!-- Home equity --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Motor vehicle</masterLabel>
+        <translation><!-- Motor vehicle --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other loan data</masterLabel>
+        <translation><!-- Other loan data --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other secured consumer loans</masterLabel>
+        <translation><!-- Other secured consumer loans --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other secured lines of credit - small business</masterLabel>
+        <translation><!-- Other secured lines of credit - small business --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other unsecured consumer loans</masterLabel>
+        <translation><!-- Other unsecured consumer loans --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Small business</masterLabel>
+        <translation><!-- Small business --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Small farm</masterLabel>
+        <translation><!-- Small farm --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

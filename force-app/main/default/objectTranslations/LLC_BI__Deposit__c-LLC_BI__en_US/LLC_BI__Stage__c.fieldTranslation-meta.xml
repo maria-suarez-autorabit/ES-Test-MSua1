@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Stage --></label>
+    <name>LLC_BI__Stage__c</name>
+    <picklistValues>
+        <masterLabel>Active</masterLabel>
+        <translation><!-- Active --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Qualification</masterLabel>
+        <translation><!-- Qualification --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Signature Signed</masterLabel>
+        <translation><!-- Signature Signed --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

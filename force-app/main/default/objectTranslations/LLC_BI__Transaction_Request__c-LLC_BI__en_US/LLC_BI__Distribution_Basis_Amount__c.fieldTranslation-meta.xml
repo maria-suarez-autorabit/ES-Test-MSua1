@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- For Coverdell Education Savings Account (CESA) distributions this is the basis amount for the distribution. --></help>
+    <label><!-- Distribution Basis Amount --></label>
+    <name>LLC_BI__Distribution_Basis_Amount__c</name>
+</CustomFieldTranslation>

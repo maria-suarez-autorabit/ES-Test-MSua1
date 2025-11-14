@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Statement_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional date field to signify the date of the rent roll. By default, it is blank.</description>
+    <label>Statement Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

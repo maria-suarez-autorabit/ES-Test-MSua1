@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the type of the fee associated with the IRA plan. --></help>
+    <label><!-- IRA Plan Fee Type --></label>
+    <name>LLC_BI__IRA_Plan_Fee_Type__c</name>
+    <picklistValues>
+        <masterLabel>Annual Service/Administration Fee</masterLabel>
+        <translation><!-- Annual Service/Administration Fee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Establishment Fee</masterLabel>
+        <translation><!-- Establishment Fee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Termination Fee</masterLabel>
+        <translation><!-- Termination Fee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transfer/Direct Rollover Fee</masterLabel>
+        <translation><!-- Transfer/Direct Rollover Fee --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Session</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Sessions</value>
+    </caseValues>
+    <layouts>
+        <layout>Session Layout</layout>
+        <sections>
+            <label><!-- Session Data --></label>
+            <section>Session Data</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Open_Session --></label>
+        <name>nFORCE__Open_Session</name>
+    </webLinks>
+</CustomObjectTranslation>

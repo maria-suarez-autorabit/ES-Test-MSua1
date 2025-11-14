@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies how often accrued earnings are added to the principal balance of an account for the purpose of computing additional earnings/interest/dividends.  Should only be passed if negotiation has occurred at account opening. --></help>
+    <label><!-- Negotiated Compounding Frequency --></label>
+    <name>LLC_BI__Negotiated_Compounding_Frequency__c</name>
+    <picklistValues>
+        <masterLabel>Annually</masterLabel>
+        <translation><!-- Annually --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Continuous</masterLabel>
+        <translation><!-- Continuous --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Daily</masterLabel>
+        <translation><!-- Daily --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Every Other Week</masterLabel>
+        <translation><!-- Every Other Week --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Monthly</masterLabel>
+        <translation><!-- Monthly --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>No compounding/Simple</masterLabel>
+        <translation><!-- No compounding/Simple --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Quarterly</masterLabel>
+        <translation><!-- Quarterly --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Semiannually</masterLabel>
+        <translation><!-- Semiannually --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Semimonthly</masterLabel>
+        <translation><!-- Semimonthly --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Weekly</masterLabel>
+        <translation><!-- Weekly --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

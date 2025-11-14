@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Determines whether or not to balance the  total columns. If columns are grouped then the grouped columns will be balanced otherwise the columns themselves will be balanced. If the total is equal to zero it is considered balanced. --></help>
+    <label><!-- Balance Total --></label>
+    <name>LLC_BI__Balance_Total__c</name>
+</CustomFieldTranslation>

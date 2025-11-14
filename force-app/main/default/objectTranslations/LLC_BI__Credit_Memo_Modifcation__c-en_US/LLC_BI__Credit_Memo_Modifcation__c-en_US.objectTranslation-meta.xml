@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Memo</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Memos</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Does Not Require Approval --></label>
+        <name>LLC_BI__Does_Not_Require_Approval</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- InformationSection --></label>
+        <name>LLC_BI__InformationSection</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Memo Detail --></label>
+        <name>LLC_BI__Memo_Detail</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Modification Description --></label>
+        <name>LLC_BI__Modification_Description</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Requires Approval --></label>
+        <name>LLC_BI__Requires_Approval</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Memo Action --></label>
+        <name>LLC_BI__UI_Memo_Action</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Memo --></label>
+        <name>UI_Loan_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Does Not Require Approval --></label>
+        <name>cm_Does_Not_Require_Approval</name>
+    </fieldSets>
+    <layouts>
+        <layout>Change Memo Layout</layout>
+        <sections>
+            <label><!-- Change Memo Details --></label>
+            <section>Change Memo Details</section>
+        </sections>
+        <sections>
+            <label><!-- Does Not Require Approval --></label>
+            <section>Does Not Require Approval</section>
+        </sections>
+        <sections>
+            <label><!-- Monitored Fields --></label>
+            <section>Monitored Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Requires Approval --></label>
+            <section>Requires Approval</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Monitored Fields Change Memo Layout</layout>
+        <sections>
+            <label><!-- Does Not Require Approval --></label>
+            <section>Does Not Require Approval</section>
+        </sections>
+        <sections>
+            <label><!-- Modification Discription --></label>
+            <section>Modification Discription</section>
+        </sections>
+        <sections>
+            <label><!-- Monitored Fields --></label>
+            <section>Monitored Fields</section>
+        </sections>
+        <sections>
+            <label><!-- Requires Approval --></label>
+            <section>Requires Approval</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>nCino UI Memo Layout</layout>
+        <sections>
+            <label><!-- Memo Details --></label>
+            <section>Memo Details</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Memo Number</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Custom_Submit_Button --></label>
+        <name>Custom_Submit_Button</name>
+    </webLinks>
+</CustomObjectTranslation>

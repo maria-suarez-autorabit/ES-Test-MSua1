@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Connection</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Connections</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Additional Fields --></label>
+        <name>LLC_BI__Additional_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Beneficial Ownership --></label>
+        <name>PMB_Beneficial_Ownership</name>
+    </fieldSets>
+    <layouts>
+        <layout>Connection Layout</layout>
+        <sections>
+            <label><!-- Additional Details --></label>
+            <section>Additional Details</section>
+        </sections>
+        <sections>
+            <label><!-- Connecting From --></label>
+            <section>Connecting From</section>
+        </sections>
+        <sections>
+            <label><!-- Connecting To --></label>
+            <section>Connecting To</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Connections are not editable. --></errorMessage>
+        <name>LLC_BI__Prevent_Edit_on_Connections</name>
+    </validationRules>
+</CustomObjectTranslation>

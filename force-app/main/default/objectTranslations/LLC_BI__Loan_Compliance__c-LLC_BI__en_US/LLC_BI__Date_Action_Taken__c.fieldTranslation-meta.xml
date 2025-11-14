@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the date that the action was taken. For example the date the loan was originated, Application denied, Purchased Loan, etc. --></help>
+    <label><!-- Date Action Taken --></label>
+    <name>LLC_BI__Date_Action_Taken__c</name>
+</CustomFieldTranslation>

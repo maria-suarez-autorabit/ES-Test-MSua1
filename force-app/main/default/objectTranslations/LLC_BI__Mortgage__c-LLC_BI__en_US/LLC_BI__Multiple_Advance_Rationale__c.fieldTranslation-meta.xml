@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the reason for multiple advances of the loan. --></help>
+    <label><!-- Multiple Advance Rationale --></label>
+    <name>LLC_BI__Multiple_Advance_Rationale__c</name>
+    <picklistValues>
+        <masterLabel>Builder</masterLabel>
+        <translation><!-- Builder --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Contractor</masterLabel>
+        <translation><!-- Contractor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pre-Fabricated</masterLabel>
+        <translation><!-- Pre-Fabricated --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Self-Build</masterLabel>
+        <translation><!-- Self-Build --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

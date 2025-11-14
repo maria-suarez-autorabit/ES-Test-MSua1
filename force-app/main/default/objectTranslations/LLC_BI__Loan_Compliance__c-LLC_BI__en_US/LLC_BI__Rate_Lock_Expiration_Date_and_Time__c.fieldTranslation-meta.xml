@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the date and time the rate lock expires. --></help>
+    <label><!-- Rate Lock Expiration Date and Time --></label>
+    <name>LLC_BI__Rate_Lock_Expiration_Date_and_Time__c</name>
+</CustomFieldTranslation>

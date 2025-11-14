@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field specifies when a deposit belongs to an employee of the financial institution. --></help>
+    <label><!-- Employee Deposit --></label>
+    <name>LLC_BI__Employee_Deposit__c</name>
+</CustomFieldTranslation>

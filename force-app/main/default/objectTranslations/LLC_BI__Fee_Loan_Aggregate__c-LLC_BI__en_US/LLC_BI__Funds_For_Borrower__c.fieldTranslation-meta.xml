@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field displays the Funds for Borrower amount. --></help>
+    <label><!-- Funds For Borrower --></label>
+    <name>LLC_BI__Funds_For_Borrower__c</name>
+</CustomFieldTranslation>

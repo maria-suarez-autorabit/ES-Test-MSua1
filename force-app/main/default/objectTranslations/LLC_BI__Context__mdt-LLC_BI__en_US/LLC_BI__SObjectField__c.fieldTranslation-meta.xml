@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A SObjectField to be used in conjunction with it&apos;s associated SObjectType. --></help>
+    <label><!-- SObjectField --></label>
+    <name>LLC_BI__SObjectField__c</name>
+</CustomFieldTranslation>

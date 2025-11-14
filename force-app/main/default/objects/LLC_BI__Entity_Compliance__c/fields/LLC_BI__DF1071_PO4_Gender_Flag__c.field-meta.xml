@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_PO4_Gender_Flag__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional picklist field to indicate whether the applicant provided the sex/gender of principal owner 4. By default, it is empty.</description>
+    <inlineHelpText>Select a value to indicate whether the applicant provided the sex/gender of principal owner 4.</inlineHelpText>
+    <label>Principal Owner 4 Gender Flag</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>false</default>
+                <label>1 - The applicant responded in the free-form text field</label>
+            </value>
+            <value>
+                <fullName>966</fullName>
+                <default>false</default>
+                <label>966 - The applicant responded that they did not wish to provide this information</label>
+            </value>
+            <value>
+                <fullName>988</fullName>
+                <default>false</default>
+                <label>988 - Not provided by applicant</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

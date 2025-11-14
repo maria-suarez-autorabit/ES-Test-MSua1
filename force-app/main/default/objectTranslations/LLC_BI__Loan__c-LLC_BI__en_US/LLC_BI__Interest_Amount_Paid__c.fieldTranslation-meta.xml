@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The amount of interest paid to date. --></help>
+    <label><!-- Interest (Amt) Paid to Date --></label>
+    <name>LLC_BI__Interest_Amount_Paid__c</name>
+</CustomFieldTranslation>

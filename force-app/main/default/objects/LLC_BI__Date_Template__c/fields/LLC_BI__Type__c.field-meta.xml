@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional picklist field to set the type of the date template. By default, it is blank.</description>
+    <inlineHelpText>Select the type for this template</inlineHelpText>
+    <label>Type</label>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Covenants</fullName>
+                <default>false</default>
+                <label>Covenants</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

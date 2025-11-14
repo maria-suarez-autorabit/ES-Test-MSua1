@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Eg: If there is a husband and wife pair that own the real estate, reference both entities. --></help>
+    <label><!-- Collateral Owner 2 --></label>
+    <name>LLC_BI__Legal_Entity_2__c</name>
+    <relationshipLabel><!-- Collateral (Collateral Owner 2) --></relationshipLabel>
+</CustomFieldTranslation>

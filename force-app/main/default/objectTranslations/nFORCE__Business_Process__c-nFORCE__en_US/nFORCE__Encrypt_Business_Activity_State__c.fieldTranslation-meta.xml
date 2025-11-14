@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select checkbox to encrypt the state data of the business activities. --></help>
+    <label><!-- Encrypt Business Activity State --></label>
+    <name>nFORCE__Encrypt_Business_Activity_State__c</name>
+</CustomFieldTranslation>

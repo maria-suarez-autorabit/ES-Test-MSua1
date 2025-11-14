@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type --></label>
+    <name>LLC_BI__Type__c</name>
+    <picklistValues>
+        <masterLabel>Dollar Amount Change</masterLabel>
+        <translation><!-- Dollar Amount Change --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>No Change</masterLabel>
+        <translation><!-- No Change --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Percent Amount Change</masterLabel>
+        <translation><!-- Percent Amount Change --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Percent of Revenue</masterLabel>
+        <translation><!-- Percent of Revenue --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the loan status(es) to filter for the loans you want to include in the RLTV calculation. --></help>
+    <label><!-- Status --></label>
+    <name>LLC_BI__Status__c</name>
+    <picklistValues>
+        <masterLabel>Charge-Off</masterLabel>
+        <translation><!-- Charge-Off --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Declined</masterLabel>
+        <translation><!-- Declined --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hold</masterLabel>
+        <translation><!-- Hold --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lost</masterLabel>
+        <translation><!-- Lost --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Open</masterLabel>
+        <translation><!-- Open --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Paid Out</masterLabel>
+        <translation><!-- Paid Out --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Withdrawn</masterLabel>
+        <translation><!-- Withdrawn --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Do not use commas.  If the address of the property is unknown, please enter &apos;NA&apos;. --></help>
+    <label><!-- Property Securing FIPS County Code --></label>
+    <name>LLC_BI__HMDA_Property_Securing_FIPS_County_Code__c</name>
+</CustomFieldTranslation>

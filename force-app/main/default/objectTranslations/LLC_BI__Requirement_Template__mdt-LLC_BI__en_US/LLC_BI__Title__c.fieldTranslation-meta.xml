@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This required field contains the user facing name of Requirements based on this model. It should be copied to the Name field on Requirement records created from this template. --></help>
+    <label><!-- Title --></label>
+    <name>LLC_BI__Title__c</name>
+</CustomFieldTranslation>

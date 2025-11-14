@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Business_Process_Key__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this text field with a unique key that identifies the business process used for a specific domain or feature.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This field uses a unique key that identifies a business process for a specific domain or feature.</inlineHelpText>
+    <label>Business Process Key</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

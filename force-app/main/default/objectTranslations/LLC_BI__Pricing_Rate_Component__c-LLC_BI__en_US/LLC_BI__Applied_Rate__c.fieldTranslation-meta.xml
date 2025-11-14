@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system populated field displays the rate used for amortization calculations for a singular rate stream. --></help>
+    <label><!-- Applied Rate --></label>
+    <name>LLC_BI__Applied_Rate__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Break_Date__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The user populates this optional date field to set the break date of the lease that has been agreed upon with the involved parties. The timing of the break date can depend on the length of the term of the lease.</description>
+    <label>Break Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

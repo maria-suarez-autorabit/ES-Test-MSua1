@@ -10,7 +10,7 @@
     <enableCompileOnDeploy>false</enableCompileOnDeploy>
     <enableDebugLogsDuringDeployment>false</enableDebugLogsDuringDeployment>
     <enableDisableParallelApexTesting>false</enableDisableParallelApexTesting>
-    <enableGaplessTestAutoNum>true</enableGaplessTestAutoNum>
+    <enableGaplessTestAutoNum>false</enableGaplessTestAutoNum>
     <enableMngdCtrlActionAccessPref>false</enableMngdCtrlActionAccessPref>
     <enableNonCertifiedApexMdCrud>false</enableNonCertifiedApexMdCrud>
     <enableRestrictCommunityExecAnon>false</enableRestrictCommunityExecAnon>

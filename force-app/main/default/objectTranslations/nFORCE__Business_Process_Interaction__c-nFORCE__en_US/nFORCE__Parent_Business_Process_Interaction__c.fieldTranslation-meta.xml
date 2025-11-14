@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Displays the parent record to which this transaction is associated. --></help>
+    <label><!-- Parent Business Process Interaction --></label>
+    <name>nFORCE__Parent_Business_Process_Interaction__c</name>
+    <relationshipLabel><!-- Parent Business Process Interactions --></relationshipLabel>
+</CustomFieldTranslation>

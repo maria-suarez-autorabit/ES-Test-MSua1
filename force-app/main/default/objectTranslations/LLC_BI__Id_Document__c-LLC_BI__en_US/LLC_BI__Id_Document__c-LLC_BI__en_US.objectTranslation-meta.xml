@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Id Document</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Id Documents</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Alien Registration Card --></label>
+        <name>LLC_BI__Id_Document_AlienRegistrationCard</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Articles of Incorporation --></label>
+        <name>LLC_BI__Id_Document_ArticlesOfInc</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Articles of Organization --></label>
+        <name>LLC_BI__Id_Document_ArticlesOfOrg</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Business License --></label>
+        <name>LLC_BI__Id_Document_BusinessLicense</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Certificate of Existence --></label>
+        <name>LLC_BI__Id_Document_CertOfExistence</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Certificate of Partnership --></label>
+        <name>LLC_BI__Id_Document_CertOfPartnership</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Court Order for Estate --></label>
+        <name>LLC_BI__Id_Document_CourtOrderEstate</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- DBA registration --></label>
+        <name>LLC_BI__Id_Document_DBARegistration</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Drivers license --></label>
+        <name>LLC_BI__Id_Document_Drivers_License</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Matricular Consular --></label>
+        <name>LLC_BI__Id_Document_Matricular_Consular</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Partnership Agreement --></label>
+        <name>LLC_BI__Id_Document_PartnershipAgreement</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Passport --></label>
+        <name>LLC_BI__Id_Document_Passport</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Registration of Partnership --></label>
+        <name>LLC_BI__Id_Document_RegOfPartnership</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secretary of State Good Standing --></label>
+        <name>LLC_BI__Id_Document_SecOfStateGoodStand</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- State Issued ID --></label>
+        <name>LLC_BI__Id_Document_State_Id</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Tax Exempt status from IRS --></label>
+        <name>LLC_BI__Id_Document_TaxExemptStatus</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Trust Agreement --></label>
+        <name>LLC_BI__Id_Document_TrustAgreement</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- US Military ID Card --></label>
+        <name>LLC_BI__Id_Document_USMilitaryID</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- US Permanent Resident Card --></label>
+        <name>LLC_BI__Id_Document_USPermanentResidenceCard</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- US Temporary Resident Card --></label>
+        <name>LLC_BI__Id_Document_USTemporaryResidenceCard</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- US Visa --></label>
+        <name>LLC_BI__Id_Document_USVisa</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

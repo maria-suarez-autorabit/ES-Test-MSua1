@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the total requested amount of cash out by the borrower. Must be a numerical value. --></help>
+    <label><!-- Desired Cash Out Amount --></label>
+    <name>LLC_BI__Desired_Cash_Out_Amount_2__c</name>
+</CustomFieldTranslation>

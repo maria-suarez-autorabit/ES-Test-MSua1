@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates the date at which loan line of credit expires and converts to a loan. --></help>
+    <label><!-- Line Of Credit Draw Expiration Date --></label>
+    <name>LLC_BI__Line_Of_Credit_Draw_Expiration_Date__c</name>
+</CustomFieldTranslation>

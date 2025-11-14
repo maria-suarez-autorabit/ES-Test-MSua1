@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field displays the estimated daily cost of the product. For credit protection products, this field displays the estimated daily cost per $1000 of the loan. --></help>
+    <label><!-- Cost Per Day --></label>
+    <name>LLC_BI__Cost_Per_Day__c</name>
+</CustomFieldTranslation>

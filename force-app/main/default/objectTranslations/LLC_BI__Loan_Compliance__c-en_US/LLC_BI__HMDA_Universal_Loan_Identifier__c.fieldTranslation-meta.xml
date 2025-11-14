@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The ULI begins with the financial institution&apos;s Legal Entity Identifier.  Follows the Legal Entity Identifier with up to 23 additional characters to identify the covered loan or application.  Ends with a two-character check digit that is calculated using --></help>
+    <label><!-- Universal Loan Identifier (ULI) --></label>
+    <name>LLC_BI__HMDA_Universal_Loan_Identifier__c</name>
+</CustomFieldTranslation>

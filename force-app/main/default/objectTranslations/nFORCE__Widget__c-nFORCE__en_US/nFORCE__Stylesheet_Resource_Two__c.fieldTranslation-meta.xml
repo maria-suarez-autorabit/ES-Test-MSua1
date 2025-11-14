@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A cascading style sheet (CSS) resource to load with the widget. --></help>
+    <label><!-- Stylesheet Resource Two --></label>
+    <name>nFORCE__Stylesheet_Resource_Two__c</name>
+</CustomFieldTranslation>

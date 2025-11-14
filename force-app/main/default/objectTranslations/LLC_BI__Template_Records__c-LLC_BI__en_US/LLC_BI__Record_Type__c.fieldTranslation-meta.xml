@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the record type of the fee, cost, or adjustment. --></help>
+    <label><!-- Record Type --></label>
+    <name>LLC_BI__Record_Type__c</name>
+    <picklistValues>
+        <masterLabel>Adjustments</masterLabel>
+        <translation><!-- Adjustments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Costs</masterLabel>
+        <translation><!-- Costs --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fees</masterLabel>
+        <translation><!-- Fees --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

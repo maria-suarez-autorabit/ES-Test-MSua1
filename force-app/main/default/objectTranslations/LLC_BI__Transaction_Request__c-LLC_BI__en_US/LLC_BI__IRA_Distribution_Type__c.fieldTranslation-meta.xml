@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Specifies the type of distribution for a Traditional Beneficiary or Roth Beneficiary IRA. --></help>
+    <label><!-- IRA Distribution Type --></label>
+    <name>LLC_BI__IRA_Distribution_Type__c</name>
+    <picklistValues>
+        <masterLabel>Correction of Excess Contribution - After my tax-filing due date</masterLabel>
+        <translation><!-- Correction of Excess Contribution - After my tax-filing due date --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Correction of Excess Contribution - On or before my tax-filing due date in the same year as excess contribution</masterLabel>
+        <translation><!-- Correction of Excess Contribution - On or before my tax-filing due date in the same year as excess contribution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Correction of Excess Contribution - On or before my tax-filing due date in the year after excess contribution</masterLabel>
+        <translation><!-- Correction of Excess Contribution - On or before my tax-filing due date in the year after excess contribution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Death</masterLabel>
+        <translation><!-- Death --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>IRS Levy</masterLabel>
+        <translation><!-- IRS Levy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prohibited Transaction</masterLabel>
+        <translation><!-- Prohibited Transaction --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Recharacterization (Roth Beneficiary only)</masterLabel>
+        <translation><!-- Recharacterization (Roth Beneficiary only) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Revocation</masterLabel>
+        <translation><!-- Revocation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transfer</masterLabel>
+        <translation><!-- Transfer --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

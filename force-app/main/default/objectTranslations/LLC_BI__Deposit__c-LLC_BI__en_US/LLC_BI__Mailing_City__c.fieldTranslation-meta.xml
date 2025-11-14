@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- City for address used for a deposit product. This field is optional and can be populated during the Deposit Origination workflow. --></help>
+    <label><!-- City --></label>
+    <name>LLC_BI__Mailing_City__c</name>
+</CustomFieldTranslation>

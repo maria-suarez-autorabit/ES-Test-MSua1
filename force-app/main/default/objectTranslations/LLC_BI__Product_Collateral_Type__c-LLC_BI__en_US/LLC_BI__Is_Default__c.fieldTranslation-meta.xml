@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this checkbox if the collateral type you have connected to the product is the default collateral type. --></help>
+    <label><!-- Is Default --></label>
+    <name>LLC_BI__Is_Default__c</name>
+</CustomFieldTranslation>

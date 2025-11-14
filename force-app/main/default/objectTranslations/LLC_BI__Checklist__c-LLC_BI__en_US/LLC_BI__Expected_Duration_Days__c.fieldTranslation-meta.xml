@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This optional field contains the number of days expected to complete this Checklist. --></help>
+    <label><!-- Expected Duration Days --></label>
+    <name>LLC_BI__Expected_Duration_Days__c</name>
+</CustomFieldTranslation>

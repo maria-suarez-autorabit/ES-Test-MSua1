@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Key used to look up the label value --></help>
+    <label><!-- Label Key --></label>
+    <name>LLC_BI__Label_Key__c</name>
+</CustomFieldTranslation>

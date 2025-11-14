@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Lease_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional picklist field to indicate the type of lease agreement for a specific property or asset.</description>
+    <label>Lease Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Triple Net Lease</fullName>
+                <default>false</default>
+                <label>Triple Net Lease</label>
+            </value>
+            <value>
+                <fullName>Full Service Lease</fullName>
+                <default>false</default>
+                <label>Full Service Lease</label>
+            </value>
+            <value>
+                <fullName>Modified Gross Lease</fullName>
+                <default>false</default>
+                <label>Modified Gross Lease</label>
+            </value>
+            <value>
+                <fullName>Absolute Net Lease</fullName>
+                <default>false</default>
+                <label>Absolute Net Lease</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

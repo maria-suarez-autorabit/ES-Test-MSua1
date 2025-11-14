@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field indicates the transaction request aggregate associated with the transaction request. --></help>
+    <label><!-- Transaction Request Aggregate --></label>
+    <name>LLC_BI__Transaction_Request_Aggregate__c</name>
+    <relationshipLabel><!-- Transaction Requests --></relationshipLabel>
+</CustomFieldTranslation>

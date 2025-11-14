@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Controlling Feature --></label>
+    <name>nFORCE__Controlling_Feature__c</name>
+    <relationshipLabel><!-- Controlling Feature Dependencies --></relationshipLabel>
+</CustomFieldTranslation>

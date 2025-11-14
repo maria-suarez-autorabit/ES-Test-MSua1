@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Displays the identifier of the object related to this transaction. --></help>
+    <label><!-- Context Id --></label>
+    <name>nFORCE__Context_Id__c</name>
+</CustomFieldTranslation>

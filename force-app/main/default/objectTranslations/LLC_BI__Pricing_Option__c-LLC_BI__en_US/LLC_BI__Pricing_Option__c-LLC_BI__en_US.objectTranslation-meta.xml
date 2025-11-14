@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Pricing Option</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Pricing Options</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Collapsed Offer Card Summary --></label>
+        <name>LLC_BI__Collapsed_Offer_Card_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Default Field Set --></label>
+        <name>LLC_BI__Default_Field_Set</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Default Field Set Bottom --></label>
+        <name>LLC_BI__Default_Field_Set_Bottom</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Default Field Set Top --></label>
+        <name>LLC_BI__Default_Field_Set_Top</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Expanded Offer Card Summary --></label>
+        <name>LLC_BI__Expanded_Offer_Card_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Modal Bottom Component --></label>
+        <name>LLC_BI__Modal_Bottom_Component</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Modal Middle Component --></label>
+        <name>LLC_BI__Modal_Middle_Component</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Modal Top Component --></label>
+        <name>LLC_BI__Modal_Top_Component</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Pricing Modal Fees --></label>
+        <name>LLC_BI__Pricing_Modal_Fees</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Pricing Option Loan Details --></label>
+        <name>LLC_BI__Pricing_Option_Loan_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Pricing Option Risk Assumptions --></label>
+        <name>LLC_BI__Pricing_Option_Risk_Assumptions</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Pricing Scenario Sort --></label>
+        <name>LLC_BI__Pricing_Scenario_Sort</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price Adjustments Panel Fields --></label>
+        <name>LLC_BI__Quick_Price_Adjustments_Panel_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price Bottom --></label>
+        <name>LLC_BI__Quick_Price_Bottom</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price Calculator --></label>
+        <name>LLC_BI__Quick_Price_Calculator</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price History --></label>
+        <name>LLC_BI__Quick_Price_History</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price Interest Rate --></label>
+        <name>LLC_BI__Quick_Price_Interest_Rate</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price Loan Terms --></label>
+        <name>LLC_BI__Quick_Price_Loan_Terms</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price Payment Information --></label>
+        <name>LLC_BI__Quick_Price_Payment_Information</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Quick Price Product Selection Step --></label>
+        <name>LLC_BI__Quick_Price_Product_Selection_Step</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Rate Sheet Pricing Generate Scenarios --></label>
+        <name>LLC_BI__Rate_Sheet_Pricing_Generate_Scenarios</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Rate Sheet Pricing Loan Options --></label>
+        <name>LLC_BI__Rate_Sheet_Pricing_Loan_Options</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Scenario Card Bottom Component --></label>
+        <name>LLC_BI__Scenario_Card_Bottom_Component</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Scenario Card Top Component --></label>
+        <name>LLC_BI__Scenario_Card_Top</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Scenario Profitability Top Component --></label>
+        <name>LLC_BI__Scenario_Profitability_Top_Component</name>
+    </fieldSets>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>

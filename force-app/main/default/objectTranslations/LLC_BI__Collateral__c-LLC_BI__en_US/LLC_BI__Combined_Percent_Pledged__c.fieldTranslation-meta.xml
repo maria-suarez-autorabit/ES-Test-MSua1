@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The percentage of this collateral that has been pledged. --></help>
+    <label><!-- Combined Percent Pledged --></label>
+    <name>LLC_BI__Combined_Percent_Pledged__c</name>
+</CustomFieldTranslation>

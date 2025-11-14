@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the closing disclosure delivery method for the loan. --></help>
+    <label><!-- Closing Disclosure Delivery Method --></label>
+    <name>LLC_BI__Closing_Disclosure_Delivery_Method__c</name>
+    <picklistValues>
+        <masterLabel>Electronic</masterLabel>
+        <translation><!-- Electronic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In-person</masterLabel>
+        <translation><!-- In-person --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mail</masterLabel>
+        <translation><!-- Mail --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

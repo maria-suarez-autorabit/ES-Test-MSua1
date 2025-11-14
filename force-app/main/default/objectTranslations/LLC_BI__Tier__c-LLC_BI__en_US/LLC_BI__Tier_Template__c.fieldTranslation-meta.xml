@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system enters a tier template in which the tier in context was cloned --></help>
+    <label><!-- Tier Template --></label>
+    <name>LLC_BI__Tier_Template__c</name>
+    <relationshipLabel><!-- Related Tiers --></relationshipLabel>
+</CustomFieldTranslation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Day__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this number field to set the day on the date template. By default, it is blank.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Select the day for this template</inlineHelpText>
+    <label>Day</label>
+    <precision>2</precision>
+    <required>true</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

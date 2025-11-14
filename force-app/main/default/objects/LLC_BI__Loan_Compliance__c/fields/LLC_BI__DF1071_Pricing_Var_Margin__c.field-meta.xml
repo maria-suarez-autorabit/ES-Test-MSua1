@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_Pricing_Var_Margin__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional text field with a percentage to specify the variable interest rate margin. By default, it is empty.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Use this field to specify the variable interest rate margin.</inlineHelpText>
+    <label>Variable Interest Rate Margin</label>
+    <length>10</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Populate this field with the sum of any one-time fees associated with treasury products an FI originates in the deal outside of nCino. Exclusive of recurring fees captured in New Monthly Treasury Income. --></help>
+    <label><!-- New Treasury One Time Fee Amount --></label>
+    <name>LLC_BI__New_Treasury_One_Time_Fee_Amount__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_Time_In_Business_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional picklist field to indicate the range of specified years the business has been in operation. By default, it is empty.</description>
+    <inlineHelpText>Select a value to indicate the range of specified years the business has been in operation.</inlineHelpText>
+    <label>Time In Business Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>false</default>
+                <label>1 - The number of years the applicant has been in business is collected or obtained by the financial institution</label>
+            </value>
+            <value>
+                <fullName>2</fullName>
+                <default>false</default>
+                <label>2 - Applicant has been in business less than two years</label>
+            </value>
+            <value>
+                <fullName>3</fullName>
+                <default>false</default>
+                <label>3 - Applicant has been in business two or more years</label>
+            </value>
+            <value>
+                <fullName>988</fullName>
+                <default>false</default>
+                <label>988 - Not provided by applicant and otherwise undetermined</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

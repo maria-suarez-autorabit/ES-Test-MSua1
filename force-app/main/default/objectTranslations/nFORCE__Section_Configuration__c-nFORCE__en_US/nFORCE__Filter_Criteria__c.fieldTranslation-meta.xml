@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is optional and is populated by the Section Builder tool. The field denotes whether a tier should return only records that meet the specified criteria. The value should use appropriate syntax for the WHERE clause of a SOQL query. --></help>
+    <label><!-- Filter Criteria --></label>
+    <name>nFORCE__Filter_Criteria__c</name>
+</CustomFieldTranslation>

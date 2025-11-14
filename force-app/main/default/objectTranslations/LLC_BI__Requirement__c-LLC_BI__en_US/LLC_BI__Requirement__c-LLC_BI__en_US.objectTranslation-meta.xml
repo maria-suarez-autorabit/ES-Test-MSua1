@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Requirement</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Requirements</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Maintenance Request Orders --></label>
+        <name>LLC_BI__Maintenance_Request_Orders</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Smart Checklist Account Fields --></label>
+        <name>LLC_BI__Smart_Checklist_Account_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Smart Checklist Collateral Fields --></label>
+        <name>LLC_BI__Smart_Checklist_Collateral_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Smart Checklist Loan Fields --></label>
+        <name>LLC_BI__Smart_Checklist_Loan_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Smart Checklist Product Package Fields --></label>
+        <name>LLC_BI__Smart_Checklist_Product_Package_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Smart Checklist Treasury Service Fields --></label>
+        <name>LLC_BI__Smart_Checklist_Treasury_Service_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Conditions Category Fields --></label>
+        <name>nCino__Conditions_Category_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Covenants Category Fields --></label>
+        <name>nCino__Covenants_Category_Fields</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

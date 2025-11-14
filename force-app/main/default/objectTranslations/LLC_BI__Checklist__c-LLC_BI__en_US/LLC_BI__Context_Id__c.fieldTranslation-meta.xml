@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This required field contains the id of the sObject record to which this Checklist pertains. --></help>
+    <label><!-- Context Id --></label>
+    <name>LLC_BI__Context_Id__c</name>
+</CustomFieldTranslation>

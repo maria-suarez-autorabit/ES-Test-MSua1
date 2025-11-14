@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this checkbox if you accept the terms outlined in the document. --></help>
+    <label><!-- Agreed --></label>
+    <name>nFORCE__Agreed__c</name>
+</CustomFieldTranslation>

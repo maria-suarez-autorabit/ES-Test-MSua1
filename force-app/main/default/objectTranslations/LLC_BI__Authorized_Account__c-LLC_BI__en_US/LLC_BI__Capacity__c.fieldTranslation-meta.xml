@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Capacity --></label>
+    <name>LLC_BI__Capacity__c</name>
+    <picklistValues>
+        <masterLabel>Beneficiary</masterLabel>
+        <translation><!-- Beneficiary --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>General Partner</masterLabel>
+        <translation><!-- General Partner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Manager</masterLabel>
+        <translation><!-- Manager --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Member</masterLabel>
+        <translation><!-- Member --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Partner</masterLabel>
+        <translation><!-- Partner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trustee</masterLabel>
+        <translation><!-- Trustee --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

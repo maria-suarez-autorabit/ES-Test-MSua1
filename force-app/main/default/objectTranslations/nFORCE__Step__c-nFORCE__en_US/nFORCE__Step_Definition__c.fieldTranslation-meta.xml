@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the unique name of the flow or class that defines this step&apos;s behavior. --></help>
+    <label><!-- Definition --></label>
+    <name>nFORCE__Step_Definition__c</name>
+</CustomFieldTranslation>

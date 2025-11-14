@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- When populated, this field contains the annual percentage rate (APR) without any applied credit protections. --></help>
+    <label><!-- APR Without Credit Protection --></label>
+    <name>LLC_BI__APR_Without_Credit_Protection__c</name>
+</CustomFieldTranslation>

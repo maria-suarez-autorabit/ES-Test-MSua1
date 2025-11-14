@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This external product name is used to specify the product file name for external doc prep providers such as Laser Pro. --></help>
+    <label><!-- External Product Name --></label>
+    <name>LLC_BI__External_Product_Name__c</name>
+</CustomFieldTranslation>

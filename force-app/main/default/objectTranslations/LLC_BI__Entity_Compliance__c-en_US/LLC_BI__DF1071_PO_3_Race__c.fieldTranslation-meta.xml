@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value(s) to indicate the race of principal owner 3. --></help>
+    <label><!-- Principal Owner 3 Race --></label>
+    <name>LLC_BI__DF1071_PO_3_Race__c</name>
+    <picklistValues>
+        <masterLabel>1- American Indian or Alaska Native</masterLabel>
+        <translation><!-- 1- American Indian or Alaska Native --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Asian</masterLabel>
+        <translation><!-- 2 - Asian --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>21 - Asian Indian</masterLabel>
+        <translation><!-- 21 - Asian Indian --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>22 - Chinese</masterLabel>
+        <translation><!-- 22 - Chinese --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>23 - Filipino</masterLabel>
+        <translation><!-- 23 - Filipino --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>24 - Japanese</masterLabel>
+        <translation><!-- 24 - Japanese --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>25 - Korean</masterLabel>
+        <translation><!-- 25 - Korean --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>26 - Vietnamese</masterLabel>
+        <translation><!-- 26 - Vietnamese --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>27 - Other Asian Race</masterLabel>
+        <translation><!-- 27 - Other Asian Race --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - Black or African American</masterLabel>
+        <translation><!-- 3 - Black or African American --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>31 - African American</masterLabel>
+        <translation><!-- 31 - African American --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>32 - Ethiopian</masterLabel>
+        <translation><!-- 32 - Ethiopian --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>33 - Haitian</masterLabel>
+        <translation><!-- 33 - Haitian --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>34 - Jamaican</masterLabel>
+        <translation><!-- 34 - Jamaican --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>35 - Nigerian</masterLabel>
+        <translation><!-- 35 - Nigerian --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>36 - Somali</masterLabel>
+        <translation><!-- 36 - Somali --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>37 - Other Black or African American Race</masterLabel>
+        <translation><!-- 37 - Other Black or African American Race --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>4 - Native Hawaiian or Other Pacific Islander</masterLabel>
+        <translation><!-- 4 - Native Hawaiian or Other Pacific Islander --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>41 - Native Hawaiian</masterLabel>
+        <translation><!-- 41 - Native Hawaiian --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>42 - Guamanian or Chamorro</masterLabel>
+        <translation><!-- 42 - Guamanian or Chamorro --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>43 - Samoan</masterLabel>
+        <translation><!-- 43 - Samoan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>44 - Other Pacific Islander Race</masterLabel>
+        <translation><!-- 44 - Other Pacific Islander Race --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>5 - White</masterLabel>
+        <translation><!-- 5 - White --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>966 - The applicant responded that they did not wish to provide this information</masterLabel>
+        <translation><!-- 966 - The applicant responded that they did not wish to provide this information --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>971 - The applicant responded in the free-form text field for American Indian or Alaska Native Enrolled or Principal Tribe</masterLabel>
+        <translation><!-- 971 - The applicant responded in the free-form text field for American Indian or Alaska Native Enrolled or Principal Tribe --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>972 - The applicant responded in the free-form text field for Other Asian race</masterLabel>
+        <translation><!-- 972 - The applicant responded in the free-form text field for Other Asian race --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>973 - The applicant responded in the free-form text field for Other Black or African race</masterLabel>
+        <translation><!-- 973 - The applicant responded in the free-form text field for Other Black or African race --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>974 - The applicant responded in the free-form text field for Other Pacific Islander race</masterLabel>
+        <translation><!-- 974 - The applicant responded in the free-form text field for Other Pacific Islander race --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided by applicant</masterLabel>
+        <translation><!-- 988 - Not provided by applicant --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

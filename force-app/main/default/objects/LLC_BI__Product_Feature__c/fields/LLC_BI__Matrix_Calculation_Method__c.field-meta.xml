@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Matrix_Calculation_Method__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrator populates this picklist to determine which pricing method will be associated for the loan product.</description>
+    <inlineHelpText>Select the matrix calculation method of the associated loan.</inlineHelpText>
+    <label>Pricing Method</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Rule Engine</fullName>
+                <default>true</default>
+                <label>Rule Engine</label>
+            </value>
+            <value>
+                <fullName>Matrix Management</fullName>
+                <default>false</default>
+                <label>Matrix Management</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

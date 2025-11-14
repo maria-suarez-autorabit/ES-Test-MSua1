@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the total monetary value of fees associated with the condo. --></help>
+    <label><!-- Condo Fees --></label>
+    <name>LLC_BI__Condo_Fees__c</name>
+</CustomFieldTranslation>

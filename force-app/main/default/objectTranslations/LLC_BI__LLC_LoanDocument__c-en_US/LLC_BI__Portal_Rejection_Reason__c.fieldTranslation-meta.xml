@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Portal Rejection Reason --></label>
+    <name>LLC_BI__Portal_Rejection_Reason__c</name>
+    <picklistValues>
+        <masterLabel>Incomplete</masterLabel>
+        <translation><!-- Incomplete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Missing Signature</masterLabel>
+        <translation><!-- Missing Signature --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Out of Date</masterLabel>
+        <translation><!-- Out of Date --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unreadable</masterLabel>
+        <translation><!-- Unreadable --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wrong File</masterLabel>
+        <translation><!-- Wrong File --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

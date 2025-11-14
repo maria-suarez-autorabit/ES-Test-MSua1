@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field displays Adjusted Monthly Income when a percentage is entered in the Adjusted Percent field. --></help>
+    <label><!-- Adjusted Monthly Income --></label>
+    <name>LLC_BI__Adjusted_Monthly_Income__c</name>
+</CustomFieldTranslation>

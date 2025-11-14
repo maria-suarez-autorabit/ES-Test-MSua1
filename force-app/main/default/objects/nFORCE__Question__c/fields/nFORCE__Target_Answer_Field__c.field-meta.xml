@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nFORCE__Target_Answer_Field__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional text field to capture the context record target field for a question that will be updated with an answer. By default, it is blank.</description>
+    <inlineHelpText>Enter the context record object API and target field API using dot notation (for example, Account.Name). This field is case-sensitive.</inlineHelpText>
+    <label>Target Answer Field</label>
+    <length>256</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

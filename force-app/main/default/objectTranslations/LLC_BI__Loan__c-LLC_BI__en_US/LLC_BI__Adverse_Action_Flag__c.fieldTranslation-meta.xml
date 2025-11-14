@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If AAF = 1, then the stage was changed to decline by Credit. If AAF = 0, then it was changed by non-credit and required approval. --></help>
+    <label><!-- Adverse Action Flag --></label>
+    <name>LLC_BI__Adverse_Action_Flag__c</name>
+</CustomFieldTranslation>

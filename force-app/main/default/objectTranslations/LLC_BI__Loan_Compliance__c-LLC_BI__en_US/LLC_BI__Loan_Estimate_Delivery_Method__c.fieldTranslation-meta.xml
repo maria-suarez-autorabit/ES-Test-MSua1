@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the loan estimate delivery method for the loan. --></help>
+    <label><!-- Loan Estimate Delivery Method --></label>
+    <name>LLC_BI__Loan_Estimate_Delivery_Method__c</name>
+    <picklistValues>
+        <masterLabel>Electronic</masterLabel>
+        <translation><!-- Electronic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In-person</masterLabel>
+        <translation><!-- In-person --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mail</masterLabel>
+        <translation><!-- Mail --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

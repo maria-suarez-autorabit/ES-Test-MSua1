@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This currency field is optional. The user manually populates this field with the high end of the loan value range. --></help>
+    <label><!-- Maximum Loan Value --></label>
+    <name>LLC_BI__Loan_Value_Maximum__c</name>
+</CustomFieldTranslation>

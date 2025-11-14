@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Qualified_Mortgage_Indicator__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>User selects this checkbox to indicate that a loan qualifies as a Qualified Mortgage. By default, this field is deselected.</description>
+    <inlineHelpText>This field indicates if a loan qualifies as Qualified Mortgage.</inlineHelpText>
+    <label>Qualified Mortgage Indicator</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

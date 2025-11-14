@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Guarantee_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users select from this optional multi-picklist field to indicate which guarantee type(s) apply to the loan. By default, it is empty.</description>
+    <inlineHelpText>Select the guarantee type(s) that apply to the loan.</inlineHelpText>
+    <label>Guarantee Type</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>personal_owner</fullName>
+                <default>false</default>
+                <label>Personal guarantee - owner(s)</label>
+            </value>
+            <value>
+                <fullName>personal_non_owner</fullName>
+                <default>false</default>
+                <label>Personal guarantee - non-owner(s)</label>
+            </value>
+            <value>
+                <fullName>sba_7a</fullName>
+                <default>false</default>
+                <label>SBA guarantee - 7(a) program</label>
+            </value>
+            <value>
+                <fullName>sba_504</fullName>
+                <default>false</default>
+                <label>SBA guarantee - 504 program</label>
+            </value>
+            <value>
+                <fullName>sba_other</fullName>
+                <default>false</default>
+                <label>SBA guarantee - other</label>
+            </value>
+            <value>
+                <fullName>usda</fullName>
+                <default>false</default>
+                <label>USDA guarantee</label>
+            </value>
+            <value>
+                <fullName>fha</fullName>
+                <default>false</default>
+                <label>FHA insurance</label>
+            </value>
+            <value>
+                <fullName>bia</fullName>
+                <default>false</default>
+                <label>Bureau of Indian Affairs guarantee</label>
+            </value>
+            <value>
+                <fullName>other_federal</fullName>
+                <default>false</default>
+                <label>Other Federal guarantee</label>
+            </value>
+            <value>
+                <fullName>state_gov</fullName>
+                <default>false</default>
+                <label>State government guarantee</label>
+            </value>
+            <value>
+                <fullName>local_gov</fullName>
+                <default>false</default>
+                <label>Local government guarantee</label>
+            </value>
+            <value>
+                <fullName>no_guarantee</fullName>
+                <default>false</default>
+                <label>No guarantee</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

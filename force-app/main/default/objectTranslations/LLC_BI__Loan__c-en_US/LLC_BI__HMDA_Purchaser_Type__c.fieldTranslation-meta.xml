@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- -D Type of Purchase --></label>
+    <name>LLC_BI__HMDA_Purchaser_Type__c</name>
+    <picklistValues>
+        <masterLabel>Code 0—Loan was not originated or was not sold in calendar year covered by register</masterLabel>
+        <translation><!-- Code 0—Loan was not originated or was not sold in calendar year covered by register --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 1—Fannie Mae (FNMA)</masterLabel>
+        <translation><!-- Code 1—Fannie Mae (FNMA) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 2—Ginnie Mae (GNMA)</masterLabel>
+        <translation><!-- Code 2—Ginnie Mae (GNMA) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 3—Freddie Mac (FHLMC)</masterLabel>
+        <translation><!-- Code 3—Freddie Mac (FHLMC) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 4—Farmer Mac (FAMC)</masterLabel>
+        <translation><!-- Code 4—Farmer Mac (FAMC) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 5—Private securitization</masterLabel>
+        <translation><!-- Code 5—Private securitization --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 6—Commercial bank, savings bank, or savings association</masterLabel>
+        <translation><!-- Code 6—Commercial bank, savings bank, or savings association --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 7—Life insurance company, credit union, mortgage bank, or finance company</masterLabel>
+        <translation><!-- Code 7—Life insurance company, credit union, mortgage bank, or finance company --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 8—Affiliate institution</masterLabel>
+        <translation><!-- Code 8—Affiliate institution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Code 9—Other type of purchaser</masterLabel>
+        <translation><!-- Code 9—Other type of purchaser --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

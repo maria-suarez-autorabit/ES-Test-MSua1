@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Is_Non_Escrowed_Property_Cost__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional formula checkbox field to indicate
+        the debt is a non-escrowed property cost. By default, it is false.</description>
+    <formula>IF(
+            CASE(LLC_BI__Debt_Type__c,
+                &quot;Proposed Homeowners Insurance&quot;,
+                    IF(
+                        INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Homeowners Insurance&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Flood Insurance&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Wind and Hail&quot;),
+                        1, 0
+                    ),
+                &quot;Proposed Property Taxes&quot;,
+                    IF(
+                        INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;County Property Taxes&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;City Property Taxes&quot;),
+                        1, 0
+                    ),
+                &quot;Proposed Property Association Dues&quot;,
+                    IF(
+                        INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Condo Association Dues&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Condo Association Special Assessment&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Coop Association Dues&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Coop Association Special Assessment&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Ground Rent&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Homeowners Association Dues&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Homeowners Association Special Assessment&quot;) ||
+                            INCLUDES(LLC_BI__Non_Escrowed_Property_Cost_Type__c, &quot;Leasehold Payment&quot;),
+                        1, 0
+                    ),
+                0
+            ) == 1, 
+            true, 
+            false
+        )</formula>
+    <inlineHelpText>This checkbox indicates the debt is a non-escrowed property cost.</inlineHelpText>
+    <label>Is Non-Escrowed Property Cost</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

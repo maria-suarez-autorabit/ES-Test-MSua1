@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Covenant</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Covenants</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- CM - Covenants - L --></label>
+        <name>CM_Covenants_L</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CM - Covenants - PP --></label>
+        <name>CM_Covenants_PP</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CM - Covenants - PPRV --></label>
+        <name>CM_Covenants_PPRV</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- CM - Covenants - RRV --></label>
+        <name>CM_Covenants_RRV</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Lookup Fields --></label>
+        <name>LLC_BI__UI_Lookup_Fields</name>
+    </fieldSets>
+    <layouts>
+        <layout>Covenant Layout</layout>
+        <sections>
+            <label><!-- Comments --></label>
+            <section>Comments</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <workflowTasks>
+        <name>Covenant_Next_Evaluation_Date_in_30_Days_Alert</name>
+        <subject><!-- Covenant - Next Evaluation Date in 30 Days Alert --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Covenant_Next_Evaluation_Date_in_60_Days_Alert</name>
+        <subject><!-- Covenant - Next Evaluation Date in 60 Days Alert --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>Covenant_Next_Evaluation_Date_in_90_Days_Alert</name>
+        <subject><!-- Covenant - Next Evaluation Date in 90 Days Alert --></subject>
+    </workflowTasks>
+    <workflowTasks>
+        <name>LLC_BI__Review_Covenant_for_Compliance</name>
+        <subject><!-- Review Covenant for Compliance --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

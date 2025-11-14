@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Collateral__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>Users populate this required field to reference the collateral that is associated with the tenancy. The system automatically populates the field if the user created the tenancy from a collateral record.</description>
+    <inlineHelpText>This field displays the relationship between the collateral and the tenancy.</inlineHelpText>
+    <label>Collateral</label>
+    <referenceTo>LLC_BI__Collateral__c</referenceTo>
+    <relationshipLabel>Tenancies</relationshipLabel>
+    <relationshipName>Collateral_Tenancies</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

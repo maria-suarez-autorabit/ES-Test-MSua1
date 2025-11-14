@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nCino__Relationship_Tenancy_Additional_Columns</fullName>
+    <description>The field set displays additional fields on a relationship record at the end of the tenancies table.</description>
+    <label>Tenancy Management Additional Fields (Relationship)</label>
+</FieldSet>

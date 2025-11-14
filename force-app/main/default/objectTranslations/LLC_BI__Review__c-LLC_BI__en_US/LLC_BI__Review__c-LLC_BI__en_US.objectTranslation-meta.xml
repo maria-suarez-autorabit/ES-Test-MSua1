@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Review</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Reviews</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Account --></label>
+        <name>Credit_Memo_Standard_Review_Account</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard  Review Product Package --></label>
+        <name>Credit_Memo_Standard_Review_Product_Pack</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product_Package_Related_List --></label>
+        <name>LLC_BI__Product_Package_Related_List</name>
+    </fieldSets>
+    <layouts>
+        <layout>Account In Progress</layout>
+        <sections>
+            <label><!-- Approval Details --></label>
+            <section>Approval Details</section>
+        </sections>
+        <sections>
+            <label><!-- Loans --></label>
+            <section>Loans</section>
+        </sections>
+        <sections>
+            <label><!-- Underwriting --></label>
+            <section>Underwriting</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Account Review Complete</layout>
+        <sections>
+            <label><!-- Approval Details --></label>
+            <section>Approval Details</section>
+        </sections>
+        <sections>
+            <label><!-- Loans --></label>
+            <section>Loans</section>
+        </sections>
+        <sections>
+            <label><!-- Underwriting --></label>
+            <section>Underwriting</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Package Complete</layout>
+        <sections>
+            <label><!-- Comments --></label>
+            <section>Comments</section>
+        </sections>
+        <sections>
+            <label><!-- Loans --></label>
+            <section>Loans</section>
+        </sections>
+        <sections>
+            <label><!-- Product Package --></label>
+            <section>Product Package</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Package In Progress</layout>
+        <sections>
+            <label><!-- Comments --></label>
+            <section>Comments</section>
+        </sections>
+        <sections>
+            <label><!-- Loans --></label>
+            <section>Loans</section>
+        </sections>
+        <sections>
+            <label><!-- Product Package --></label>
+            <section>Product Package</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Update Review --></label>
+        <name>Approval_Details</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Generate Credit Memo --></label>
+        <name>Generate_Credit_Memo</name>
+    </quickActions>
+    <recordTypes>
+        <description><!-- Account Review Complete --></description>
+        <label><!-- Account Review Complete --></label>
+        <name>LLC_BI__Account_Review_Complete</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Account Review In Progress --></description>
+        <label><!-- Account Review In Progress --></label>
+        <name>LLC_BI__Account_Review_In_Progress</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Package Review Complete --></description>
+        <label><!-- Package Review Complete --></label>
+        <name>LLC_BI__Package_Review_Complete</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Package Review In Progress --></description>
+        <label><!-- Package Review In Progress --></label>
+        <name>LLC_BI__Package_Review_In_Progress</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- You Cannot Manually Change the Review Stage to Approval. Please Ensure That All Information is Accurate and Press the &apos;Submit for Approval&apos; Button at the Top of the Page. - RV01 --></errorMessage>
+        <name>Review_Validation_01</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You Cannot Manually Change the Review to a Post Approval Stage. The Review Must be Approved by Pressing the &apos;Submit for Approval&apos; Button at the Top of the Page. - RV02 --></errorMessage>
+        <name>Review_Validation_02</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Credit_Memo --></label>
+        <name>LLC_BI__Credit_Memo</name>
+    </webLinks>
+</CustomObjectTranslation>

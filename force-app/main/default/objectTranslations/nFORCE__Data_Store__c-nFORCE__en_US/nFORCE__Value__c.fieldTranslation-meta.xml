@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Data store value is a generic value.  This will likely not be used in user analytics, but could be used if capturing data from the FDIC or another source. --></help>
+    <label><!-- Value --></label>
+    <name>nFORCE__Value__c</name>
+</CustomFieldTranslation>

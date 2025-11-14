@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the API name of the field on the Relationship Loan to Value Calculation object where you want the relationship LTV calculated value to populate. --></help>
+    <label><!-- RLTV Calculated Value Field --></label>
+    <name>LLC_BI__RLTV_Calculated_Value_Field__c</name>
+</CustomFieldTranslation>

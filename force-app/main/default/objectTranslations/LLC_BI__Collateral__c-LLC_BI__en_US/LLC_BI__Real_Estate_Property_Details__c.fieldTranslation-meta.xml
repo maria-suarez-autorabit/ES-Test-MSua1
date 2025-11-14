@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This optional lookup field links the Real Estate Property Details records that capture additional property details to the Real Estate Collateral records. --></help>
+    <label><!-- Real Estate Property Details --></label>
+    <name>LLC_BI__Real_Estate_Property_Details__c</name>
+    <relationshipLabel><!-- Collateral Mgmt --></relationshipLabel>
+</CustomFieldTranslation>

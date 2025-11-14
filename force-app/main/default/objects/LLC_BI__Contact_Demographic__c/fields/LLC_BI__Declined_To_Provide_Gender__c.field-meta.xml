@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Declined_To_Provide_Gender__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Users select this optional checkbox field to indicate that the individual declined to provide their gender information. By default, it is false.</description>
+    <inlineHelpText>Use this field to indicate the individual declined to provide their gender information.</inlineHelpText>
+    <label>Declined to Provide Gender</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

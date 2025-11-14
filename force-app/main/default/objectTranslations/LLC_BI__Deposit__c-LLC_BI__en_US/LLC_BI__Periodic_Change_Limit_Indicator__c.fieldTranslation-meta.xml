@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true there is a limit to the amount that a variable rate can change over successive specified periods. --></help>
+    <label><!-- Periodic Change Limit Indicator --></label>
+    <name>LLC_BI__Periodic_Change_Limit_Indicator__c</name>
+</CustomFieldTranslation>

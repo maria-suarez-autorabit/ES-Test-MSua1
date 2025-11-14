@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select an interest rate type to apply to the rate stream. --></help>
+    <label><!-- Interest Rate Type --></label>
+    <name>LLC_BI__Interest_Rate_Type__c</name>
+    <picklistValues>
+        <masterLabel>Fixed</masterLabel>
+        <translation><!-- Fixed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fixed with Index</masterLabel>
+        <translation><!-- Fixed with Index --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Floating with Index</masterLabel>
+        <translation><!-- Floating with Index --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

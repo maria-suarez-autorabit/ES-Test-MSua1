@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter a message to display to the user when their input does not match the format specified in Format Expression. --></help>
+    <label><!-- Format Message --></label>
+    <name>nFORCE__Format_Message__c</name>
+</CustomFieldTranslation>

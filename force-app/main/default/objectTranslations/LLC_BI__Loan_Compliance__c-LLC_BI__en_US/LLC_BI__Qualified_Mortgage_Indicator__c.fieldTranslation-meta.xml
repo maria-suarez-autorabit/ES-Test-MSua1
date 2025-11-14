@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates if a loan qualifies as Qualified Mortgage. --></help>
+    <label><!-- Qualified Mortgage Indicator --></label>
+    <name>LLC_BI__Qualified_Mortgage_Indicator__c</name>
+</CustomFieldTranslation>

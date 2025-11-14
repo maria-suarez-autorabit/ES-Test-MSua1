@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates the applicant’s ownership status of the collateral property. --></help>
+    <label><!-- Tenure Type --></label>
+    <name>LLC_BI__Tenure_Type__c</name>
+    <picklistValues>
+        <masterLabel>Freehold</masterLabel>
+        <translation><!-- Freehold --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Leasehold</masterLabel>
+        <translation><!-- Leasehold --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Strata (Condominium)</masterLabel>
+        <translation><!-- Strata (Condominium) --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__TRID_Loan_Purpose__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional picklist field to indicate the TRID loan purpose. By default, this field is blank.</description>
+    <inlineHelpText>Select the TRID Loan Purpose.</inlineHelpText>
+    <label>TRID Loan Purpose</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Purchase</fullName>
+                <default>false</default>
+                <label>Purchase</label>
+            </value>
+            <value>
+                <fullName>Refinance</fullName>
+                <default>false</default>
+                <label>Refinance</label>
+            </value>
+            <value>
+                <fullName>Construction</fullName>
+                <default>false</default>
+                <label>Construction</label>
+            </value>
+            <value>
+                <fullName>Home Equity</fullName>
+                <default>false</default>
+                <label>Home Equity</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

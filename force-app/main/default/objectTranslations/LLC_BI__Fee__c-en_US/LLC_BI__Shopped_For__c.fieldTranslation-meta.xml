@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This user-populated field displays when the customer shops for a service for fees, costs, and adjustments. --></help>
+    <label><!-- -D Shopped For --></label>
+    <name>LLC_BI__Shopped_For__c</name>
+</CustomFieldTranslation>

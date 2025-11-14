@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Category --></label>
+    <name>LLC_BI__Category__c</name>
+    <picklistValues>
+        <masterLabel>Financing cost</masterLabel>
+        <translation><!-- Financing cost --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hard cost</masterLabel>
+        <translation><!-- Hard cost --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Interest reserve</masterLabel>
+        <translation><!-- Interest reserve --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Land cost</masterLabel>
+        <translation><!-- Land cost --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Soft cost</masterLabel>
+        <translation><!-- Soft cost --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

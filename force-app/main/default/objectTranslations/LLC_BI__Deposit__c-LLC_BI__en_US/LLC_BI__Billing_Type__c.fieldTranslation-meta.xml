@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Describes how the billing for the safe deposit box will be communicated to the lessee. --></help>
+    <label><!-- Billing Type --></label>
+    <name>LLC_BI__Billing_Type__c</name>
+    <picklistValues>
+        <masterLabel>Debit Account</masterLabel>
+        <translation><!-- Debit Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Give Notice</masterLabel>
+        <translation><!-- Give Notice --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

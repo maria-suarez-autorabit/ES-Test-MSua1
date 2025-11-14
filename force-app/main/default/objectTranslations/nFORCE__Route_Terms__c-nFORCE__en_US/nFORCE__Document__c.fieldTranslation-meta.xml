@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the Salesforce ID of the document that you want to display for agreement on a particular route in the retail loan workflow. --></help>
+    <label><!-- Document --></label>
+    <name>nFORCE__Document__c</name>
+</CustomFieldTranslation>

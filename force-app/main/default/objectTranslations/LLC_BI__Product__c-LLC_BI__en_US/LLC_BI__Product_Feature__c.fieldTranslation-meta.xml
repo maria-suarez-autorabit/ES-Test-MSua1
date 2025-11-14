@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- After changing this field, go to the nCino Administration tab then run Install Updates and Install Batch Updates if this product is related to existing loans. --></help>
+    <label><!-- Product Feature --></label>
+    <name>LLC_BI__Product_Feature__c</name>
+    <relationshipLabel><!-- Products --></relationshipLabel>
+</CustomFieldTranslation>

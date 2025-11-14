@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A header to display at the top of this section. --></help>
+    <label><!-- Section Header --></label>
+    <name>nFORCE__Section_Header__c</name>
+</CustomFieldTranslation>

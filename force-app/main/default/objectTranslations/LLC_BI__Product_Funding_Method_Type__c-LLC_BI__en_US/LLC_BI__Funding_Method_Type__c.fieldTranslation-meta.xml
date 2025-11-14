@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the funding method type associated with a product. --></help>
+    <label><!-- Funding Method Type --></label>
+    <name>LLC_BI__Funding_Method_Type__c</name>
+    <relationshipLabel><!-- Product Funding Method Type Junctions --></relationshipLabel>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- HMDA Loan ID --></help>
+    <label><!-- -D Loan Identification Number --></label>
+    <name>LLC_BI__HMDA_Loan_ID__c</name>
+</CustomFieldTranslation>

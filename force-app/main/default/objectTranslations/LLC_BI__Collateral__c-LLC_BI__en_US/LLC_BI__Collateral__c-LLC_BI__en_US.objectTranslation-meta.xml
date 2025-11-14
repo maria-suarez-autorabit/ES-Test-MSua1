@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Collateral Mgmt</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Collateral Mgmt</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Possessory-Savings/CD --></label>
+        <name>Collateral_Valuation_Possessory_CD</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Possessory LOC --></label>
+        <name>Collateral_Valuation_Possessory_LOC</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Possessory-Life Insurance --></label>
+        <name>Collateral_Valuation_Possessory_Life_Ins</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Possessory-Other --></label>
+        <name>Collateral_Valuation_Possessory_Other</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Possessory-Securities --></label>
+        <name>Collateral_Valuation_Possessory_Securiti</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Real Estate --></label>
+        <name>Collateral_Valuation_Real_Estate</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Titled-Aircraft --></label>
+        <name>Collateral_Valuation_Titled_Aircraft</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Titled-Boats --></label>
+        <name>Collateral_Valuation_Titled_Boats</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Titled-Mobile Home --></label>
+        <name>Collateral_Valuation_Titled_Mobile_Home</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation- Titled- Motor Vehicle --></label>
+        <name>Collateral_Valuation_Titled_Motor_Vehicl</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Titled-Ship --></label>
+        <name>Collateral_Valuation_Titled_Ship</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Titled-Trailer --></label>
+        <name>Collateral_Valuation_Titled_Trailer</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation-Vessel --></label>
+        <name>Collateral_Valuation_Vessel</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation- Govt Contracts --></label>
+        <name>Collateral_Valuations_Govt_Contracts</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Loan --></label>
+        <name>Credit_Memo_Standard_Loan</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>Credit_Memo_Standard_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Account --></label>
+        <name>Credit_Memo_Standard_Review_Account</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Review Product Package --></label>
+        <name>Credit_Memo_Standard_Review_Product_Pack</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Available Vehicle Collateral Details --></label>
+        <name>LLC_BI__Available_Vehicle_Collateral_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Creation Display List --></label>
+        <name>LLC_BI__Collateral_Creation_Display_List</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Creation Screen Configuration Defaults --></label>
+        <name>LLC_BI__Collateral_Creation_Screen_Configuration</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Description --></label>
+        <name>LLC_BI__Collateral_Description_SS</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Group Details --></label>
+        <name>LLC_BI__Collateral_Group_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Group Review Card --></label>
+        <name>LLC_BI__Collateral_Group_Review_Card</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Search Results --></label>
+        <name>LLC_BI__Collateral_Search_Results</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Summary SS --></label>
+        <name>LLC_BI__Collateral_Summary_SS</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation --></label>
+        <name>LLC_BI__Collateral_Valuation</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>LLC_BI__Credit_Memo_Standard_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Group Collateral Summary Card --></label>
+        <name>LLC_BI__Group_Collateral_Summary_Card</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Search Results --></label>
+        <name>LLC_BI__Leased_Asset_Search_Results</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Collateral Valuation --></label>
+        <name>LLC_BI__Leased_Asset_Valuation</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Manage Collateral --></label>
+        <name>LLC_BI__Manage_Collateral</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Manage Collateral Titled --></label>
+        <name>LLC_BI__Manage_Collateral_Titled</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Parent Collateral Details --></label>
+        <name>LLC_BI__Parent_Collateral_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Parent Card Details --></label>
+        <name>LLC_BI__Pledge_Card_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Pledge Collateral Search Results --></label>
+        <name>LLC_BI__Pledge_Collateral_Search_Results</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Asset Schedule --></label>
+        <name>LLC_BI__Product_Package_Asset_Schedule</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Collateral Details --></label>
+        <name>LLC_BI__Product_Package_Collateral_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Collateral FS --></label>
+        <name>LLC_BI__Product_Package_Collateral_FS</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Product Package Collateral Schedule --></label>
+        <name>LLC_BI__Product_Package_Collateral_Schedule</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Lookup Fields --></label>
+        <name>LLC_BI__UI_Lookup_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Valuation Other Property Record Details --></label>
+        <name>LLC_BI__Valuation_Other_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Valuation Possessory Property Record Details --></label>
+        <name>LLC_BI__Valuation_Possessory_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Valuation Real Estate Property Record Details --></label>
+        <name>LLC_BI__Valuation_Real_Estate_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Valuation Titled Property Record Details --></label>
+        <name>LLC_BI__Valuation_Titled_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Valuation UCC Property Record Details --></label>
+        <name>LLC_BI__Valuation_UCC_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UCC Collateral Valuation --></label>
+        <name>UCC_Collateral_Valuation</name>
+    </fieldSets>
+    <layouts>
+        <layout>Government Contracts</layout>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Contract Details --></label>
+            <section>Contract Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Group</layout>
+        <sections>
+            <label><!-- Collateral Details --></label>
+            <section>Collateral Details</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Group --></label>
+            <section>Collateral Group</section>
+        </sections>
+        <sections>
+            <label><!-- Group Members --></label>
+            <section>Group Members</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Group Mgmt</layout>
+        <sections>
+            <label><!-- Collateral Details --></label>
+            <section>Collateral Details</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Mgmt --></label>
+            <section>Collateral Mgmt</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Possessory Letter of Credit</layout>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Letter of Credit Details --></label>
+            <section>Letter of Credit Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Possessory Life Insurance</layout>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Life Insurance --></label>
+            <section>Life Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Life Insurance Details --></label>
+            <section>Life Insurance Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Possessory Other</layout>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Possessory Details --></label>
+            <section>Possessory Details</section>
+        </sections>
+        <sections>
+            <label><!-- Third Party Address --></label>
+            <section>Third Party Address</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Possessory Savings/CD</layout>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Possessory Savings/CD Details --></label>
+            <section>Possessory Savings/CD Details</section>
+        </sections>
+        <sections>
+            <label><!-- Third Party Address --></label>
+            <section>Third Party Address</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Possessory Securities</layout>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Possessory Securities Details --></label>
+            <section>Possessory Securities Details</section>
+        </sections>
+        <sections>
+            <label><!-- Third Party Address --></label>
+            <section>Third Party Address</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Real Estate</layout>
+        <sections>
+            <label><!-- Collateral Address --></label>
+            <section>Collateral Address</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Insurance --></label>
+            <section>Collateral Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Real Estate Details --></label>
+            <section>Real Estate Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Aircraft</layout>
+        <sections>
+            <label><!-- Aircraft Details --></label>
+            <section>Aircraft Details</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Address --></label>
+            <section>Collateral Address</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Insurance --></label>
+            <section>Collateral Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Boat</layout>
+        <sections>
+            <label><!-- Boat Details --></label>
+            <section>Boat Details</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Address --></label>
+            <section>Collateral Address</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Insurance --></label>
+            <section>Collateral Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Mobile Home</layout>
+        <sections>
+            <label><!-- Collateral Address --></label>
+            <section>Collateral Address</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Insurance --></label>
+            <section>Collateral Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Mobile Home Details --></label>
+            <section>Mobile Home Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Motor Vehicle</layout>
+        <sections>
+            <label><!-- Collateral Address --></label>
+            <section>Collateral Address</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Insurance --></label>
+            <section>Collateral Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Motor Vehicle Details --></label>
+            <section>Motor Vehicle Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Trailer/Other</layout>
+        <sections>
+            <label><!-- Collateral Address --></label>
+            <section>Collateral Address</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Insurance --></label>
+            <section>Collateral Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Trailer/Other Details --></label>
+            <section>Trailer/Other Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Vessel</layout>
+        <sections>
+            <label><!-- Collateral Address --></label>
+            <section>Collateral Address</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Insurance --></label>
+            <section>Collateral Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- Vessel Details --></label>
+            <section>Vessel Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>UCC</layout>
+        <sections>
+            <label><!-- Collateral Address --></label>
+            <section>Collateral Address</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Attributes --></label>
+            <section>Collateral Attributes</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Insurance --></label>
+            <section>Collateral Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Collateral Value --></label>
+            <section>Collateral Value</section>
+        </sections>
+        <sections>
+            <label><!-- UCC Details --></label>
+            <section>UCC Details</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- Record Type for Government Contracts Page Layout --></description>
+        <label><!-- Government Contracts --></label>
+        <name>LLC_BI__Government_Contracts</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for a collateral group --></description>
+        <label><!-- Group --></label>
+        <name>LLC_BI__Group</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Possessory Letter of Credit Page Layout --></description>
+        <label><!-- Possessory Letter of Credit --></label>
+        <name>LLC_BI__Possessory_Letter_of_Credit</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Possessory Life Insurance Page Layout --></description>
+        <label><!-- Possessory Life Insurance --></label>
+        <name>LLC_BI__Possessory_Life_Insurance</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Possessory Other Page Layout --></description>
+        <label><!-- Possessory Other --></label>
+        <name>LLC_BI__Possessory_Other</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Possessory Savings/CD Page Layout --></description>
+        <label><!-- Possessory Savings/CD --></label>
+        <name>LLC_BI__Possessory_Savings_CD</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Possessory Securities Page Layout --></description>
+        <label><!-- Possessory Securities --></label>
+        <name>LLC_BI__Possessory_Securities</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Real Estate Page Layout --></description>
+        <label><!-- Real Estate --></label>
+        <name>LLC_BI__Real_Estate</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Titled Aircraft Page Layout --></description>
+        <label><!-- Titled Aircraft --></label>
+        <name>LLC_BI__Titled_Aircraft</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Titled Boat Page Layout --></description>
+        <label><!-- Titled Boat --></label>
+        <name>LLC_BI__Titled_Boat</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Titled Mobile Home Page Layout --></description>
+        <label><!-- Titled Mobile Home --></label>
+        <name>LLC_BI__Titled_Mobile_Home</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Titled Motor Vehicle Page Layout --></description>
+        <label><!-- Titled Motor Vehicle --></label>
+        <name>LLC_BI__Titled_Motor_Vehicle</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Titled Trailer/Other Page Layout --></description>
+        <label><!-- Titled Trailer/Other --></label>
+        <name>LLC_BI__Titled_Trailer_Other</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for Titled Vessel Page Layout --></description>
+        <label><!-- Titled Vessel --></label>
+        <name>LLC_BI__Titled_Vessel</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record Type for UCC Page Layout --></description>
+        <label><!-- UCC --></label>
+        <name>LLC_BI__UCC</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Edit_Group --></label>
+        <name>LLC_BI__Edit_Group</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- StatementLauncher --></label>
+        <name>nCRED__StatementLauncher</name>
+    </webLinks>
+</CustomObjectTranslation>

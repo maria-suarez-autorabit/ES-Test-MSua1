@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the value of the field you would like to map to the destination object. For a picklist, this will be the API value of the selected option. --></help>
+    <label><!-- Target Value --></label>
+    <name>LLC_BI__Target_Obj_Value__c</name>
+</CustomFieldTranslation>

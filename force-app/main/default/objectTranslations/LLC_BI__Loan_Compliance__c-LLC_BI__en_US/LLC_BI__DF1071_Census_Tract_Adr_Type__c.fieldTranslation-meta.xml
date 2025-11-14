@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate the address type used to determine the census tract. --></help>
+    <label><!-- Census Tract Address Type --></label>
+    <name>LLC_BI__DF1071_Census_Tract_Adr_Type__c</name>
+    <picklistValues>
+        <masterLabel>1 - Address or location where the loan proceeds will principally be applied</masterLabel>
+        <translation><!-- 1 - Address or location where the loan proceeds will principally be applied --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Address or location of borrower&apos;s main office or headquarters</masterLabel>
+        <translation><!-- 2 - Address or location of borrower&apos;s main office or headquarters --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - Another address or location associated with the applicant</masterLabel>
+        <translation><!-- 3 - Another address or location associated with the applicant --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided by applicant and otherwise undetermined</masterLabel>
+        <translation><!-- 988 - Not provided by applicant and otherwise undetermined --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

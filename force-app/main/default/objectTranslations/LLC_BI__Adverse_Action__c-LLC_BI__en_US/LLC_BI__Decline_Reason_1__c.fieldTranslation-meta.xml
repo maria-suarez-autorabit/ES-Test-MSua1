@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Decline Reason 1 --></label>
+    <name>LLC_BI__Decline_Reason_1__c</name>
+    <picklistValues>
+        <masterLabel>Bankruptcy</masterLabel>
+        <translation><!-- Bankruptcy --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Collection action or judgement</masterLabel>
+        <translation><!-- Collection action or judgement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Delinquent past or present credit obligations with others</masterLabel>
+        <translation><!-- Delinquent past or present credit obligations with others --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Excessive obligations in relation to income</masterLabel>
+        <translation><!-- Excessive obligations in relation to income --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Foreclosure or repossession</masterLabel>
+        <translation><!-- Foreclosure or repossession --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Garnishment or attachment</masterLabel>
+        <translation><!-- Garnishment or attachment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Income insufficient for amount of credit requested</masterLabel>
+        <translation><!-- Income insufficient for amount of credit requested --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Insufficient number of credit references provided</masterLabel>
+        <translation><!-- Insufficient number of credit references provided --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lack of established earnings record</masterLabel>
+        <translation><!-- Lack of established earnings record --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Length of employment</masterLabel>
+        <translation><!-- Length of employment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Length of residence</masterLabel>
+        <translation><!-- Length of residence --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited credit experience</masterLabel>
+        <translation><!-- Limited credit experience --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>No credit file</masterLabel>
+        <translation><!-- No credit file --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Number of recent inquiries on credit bureau report</masterLabel>
+        <translation><!-- Number of recent inquiries on credit bureau report --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Poor credit performance with us</masterLabel>
+        <translation><!-- Poor credit performance with us --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Slow or past due in trade or loan payments</masterLabel>
+        <translation><!-- Slow or past due in trade or loan payments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Temporary or irregular employment</masterLabel>
+        <translation><!-- Temporary or irregular employment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Temporary residence</masterLabel>
+        <translation><!-- Temporary residence --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unable to verify credit references</masterLabel>
+        <translation><!-- Unable to verify credit references --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unable to verify employment</masterLabel>
+        <translation><!-- Unable to verify employment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unable to verify income</masterLabel>
+        <translation><!-- Unable to verify income --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unable to verify residence</masterLabel>
+        <translation><!-- Unable to verify residence --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unacceptable type of credit references provided</masterLabel>
+        <translation><!-- Unacceptable type of credit references provided --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Value or type of collateral not sufficient</masterLabel>
+        <translation><!-- Value or type of collateral not sufficient --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

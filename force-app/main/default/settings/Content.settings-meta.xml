@@ -5,8 +5,8 @@
     <enableContent>true</enableContent>
     <enableContentAutoAssign>true</enableContentAutoAssign>
     <enableContentDistForPortalUsers>false</enableContentDistForPortalUsers>
-    <enableContentDistPwOptionsBit1>true</enableContentDistPwOptionsBit1>
-    <enableContentDistPwOptionsBit2>true</enableContentDistPwOptionsBit2>
+    <enableContentDistPwOptionsBit1>false</enableContentDistPwOptionsBit1>
+    <enableContentDistPwOptionsBit2>false</enableContentDistPwOptionsBit2>
     <enableContentDistribution>true</enableContentDistribution>
     <enableContentSupportMultiLanguage>false</enableContentSupportMultiLanguage>
     <enableContentWorkspaceAccess>true</enableContentWorkspaceAccess>
@@ -22,5 +22,4 @@
     <enableUploadFilesOnAttachments>false</enableUploadFilesOnAttachments>
     <setValidContentTypeForAtchDocDownload>false</setValidContentTypeForAtchDocDownload>
     <skipContentAssetTriggers>false</skipContentAssetTriggers>
-    <skipContentAssetTriggersOnDeploy>true</skipContentAssetTriggersOnDeploy>
 </ContentSettings>

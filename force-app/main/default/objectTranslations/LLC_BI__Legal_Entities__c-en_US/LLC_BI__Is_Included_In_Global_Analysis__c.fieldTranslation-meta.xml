@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field sets whether an entity is displayed in global analysis within spreads. --></help>
+    <label><!-- Is Included in Global Analysis --></label>
+    <name>LLC_BI__Is_Included_In_Global_Analysis__c</name>
+</CustomFieldTranslation>

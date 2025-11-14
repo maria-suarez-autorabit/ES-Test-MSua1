@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field displays how much the interest rate increases for the first rate increase. --></help>
+    <label><!-- First Rate Increase --></label>
+    <name>LLC_BI__First_Rate_Increase__c</name>
+</CustomFieldTranslation>

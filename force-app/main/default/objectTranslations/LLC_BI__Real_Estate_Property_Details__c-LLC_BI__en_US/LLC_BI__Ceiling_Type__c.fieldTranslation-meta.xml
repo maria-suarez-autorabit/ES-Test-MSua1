@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the property’s ceiling type from the picklist. --></help>
+    <label><!-- Ceiling Type --></label>
+    <name>LLC_BI__Ceiling_Type__c</name>
+    <picklistValues>
+        <masterLabel>Beam</masterLabel>
+        <translation><!-- Beam --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Coffered</masterLabel>
+        <translation><!-- Coffered --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Conventional</masterLabel>
+        <translation><!-- Conventional --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cove</masterLabel>
+        <translation><!-- Cove --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Shed</masterLabel>
+        <translation><!-- Shed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Suspended</masterLabel>
+        <translation><!-- Suspended --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tray</masterLabel>
+        <translation><!-- Tray --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

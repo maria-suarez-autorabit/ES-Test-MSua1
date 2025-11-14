@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Lead Source --></label>
+    <name>LLC_BI__LeadSource__c</name>
+    <picklistValues>
+        <masterLabel>Advertisement</masterLabel>
+        <translation><!-- Advertisement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Association</masterLabel>
+        <translation><!-- Association --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Broker</masterLabel>
+        <translation><!-- Broker --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Current Customer</masterLabel>
+        <translation><!-- Current Customer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Direct Call</masterLabel>
+        <translation><!-- Direct Call --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Email Campaign</masterLabel>
+        <translation><!-- Email Campaign --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Employee Referral</masterLabel>
+        <translation><!-- Employee Referral --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Industry Professional</masterLabel>
+        <translation><!-- Industry Professional --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Magazine</masterLabel>
+        <translation><!-- Magazine --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prior Origination</masterLabel>
+        <translation><!-- Prior Origination --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trade Show</masterLabel>
+        <translation><!-- Trade Show --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Web</masterLabel>
+        <translation><!-- Web --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wholesaler</masterLabel>
+        <translation><!-- Wholesaler --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Word of Mouth</masterLabel>
+        <translation><!-- Word of Mouth --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

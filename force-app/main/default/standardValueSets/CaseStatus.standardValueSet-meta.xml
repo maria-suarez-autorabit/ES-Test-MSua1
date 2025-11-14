@@ -8,15 +8,21 @@
         <closed>false</closed>
     </standardValue>
     <standardValue>
-        <fullName>Working</fullName>
+        <fullName>Working - Client</fullName>
         <default>false</default>
-        <label>Working</label>
+        <label>Working - Client</label>
         <closed>false</closed>
     </standardValue>
     <standardValue>
-        <fullName>Escalated</fullName>
+        <fullName>Working - nCino</fullName>
         <default>false</default>
-        <label>Escalated</label>
+        <label>Working - nCino</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Business Decision Required</fullName>
+        <default>false</default>
+        <label>Business Decision Required</label>
         <closed>false</closed>
     </standardValue>
     <standardValue>
@@ -24,5 +30,17 @@
         <default>false</default>
         <label>Closed</label>
         <closed>true</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Closed (Not Resolved)</fullName>
+        <default>false</default>
+        <label>Closed (Not Resolved)</label>
+        <closed>true</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Ready for Retest</fullName>
+        <default>false</default>
+        <label>Ready for Retest</label>
+        <closed>false</closed>
     </standardValue>
 </StandardValueSet>

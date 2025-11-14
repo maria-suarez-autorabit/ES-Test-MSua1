@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The Spread Statement Record (row) this Financial Indicator Covenant is referencing for compliance. --></help>
+    <label><!-- Linked Spread Statement Record --></label>
+    <name>LLC_BI__Linked_Spread_Statement_Record__c</name>
+    <relationshipLabel><!-- Covenant Mgmt --></relationshipLabel>
+</CustomFieldTranslation>

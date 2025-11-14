@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- When checked, entity involvements will be automatically created and managed for relationships in the reciprocal role. --></help>
+    <label><!-- Manage Reciprocal Involvements --></label>
+    <name>LLC_HI__Manage_Reciprocal_Involvements__c</name>
+</CustomFieldTranslation>

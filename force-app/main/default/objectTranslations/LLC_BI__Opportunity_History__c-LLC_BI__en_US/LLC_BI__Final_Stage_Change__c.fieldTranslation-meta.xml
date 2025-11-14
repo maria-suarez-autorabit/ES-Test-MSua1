@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Set in Code - indicates the final entry for a single stage for a particular loan. --></help>
+    <label><!-- Final Stage Change --></label>
+    <name>LLC_BI__Final_Stage_Change__c</name>
+</CustomFieldTranslation>

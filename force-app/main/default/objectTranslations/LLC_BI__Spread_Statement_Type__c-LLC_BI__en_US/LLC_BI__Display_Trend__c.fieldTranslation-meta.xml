@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field controls the visibility of the Trend column on the Balance Sheet and Income Statement. --></help>
+    <label><!-- Display Trend --></label>
+    <name>LLC_BI__Display_Trend__c</name>
+</CustomFieldTranslation>

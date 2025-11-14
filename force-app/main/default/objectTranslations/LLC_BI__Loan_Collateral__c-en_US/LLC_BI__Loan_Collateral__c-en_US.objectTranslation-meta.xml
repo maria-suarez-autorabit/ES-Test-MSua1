@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Collateral</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Collateral</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Collateral Record Summary --></label>
+        <name>LLC_BI__Collateral_Record_Summary</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Collateral Record Summary --></label>
+        <name>LLC_BI__UI_Collateral_Record_Summary</name>
+    </fieldSets>
+    <layouts>
+        <layout>Government Contracts</layout>
+        <sections>
+            <label><!-- Contract Details --></label>
+            <section>Contract Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Possessory Life Insurance</layout>
+        <sections>
+            <label><!-- Insurance Detail --></label>
+            <section>Insurance Detail</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Real Estate</layout>
+        <sections>
+            <label><!-- Existing Liens --></label>
+            <section>Existing Liens</section>
+        </sections>
+        <sections>
+            <label><!-- Insurance --></label>
+            <section>Insurance</section>
+        </sections>
+        <sections>
+            <label><!-- Property Detail --></label>
+            <section>Property Detail</section>
+        </sections>
+        <sections>
+            <label><!-- Value --></label>
+            <section>Value</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Aircraft</layout>
+        <sections>
+            <label><!-- Aircraft Detail --></label>
+            <section>Aircraft Detail</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Boat</layout>
+        <sections>
+            <label><!-- Boat Detail --></label>
+            <section>Boat Detail</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Mobile Home</layout>
+        <sections>
+            <label><!-- Mobile Home Detail --></label>
+            <section>Mobile Home Detail</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Motor Vehicle</layout>
+        <sections>
+            <label><!-- Vehicle Detail --></label>
+            <section>Vehicle Detail</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Other</layout>
+        <sections>
+            <label><!-- Additional Detail --></label>
+            <section>Additional Detail</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Titled Vessel</layout>
+        <sections>
+            <label><!-- Vessel Detail --></label>
+            <section>Vessel Detail</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel>Collateral Auto Number</nameFieldLabel>
+    <recordTypes>
+        <label><!-- Collateral - Start --></label>
+        <name>Collateral_Start</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Government Contract collateral --></description>
+        <label><!-- Government Contracts --></label>
+        <name>LLC_BI__Government_Contracts</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Possessory Letter of Credit collateral --></description>
+        <label><!-- Possessory Letter of Credit --></label>
+        <name>LLC_BI__Possessory_Letter_of_Credit</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Possessory Life Insurance Collateral --></description>
+        <label><!-- Possessory Life Insurance --></label>
+        <name>LLC_BI__Possessory_Life_Insurance</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Possessory Notes/ Instrument collateral --></description>
+        <label><!-- Possessory Notes/ Instrument --></label>
+        <name>LLC_BI__Possessory_Notes_Instrument</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Possessory Other collateral --></description>
+        <label><!-- Possessory Other --></label>
+        <name>LLC_BI__Possessory_Other</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type forPossessory Savings/CD collateral --></description>
+        <label><!-- Possessory Savings/CD --></label>
+        <name>LLC_BI__Possessory_Savings_CD</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Possessory Securities collateral --></description>
+        <label><!-- Possessory Securities --></label>
+        <name>LLC_BI__Possessory_Securities</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Real Estate collateral --></description>
+        <label><!-- Real Estate --></label>
+        <name>LLC_BI__Real_Estate</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Titled Aircraft collateral --></description>
+        <label><!-- Titled Aircraft --></label>
+        <name>LLC_BI__Titled_Aircraft</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Titled Boat collateral --></description>
+        <label><!-- Titled Boat --></label>
+        <name>LLC_BI__Titled_Boat</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Titled Mobile Home collateral --></description>
+        <label><!-- Titled Mobile Home --></label>
+        <name>LLC_BI__Titled_Mobile_Home</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Titled Motor Vehicle Layout collateral --></description>
+        <label><!-- Titled Motor Vehicle --></label>
+        <name>LLC_BI__Titled_Motor_Vehicle</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Titled Other collateral --></description>
+        <label><!-- Titled Other --></label>
+        <name>LLC_BI__Titled_Other</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for Titled Vessel collateral --></description>
+        <label><!-- Titled Vessel --></label>
+        <name>LLC_BI__Titled_Vessel</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Record type for UCC Described collateral --></description>
+        <label><!-- UCC Described --></label>
+        <name>LLC_BI__UCC_Life_Described</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

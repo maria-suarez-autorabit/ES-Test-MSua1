@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Underwriting Bundle</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Underwriting Bundles</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Bundle_ID --></label>
+        <name>LLC_BI__Bundle_ID</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Upgradeable Fields --></label>
+        <name>LLC_BI__Upgradeable_Fields</name>
+    </fieldSets>
+    <layouts>
+        <layout>Admin Underwriting Bundle Layout</layout>
+        <sections>
+            <label><!-- Portfolio Management --></label>
+            <section>Portfolio Management</section>
+        </sections>
+        <sections>
+            <label><!-- Portfolio Management - Periods --></label>
+            <section>Portfolio Management - Periods</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Underwriting Bundle Layout</layout>
+        <sections>
+            <label><!-- Portfolio Management --></label>
+            <section>Portfolio Management</section>
+        </sections>
+        <sections>
+            <label><!-- Portfolio Management - Periods --></label>
+            <section>Portfolio Management - Periods</section>
+        </sections>
+    </layouts>
+    <startsWith>Vowel</startsWith>
+    <validationRules>
+        <errorMessage><!-- - - DEPRECATED- -  If this bundle is new or a template, the start and end dates must be blank.  If the bundle is not new and not a template, the start and end dates must be set and must not reduce the period range of the statements. --></errorMessage>
+        <name>LLC_BI__Date_Range_Must_Be_Valid</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- A template cannot be related to a Relationship. --></errorMessage>
+        <name>LLC_BI__Template_Cannot_Have_Relationship</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- ConvertBundleToTemplate --></label>
+        <name>nCRED__ConvertBundleToTemplate</name>
+    </webLinks>
+</CustomObjectTranslation>

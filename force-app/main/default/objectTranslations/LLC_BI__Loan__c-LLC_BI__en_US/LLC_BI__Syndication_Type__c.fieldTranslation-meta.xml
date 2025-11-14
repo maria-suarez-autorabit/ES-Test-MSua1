@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Syndication Type --></label>
+    <name>LLC_BI__Syndication_Type__c</name>
+    <picklistValues>
+        <masterLabel>Syndication agented</masterLabel>
+        <translation><!-- Syndication agented --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Syndication purchased</masterLabel>
+        <translation><!-- Syndication purchased --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Syndication title role</masterLabel>
+        <translation><!-- Syndication title role --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

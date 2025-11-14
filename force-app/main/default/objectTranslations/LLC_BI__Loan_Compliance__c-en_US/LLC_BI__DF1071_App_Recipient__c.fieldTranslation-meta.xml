@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter one of the specified codes to indicate the application recipient. --></help>
+    <label><!-- Application Recipient --></label>
+    <name>LLC_BI__DF1071_App_Recipient__c</name>
+    <picklistValues>
+        <masterLabel>1 - Directly submitted</masterLabel>
+        <translation><!-- 1 - Directly submitted --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Indirectly submitted via a third party</masterLabel>
+        <translation><!-- 2 - Indirectly submitted via a third party --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

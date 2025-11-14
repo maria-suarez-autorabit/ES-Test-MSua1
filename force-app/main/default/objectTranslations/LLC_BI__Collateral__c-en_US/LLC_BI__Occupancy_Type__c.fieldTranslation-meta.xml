@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the occupancy classification for the property. --></help>
+    <label><!-- Occupancy Type --></label>
+    <name>LLC_BI__Occupancy_Type__c</name>
+    <picklistValues>
+        <masterLabel>Investment</masterLabel>
+        <translation><!-- Investment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Principal Dwelling</masterLabel>
+        <translation><!-- Principal Dwelling --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Secondary Residence</masterLabel>
+        <translation><!-- Secondary Residence --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

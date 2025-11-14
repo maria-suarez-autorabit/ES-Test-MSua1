@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated multi-select picklist indicates the reason the loan may require redisclosure. --></help>
+    <label><!-- Redisclosure Reasons --></label>
+    <name>LLC_BI__Redisclosure_Reasons__c</name>
+    <picklistValues>
+        <masterLabel>Rate Lock</masterLabel>
+        <translation><!-- Rate Lock --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tolerance Violation</masterLabel>
+        <translation><!-- Tolerance Violation --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

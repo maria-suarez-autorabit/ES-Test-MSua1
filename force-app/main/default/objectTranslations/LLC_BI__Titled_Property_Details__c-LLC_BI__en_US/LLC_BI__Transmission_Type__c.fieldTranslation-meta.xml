@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the type of transmission that applies to the vehicle. --></help>
+    <label><!-- Transmission Type --></label>
+    <name>LLC_BI__Transmission_Type__c</name>
+    <picklistValues>
+        <masterLabel>Automatic</masterLabel>
+        <translation><!-- Automatic --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Manual</masterLabel>
+        <translation><!-- Manual --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

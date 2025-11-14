@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Facilitate Treasury Service reporting on Document_Placeholder objects --></help>
+    <label><!-- Treasury_Service_Reporting_Helper --></label>
+    <name>NDOC__Treasury_Service__c</name>
+    <relationshipLabel><!-- Document Placeholders --></relationshipLabel>
+</CustomFieldTranslation>

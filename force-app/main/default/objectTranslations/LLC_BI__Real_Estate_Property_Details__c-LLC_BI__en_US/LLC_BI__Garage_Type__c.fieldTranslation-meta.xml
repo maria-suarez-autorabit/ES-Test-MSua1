@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the property’s garage type from the picklist. --></help>
+    <label><!-- Garage Type --></label>
+    <name>LLC_BI__Garage_Type__c</name>
+    <picklistValues>
+        <masterLabel>Attached</masterLabel>
+        <translation><!-- Attached --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Basement</masterLabel>
+        <translation><!-- Basement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Built-In</masterLabel>
+        <translation><!-- Built-In --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Carport</masterLabel>
+        <translation><!-- Carport --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

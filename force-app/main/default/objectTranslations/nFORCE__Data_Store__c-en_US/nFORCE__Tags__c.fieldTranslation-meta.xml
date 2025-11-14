@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A predefined list to assist in filtering on reports. --></help>
+    <label><!-- Tags --></label>
+    <name>nFORCE__Tags__c</name>
+    <picklistValues>
+        <masterLabel>Login Count</masterLabel>
+        <translation><!-- Login Count --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>User Analytics</masterLabel>
+        <translation><!-- User Analytics --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

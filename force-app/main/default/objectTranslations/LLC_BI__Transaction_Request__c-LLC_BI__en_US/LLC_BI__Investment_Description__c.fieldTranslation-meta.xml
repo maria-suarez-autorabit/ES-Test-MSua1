@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Describes the type of investment. --></help>
+    <label><!-- Investment Description --></label>
+    <name>LLC_BI__Investment_Description__c</name>
+</CustomFieldTranslation>

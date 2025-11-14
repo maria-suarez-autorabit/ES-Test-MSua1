@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- ncino parent --></label>
+    <name>ncino_parent__c</name>
+    <relationshipLabel><!-- ncino children --></relationshipLabel>
+</CustomFieldTranslation>

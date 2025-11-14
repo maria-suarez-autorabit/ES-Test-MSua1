@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates the sum of total credit exposure for any new treasury service products in the deal an FI originates outside of nCino. --></help>
+    <label><!-- New Treasury Credit Exposure --></label>
+    <name>LLC_BI__New_Treasury_Credit_Exposure__c</name>
+</CustomFieldTranslation>

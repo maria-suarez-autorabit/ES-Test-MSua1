@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>nCino__Conditions_Category_Fields</fullName>
+    <description>This field set is displayed when an administrator configures condition requirements.</description>
+    <displayedFields>
+        <field>LLC_BI__Is_Excluded_From_Auto_Generation__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>LLC_BI__Legal_Description__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Conditions Category Fields</label>
+</FieldSet>

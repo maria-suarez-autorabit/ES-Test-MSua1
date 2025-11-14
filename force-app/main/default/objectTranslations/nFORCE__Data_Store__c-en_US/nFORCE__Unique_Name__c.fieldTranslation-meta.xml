@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Unique name for the data store that is a name of the analytic snapshot that captured the original data.  Examples may be something like &quot;Daily Login Count&quot;, &quot;Total Loan Count&quot;, etc...  You will use this unique name to filter down the data when reporting. --></help>
+    <label><!-- Unique Name --></label>
+    <name>nFORCE__Unique_Name__c</name>
+</CustomFieldTranslation>

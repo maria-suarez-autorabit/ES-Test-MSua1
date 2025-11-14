@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type --></label>
+    <name>LLC_BI__Type__c</name>
+    <picklistValues>
+        <masterLabel>Balance Sheet</masterLabel>
+        <translation><!-- Balance Sheet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Budget</masterLabel>
+        <translation><!-- Budget --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Income Statement</masterLabel>
+        <translation><!-- Income Statement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>NOI Statement</masterLabel>
+        <translation><!-- NOI Statement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Personal Financial Statement</masterLabel>
+        <translation><!-- Personal Financial Statement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ratios</masterLabel>
+        <translation><!-- Ratios --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reconciliation</masterLabel>
+        <translation><!-- Reconciliation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Schedule C</masterLabel>
+        <translation><!-- Schedule C --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Schedule E</masterLabel>
+        <translation><!-- Schedule E --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Schedule F</masterLabel>
+        <translation><!-- Schedule F --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Traditional Cash Flow</masterLabel>
+        <translation><!-- Traditional Cash Flow --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>UCA Cash Flow</masterLabel>
+        <translation><!-- UCA Cash Flow --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

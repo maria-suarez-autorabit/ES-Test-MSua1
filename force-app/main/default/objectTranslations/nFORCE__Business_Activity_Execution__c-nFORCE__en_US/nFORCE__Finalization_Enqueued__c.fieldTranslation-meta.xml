@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This automatically populated field displays whether a finalization process has been enqueued. --></help>
+    <label><!-- Finalization Handler Is Enqueued --></label>
+    <name>nFORCE__Finalization_Enqueued__c</name>
+</CustomFieldTranslation>

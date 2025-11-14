@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Site Visit Memo</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Site Visit Memos</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- UI Site Visits --></label>
+        <name>UI_Site_Visits</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

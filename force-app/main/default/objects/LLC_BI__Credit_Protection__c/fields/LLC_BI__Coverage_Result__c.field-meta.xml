@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Coverage_Result__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional picklist field to store whether the coverage was fully applied, partially applied, or denied. By default, it is blank.</description>
+    <inlineHelpText>This field informs the calling application if the requested coverage was fully applied, partially applied, or denied.</inlineHelpText>
+    <label>Coverage Result</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Fully Applied</fullName>
+                <default>false</default>
+                <label>Fully Applied</label>
+            </value>
+            <value>
+                <fullName>Partially Applied</fullName>
+                <default>false</default>
+                <label>Partially Applied</label>
+            </value>
+            <value>
+                <fullName>Denied</fullName>
+                <default>false</default>
+                <label>Denied</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

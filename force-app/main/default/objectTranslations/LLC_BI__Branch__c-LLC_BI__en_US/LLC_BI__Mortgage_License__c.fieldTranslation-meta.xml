@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the unique Mortgage License number for the financial institution&apos;s branch. --></help>
+    <label><!-- Mortgage License --></label>
+    <name>LLC_BI__Mortgage_License__c</name>
+</CustomFieldTranslation>

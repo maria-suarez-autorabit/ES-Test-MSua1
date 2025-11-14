@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This checkbox indicates that the business activity should remain in progress until an external process updates the status to continue. --></help>
+    <label><!-- Wait For External Update --></label>
+    <name>nFORCE__Wait_For_External_Update__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The amount by which a variable rate may change within the specified term. --></help>
+    <label><!-- Rate Change Percent --></label>
+    <name>LLC_BI__Rate_Change_Percent__c</name>
+</CustomFieldTranslation>

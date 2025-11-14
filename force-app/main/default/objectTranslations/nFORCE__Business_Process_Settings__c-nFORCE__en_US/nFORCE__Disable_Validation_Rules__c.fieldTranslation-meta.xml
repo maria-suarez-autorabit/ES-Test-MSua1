@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This checkbox field indicates if the system should disable validation rules for business activity and business process. --></help>
+    <label><!-- Disable Validation Rules --></label>
+    <name>nFORCE__Disable_Validation_Rules__c</name>
+</CustomFieldTranslation>

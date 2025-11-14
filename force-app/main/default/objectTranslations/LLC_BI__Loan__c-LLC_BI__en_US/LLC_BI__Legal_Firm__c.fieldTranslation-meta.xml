@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Legal Firm --></label>
+    <name>LLC_BI__Legal_Firm__c</name>
+    <picklistValues>
+        <masterLabel>Sample Firm</masterLabel>
+        <translation><!-- Sample Firm --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sample Firm 2</masterLabel>
+        <translation><!-- Sample Firm 2 --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

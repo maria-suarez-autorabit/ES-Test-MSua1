@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates the applicant&apos;s ownership status of their current residence. --></help>
+    <label><!-- Residence Type --></label>
+    <name>LLC_BI__Residence_Type__c</name>
+    <picklistValues>
+        <masterLabel>Home Buyer</masterLabel>
+        <translation><!-- Home Buyer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Home Buyer (Mobile Home)</masterLabel>
+        <translation><!-- Home Buyer (Mobile Home) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Home Owner</masterLabel>
+        <translation><!-- Home Owner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Home Owner (Mobile Home)</masterLabel>
+        <translation><!-- Home Owner (Mobile Home) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lives with relatives or others</masterLabel>
+        <translation><!-- Lives with relatives or others --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Renter</masterLabel>
+        <translation><!-- Renter --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Unknown</masterLabel>
+        <translation><!-- Unknown --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

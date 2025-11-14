@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated lookup field contains the third-party service to which the fee relates. --></help>
+    <label><!-- Third Party Service Detail --></label>
+    <name>LLC_BI__Third_Party_Service_Detail__c</name>
+    <relationshipLabel><!-- Fees --></relationshipLabel>
+</CustomFieldTranslation>

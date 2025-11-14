@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field indicates the conditional type of the business activity. --></help>
+    <label><!-- Conditional Type --></label>
+    <name>nFORCE__Conditional_Type__c</name>
+    <picklistValues>
+        <masterLabel>Error Conditional</masterLabel>
+        <translation><!-- Error Conditional --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finalizer Error Conditional</masterLabel>
+        <translation><!-- Finalizer Error Conditional --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finalizer Success Conditional</masterLabel>
+        <translation><!-- Finalizer Success Conditional --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Success Conditional</masterLabel>
+        <translation><!-- Success Conditional --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

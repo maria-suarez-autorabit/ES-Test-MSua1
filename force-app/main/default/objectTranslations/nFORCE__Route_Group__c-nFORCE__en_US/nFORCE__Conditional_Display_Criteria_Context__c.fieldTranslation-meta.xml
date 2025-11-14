@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the API name of the sObject Type for the conditional display criteria. Optionally, enter a keyword to capture records that are not in session data. --></help>
+    <label><!-- Conditional Display Criteria Context --></label>
+    <name>nFORCE__Conditional_Display_Criteria_Context__c</name>
+</CustomFieldTranslation>

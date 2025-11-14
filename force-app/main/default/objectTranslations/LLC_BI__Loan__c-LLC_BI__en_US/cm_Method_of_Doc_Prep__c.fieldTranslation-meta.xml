@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Method of Doc Prep --></label>
+    <name>cm_Method_of_Doc_Prep__c</name>
+    <picklistValues>
+        <masterLabel>Attorney Prepared</masterLabel>
+        <translation><!-- Attorney Prepared --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Internally Prepared</masterLabel>
+        <translation><!-- Internally Prepared --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

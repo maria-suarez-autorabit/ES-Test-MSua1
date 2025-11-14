@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the TRID disclosure category for the fee. --></help>
+    <label><!-- TRID Disclosure Category --></label>
+    <name>LLC_BI__TRID_Disclosure_Category__c</name>
+    <picklistValues>
+        <masterLabel>Initial Escrow Payment at Closing</masterLabel>
+        <translation><!-- Initial Escrow Payment at Closing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Origination Charges</masterLabel>
+        <translation><!-- Origination Charges --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prepaids</masterLabel>
+        <translation><!-- Prepaids --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Services You Can Shop For</masterLabel>
+        <translation><!-- Services You Can Shop For --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Services You Cannot Shop For</masterLabel>
+        <translation><!-- Services You Cannot Shop For --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Taxes and Other Government Fees</masterLabel>
+        <translation><!-- Taxes and Other Government Fees --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

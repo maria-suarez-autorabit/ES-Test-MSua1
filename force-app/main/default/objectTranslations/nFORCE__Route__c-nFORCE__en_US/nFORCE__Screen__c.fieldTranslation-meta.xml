@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Screens are a collection of  Screen Sections which reference field sets.  LLC_BI Routes commonly reference visualforce pages, thus do not require a screen. --></help>
+    <label><!-- Screen --></label>
+    <name>nFORCE__Screen__c</name>
+    <relationshipLabel><!-- Routes --></relationshipLabel>
+</CustomFieldTranslation>

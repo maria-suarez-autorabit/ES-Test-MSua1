@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is optional and must be manually populated. It stores the Forms syntax that is used to dictate whether a conditional field set should be displayed. --></help>
+    <label><!-- Conditional Display Criteria --></label>
+    <name>nFORCE__Conditional_Display_Criteria__c</name>
+</CustomFieldTranslation>

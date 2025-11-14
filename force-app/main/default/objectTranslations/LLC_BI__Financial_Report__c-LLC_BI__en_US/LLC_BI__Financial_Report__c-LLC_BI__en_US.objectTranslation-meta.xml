@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Financial Report</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Financial Reports</value>
+    </caseValues>
+    <layouts>
+        <layout>Financial Report Layout</layout>
+        <sections>
+            <label><!-- Add Backs --></label>
+            <section>Add Backs</section>
+        </sections>
+        <sections>
+            <label><!-- Balance Information --></label>
+            <section>Balance Information</section>
+        </sections>
+        <sections>
+            <label><!-- Debt --></label>
+            <section>Debt</section>
+        </sections>
+        <sections>
+            <label><!-- Global Cash Flow - Annual Numbers --></label>
+            <section>Global Cash Flow - Annual Numbers</section>
+        </sections>
+        <sections>
+            <label><!-- Income Statement Analysis --></label>
+            <section>Income Statement Analysis</section>
+        </sections>
+        <sections>
+            <label><!-- Net Operating Income --></label>
+            <section>Net Operating Income</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

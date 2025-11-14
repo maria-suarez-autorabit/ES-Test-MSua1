@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AR_QA_Team__c</fullName>
+    <label>AR_QA_Team</label>
+    <referenceTo>AR_QA_Team__c</referenceTo>
+    <relationshipLabel>AR-QA-Tests</relationshipLabel>
+    <relationshipName>AR_QA_Tests</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

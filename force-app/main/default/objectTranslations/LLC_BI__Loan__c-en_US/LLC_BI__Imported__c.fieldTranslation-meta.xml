@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The Imported flag represents legacy loans that were created, processed and booked prior to the adoption of nCino. --></help>
+    <label><!-- Imported --></label>
+    <name>LLC_BI__Imported__c</name>
+</CustomFieldTranslation>

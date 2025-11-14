@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Pricing Payment Component</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Pricing Payment Components</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Add Payment Available Fields --></label>
+        <name>LLC_BI__Add_Payment_Available_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Expanded Offer Card Payment Table --></label>
+        <name>LLC_BI__Expanded_Offer_Card_Payment_Table</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Payment Component Extended Fields --></label>
+        <name>LLC_BI__Payment_Component_Extended_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Payment Data for Pricing Option --></label>
+        <name>LLC_BI__Payment_Data_for_Pricing_Option</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Payment Structure Table --></label>
+        <name>LLC_BI__Payment_Structure_Table</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

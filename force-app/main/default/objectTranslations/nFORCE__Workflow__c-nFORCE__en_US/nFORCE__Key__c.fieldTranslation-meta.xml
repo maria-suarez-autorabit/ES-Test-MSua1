@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter a unique name in this field. Use this field to easily identify your workflow as you continue the workflow configuration process. --></help>
+    <label><!-- Key --></label>
+    <name>nFORCE__Key__c</name>
+</CustomFieldTranslation>

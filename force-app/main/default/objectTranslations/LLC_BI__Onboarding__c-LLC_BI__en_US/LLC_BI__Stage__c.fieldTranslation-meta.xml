@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Stage --></label>
+    <name>LLC_BI__Stage__c</name>
+    <picklistValues>
+        <masterLabel>Complete</masterLabel>
+        <translation><!-- Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Customer Engagement</masterLabel>
+        <translation><!-- Customer Engagement --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Due Diligence</masterLabel>
+        <translation><!-- Due Diligence --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Validation</masterLabel>
+        <translation><!-- Validation --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

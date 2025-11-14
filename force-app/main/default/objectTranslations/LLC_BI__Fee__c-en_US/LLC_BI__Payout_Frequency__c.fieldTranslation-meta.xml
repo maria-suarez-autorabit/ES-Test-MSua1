@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the desired payout frequency for the escrow account. --></help>
+    <label><!-- Payout Frequency --></label>
+    <name>LLC_BI__Payout_Frequency__c</name>
+    <picklistValues>
+        <masterLabel>Annually</masterLabel>
+        <translation><!-- Annually --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Semi-Annually</masterLabel>
+        <translation><!-- Semi-Annually --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A string that has an associated data structure used to describe a connection to a data source. --></help>
+    <label><!-- Data Source Name --></label>
+    <name>nFORCE__Data_Source_Name__c</name>
+</CustomFieldTranslation>

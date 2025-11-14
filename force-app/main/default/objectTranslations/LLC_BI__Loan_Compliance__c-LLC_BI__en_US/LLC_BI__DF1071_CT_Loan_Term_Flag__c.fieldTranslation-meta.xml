@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate whether a loan term is applicable for this application for credit. --></help>
+    <label><!-- Credit Type - Loan Term Flag --></label>
+    <name>LLC_BI__DF1071_CT_Loan_Term_Flag__c</name>
+    <picklistValues>
+        <masterLabel>900 - Applicable and reported</masterLabel>
+        <translation><!-- 900 - Applicable and reported --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Applicable but not provided by applicant and otherwise undetermined</masterLabel>
+        <translation><!-- 988 - Applicable but not provided by applicant and otherwise undetermined --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>999 - Not applicable</masterLabel>
+        <translation><!-- 999 - Not applicable --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Checklist__c</fullName>
+    <deleteConstraint>Restrict</deleteConstraint>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this required lookup field to reference the checklist that displays the linked requirement.</description>
+    <inlineHelpText>Use this lookup field to determine which checklist the system associates to the linked requirement.</inlineHelpText>
+    <label>Checklist</label>
+    <referenceTo>LLC_BI__Checklist__c</referenceTo>
+    <relationshipLabel>Requirement Links</relationshipLabel>
+    <relationshipName>Requirement_Links</relationshipName>
+    <required>true</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

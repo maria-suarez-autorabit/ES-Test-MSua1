@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system automatically populates this required picklist field to indicate the type of aggregation. By default, it is Consolidations. --></help>
+    <label><!-- Purpose --></label>
+    <name>LLC_BI__Purpose__c</name>
+    <picklistValues>
+        <masterLabel>Average</masterLabel>
+        <translation><!-- Average --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consolidation</masterLabel>
+        <translation><!-- Consolidation --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Check box if the legal entity has realestate. Check this box if the Legal Entity Type is EPC --></help>
+    <label><!-- Realestate --></label>
+    <name>LLC_BI__Realestate__c</name>
+</CustomFieldTranslation>

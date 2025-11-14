@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The portion of the (CESA) transfer that is considered the basis amount. --></help>
+    <label><!-- CESA Transfer Basis Amount --></label>
+    <name>LLC_BI__CESA_Transfer_Basis_Amount__c</name>
+</CustomFieldTranslation>

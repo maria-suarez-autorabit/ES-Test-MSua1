@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Category --></label>
+    <name>LLC_BI__Category__c</name>
+    <picklistValues>
+        <masterLabel>Commercial Loan</masterLabel>
+        <translation><!-- Commercial Loan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consumer Loan</masterLabel>
+        <translation><!-- Consumer Loan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Deposit Maintenance</masterLabel>
+        <translation><!-- Deposit Maintenance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Deposit Origination</masterLabel>
+        <translation><!-- Deposit Origination --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Online Commercial Loan Application</masterLabel>
+        <translation><!-- Online Commercial Loan Application --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Online Consumer Loan Application</masterLabel>
+        <translation><!-- Online Consumer Loan Application --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Online Deposit Application</masterLabel>
+        <translation><!-- Online Deposit Application --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

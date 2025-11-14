@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Set this to the language that the translated value is in. The format should be ISO 639-1 for the language followed by a dash followed by the ISO Alpha-2 country code. Example: (en-US). --></help>
+    <label><!-- Language --></label>
+    <name>nFORCE__Language__c</name>
+</CustomFieldTranslation>

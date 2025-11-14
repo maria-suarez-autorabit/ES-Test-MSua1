@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true the IRA owner elects to have 10% Federal income tax withheld from the IRA distribution. --></help>
+    <label><!-- 10% Federal Withholding Indicator --></label>
+    <name>LLC_BI__Ten_Pct_Federal_Withholding_Indicator__c</name>
+</CustomFieldTranslation>

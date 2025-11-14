@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the maximum mileage pledged collateral may have to qualify a loan for auto-approval in this field. --></help>
+    <label><!-- Maximum Mileage --></label>
+    <name>LLC_BI__Maximum_Mileage__c</name>
+</CustomFieldTranslation>

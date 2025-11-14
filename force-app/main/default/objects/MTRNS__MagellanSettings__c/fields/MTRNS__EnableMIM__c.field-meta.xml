@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MTRNS__EnableMIM__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this required checkbox field to enable the use of MIM 1.0. By default, it is false.</description>
+    <inlineHelpText>The system automatically populates this required checkbox field to enable the use of MIM 1.0. By default, it is false.</inlineHelpText>
+    <label>Enable MIM 1.0</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

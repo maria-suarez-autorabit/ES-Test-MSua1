@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A semicolon-separated list of values used to determine the visibility of this route group in the user interface. --></help>
+    <label><!-- Visibility Criteria --></label>
+    <name>nFORCE__Visibility_Criteria__c</name>
+</CustomFieldTranslation>

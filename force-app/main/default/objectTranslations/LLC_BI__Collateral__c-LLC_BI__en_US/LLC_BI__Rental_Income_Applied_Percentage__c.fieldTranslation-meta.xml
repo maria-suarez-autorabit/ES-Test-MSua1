@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the percentage of the applicant’s rental income that can be applied when determining eligibility for the mortgage loan. --></help>
+    <label><!-- Rental Income Applied Percentge --></label>
+    <name>LLC_BI__Rental_Income_Applied_Percentage__c</name>
+</CustomFieldTranslation>

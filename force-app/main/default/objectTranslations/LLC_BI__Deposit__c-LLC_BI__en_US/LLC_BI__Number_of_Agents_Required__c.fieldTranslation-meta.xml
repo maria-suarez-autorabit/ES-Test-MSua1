@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The number of agents required to be present before any action can be made regarding the safe deposit box account. --></help>
+    <label><!-- Number of Agents Required --></label>
+    <name>LLC_BI__Number_of_Agents_Required__c</name>
+</CustomFieldTranslation>

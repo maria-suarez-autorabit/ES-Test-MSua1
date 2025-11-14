@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Home Lending</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Home Lendings</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Purchase - Mortgage Loan Information Test --></label>
+        <name>LLC_BI__Purchase_Mortgage_Test</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Recalculate Offers --></label>
+        <name>LLC_BI__Recalculate_Offers</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

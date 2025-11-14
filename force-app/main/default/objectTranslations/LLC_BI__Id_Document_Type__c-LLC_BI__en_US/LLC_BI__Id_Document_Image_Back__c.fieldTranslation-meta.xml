@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the image URL for an image hosted online. If that does not work, upload an image to Documents, set image visibility to public, and then enter the image URL. --></help>
+    <label><!-- ID Document Image (Back) --></label>
+    <name>LLC_BI__Id_Document_Image_Back__c</name>
+</CustomFieldTranslation>

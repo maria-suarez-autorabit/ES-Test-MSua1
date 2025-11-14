@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This optional field is used for storing additional metadata relevant to the related document. --></help>
+    <label><!-- Document Metadata --></label>
+    <name>LLC_BI__Document_Metadata__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a change in interest rate to see how it affects the loan. --></help>
+    <label><!-- Effect of Rate Change Type --></label>
+    <name>LLC_BI__Effect_of_Rate_Change_Type__c</name>
+    <picklistValues>
+        <masterLabel>Loan Term</masterLabel>
+        <translation><!-- Loan Term --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Maturity</masterLabel>
+        <translation><!-- Maturity --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Payment Amount</masterLabel>
+        <translation><!-- Payment Amount --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Payment and Maturity</masterLabel>
+        <translation><!-- Payment and Maturity --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the name of the feature(s) associated to the policy type. --></help>
+    <label><!-- Policy Type Feature --></label>
+    <name>LLC_BI__Policy_Type_Feature__c</name>
+    <picklistValues>
+        <masterLabel>Fee Management</masterLabel>
+        <translation><!-- Fee Management --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Indirect Automotive Lending</masterLabel>
+        <translation><!-- Indirect Automotive Lending --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

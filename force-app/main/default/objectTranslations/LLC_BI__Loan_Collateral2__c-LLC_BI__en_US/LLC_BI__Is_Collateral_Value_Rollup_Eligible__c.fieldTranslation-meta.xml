@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- System-populated field to indicate if collateral is included in value rollup summary. --></help>
+    <label><!-- Is Collateral Value Rollup Eligible --></label>
+    <name>LLC_BI__Is_Collateral_Value_Rollup_Eligible__c</name>
+</CustomFieldTranslation>

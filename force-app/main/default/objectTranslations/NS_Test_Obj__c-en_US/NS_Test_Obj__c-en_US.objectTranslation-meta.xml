@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>NS Test Obj</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>NS Test Objs</value>
+    </caseValues>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Field 1 Cannot be Empty --></errorMessage>
+        <name>Check_NS_Field_1</name>
+    </validationRules>
+</CustomObjectTranslation>

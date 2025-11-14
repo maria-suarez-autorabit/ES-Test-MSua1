@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Collateral Group</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Collateral Groups</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Collateral Group Review Card --></label>
+        <name>LLC_BI__Collateral_Group_Review_Card</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

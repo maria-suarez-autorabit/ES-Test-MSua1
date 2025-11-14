@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Check this box if you wish to automate the pledge process for this product and collateral type combination. --></help>
+    <label><!-- Automate Collateral Pledge --></label>
+    <name>LLC_BI__Automate_Collateral_Pledge__c</name>
+</CustomFieldTranslation>

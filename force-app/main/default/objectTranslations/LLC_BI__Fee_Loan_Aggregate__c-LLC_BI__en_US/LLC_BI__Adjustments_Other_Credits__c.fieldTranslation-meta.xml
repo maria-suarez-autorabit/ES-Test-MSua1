@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field displays the sum of Adjustments and Other Credits. --></help>
+    <label><!-- Adjustments and Other Credits --></label>
+    <name>LLC_BI__Adjustments_Other_Credits__c</name>
+</CustomFieldTranslation>

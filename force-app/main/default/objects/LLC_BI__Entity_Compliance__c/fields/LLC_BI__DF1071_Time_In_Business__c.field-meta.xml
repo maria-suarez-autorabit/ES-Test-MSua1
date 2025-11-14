@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_Time_In_Business__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional text field to specify the years of operation for the business. By default, it is empty.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Use this field to specify the years the business has been in operation.</inlineHelpText>
+    <label>Time In Business</label>
+    <length>4</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

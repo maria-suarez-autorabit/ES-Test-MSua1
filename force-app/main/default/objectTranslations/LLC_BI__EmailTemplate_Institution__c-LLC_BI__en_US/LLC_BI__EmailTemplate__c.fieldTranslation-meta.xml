@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Populate this text field with the Salesforce ID of the email template to be sent to users from the institution. --></help>
+    <label><!-- Email Template --></label>
+    <name>LLC_BI__EmailTemplate__c</name>
+</CustomFieldTranslation>

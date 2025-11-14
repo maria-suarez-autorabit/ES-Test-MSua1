@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Pricing Rate Component --></label>
+    <name>LLC_BI__Pricing_Rate_Component__c</name>
+    <relationshipLabel><!-- Pricing Covenants --></relationshipLabel>
+</CustomFieldTranslation>

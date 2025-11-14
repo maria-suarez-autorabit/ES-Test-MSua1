@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Collateral Group --></label>
+    <lookupFilter>
+        <errorMessage><!-- This value does not exist or the type and subtype pairing of the collateral does not equal group and the group_type field is null. --></errorMessage>
+        <informationalMessage><!-- You can only associate this record with a collateral group, where the type and subtype pairing of the collateral equals group and the group_type field is not null. --></informationalMessage>
+    </lookupFilter>
+    <name>LLC_BI__Collateral_Group__c</name>
+    <relationshipLabel><!-- Associated Collateral --></relationshipLabel>
+</CustomFieldTranslation>

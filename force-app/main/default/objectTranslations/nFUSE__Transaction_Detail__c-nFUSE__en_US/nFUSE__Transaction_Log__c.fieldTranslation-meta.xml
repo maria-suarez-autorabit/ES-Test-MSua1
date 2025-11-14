@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The required master Transaction Log identifier that this detail is associated. --></help>
+    <label><!-- Transaction Log --></label>
+    <name>nFUSE__Transaction_Log__c</name>
+    <relationshipLabel><!-- Transaction Details --></relationshipLabel>
+</CustomFieldTranslation>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Entity Type --></label>
+    <name>LLC_BI__Entity_Type__c</name>
+    <picklistValues>
+        <masterLabel>Analyst</masterLabel>
+        <translation><!-- Analyst --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Channel Partner / Reseller</masterLabel>
+        <translation><!-- Channel Partner / Reseller --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Competitor</masterLabel>
+        <translation><!-- Competitor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Corporation</masterLabel>
+        <translation><!-- Corporation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Customer</masterLabel>
+        <translation><!-- Customer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Customer - Channel</masterLabel>
+        <translation><!-- Customer - Channel --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Customer - Direct</masterLabel>
+        <translation><!-- Customer - Direct --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>EPC</masterLabel>
+        <translation><!-- EPC --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Estate</masterLabel>
+        <translation><!-- Estate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>General Partnership</masterLabel>
+        <translation><!-- General Partnership --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Guardianship</masterLabel>
+        <translation><!-- Guardianship --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Individual</masterLabel>
+        <translation><!-- Individual --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Installation Partner</masterLabel>
+        <translation><!-- Installation Partner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Integrator</masterLabel>
+        <translation><!-- Integrator --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Investor</masterLabel>
+        <translation><!-- Investor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Liability Company (LLC)</masterLabel>
+        <translation><!-- Limited Liability Company (LLC) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Liability Partnership (LLP)</masterLabel>
+        <translation><!-- Limited Liability Partnership (LLP) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Partnership</masterLabel>
+        <translation><!-- Limited Partnership --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Municipality / Other Public Entity</masterLabel>
+        <translation><!-- Municipality / Other Public Entity --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Nonprofit Corporation</masterLabel>
+        <translation><!-- Nonprofit Corporation --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Operating Company</masterLabel>
+        <translation><!-- Operating Company --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Partner</masterLabel>
+        <translation><!-- Partner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Press</masterLabel>
+        <translation><!-- Press --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prospect</masterLabel>
+        <translation><!-- Prospect --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Reseller</masterLabel>
+        <translation><!-- Reseller --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sole Proprietorship</masterLabel>
+        <translation><!-- Sole Proprietorship --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Technology Partner</masterLabel>
+        <translation><!-- Technology Partner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trust</masterLabel>
+        <translation><!-- Trust --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

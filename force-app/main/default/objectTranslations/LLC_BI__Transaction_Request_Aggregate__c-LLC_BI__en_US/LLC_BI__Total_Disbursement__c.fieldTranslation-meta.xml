@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field displays the total disbursement for the loan. --></help>
+    <label><!-- Total Disbursement --></label>
+    <name>LLC_BI__Total_Disbursement__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field displays the collateral property’s monthly tax amount. --></help>
+    <label><!-- Monthly Tax --></label>
+    <name>LLC_BI__Monthly_Tax__c</name>
+</CustomFieldTranslation>

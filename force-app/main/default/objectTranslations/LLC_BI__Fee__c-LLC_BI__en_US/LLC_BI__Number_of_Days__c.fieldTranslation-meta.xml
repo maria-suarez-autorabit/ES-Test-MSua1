@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field indicates the number of days of prepaid interest due at closing. --></help>
+    <label><!-- Number of Days --></label>
+    <name>LLC_BI__Number_of_Days__c</name>
+</CustomFieldTranslation>

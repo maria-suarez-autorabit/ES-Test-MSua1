@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A description of the other payment election type. --></help>
+    <label><!-- Other Distribution Payment --></label>
+    <name>LLC_BI__Other_Distribution_Payment__c</name>
+</CustomFieldTranslation>

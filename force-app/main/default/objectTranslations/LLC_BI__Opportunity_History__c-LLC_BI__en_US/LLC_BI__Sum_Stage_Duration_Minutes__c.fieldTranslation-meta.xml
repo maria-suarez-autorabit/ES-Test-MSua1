@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Set in Code - Holds the sum of the Stage Duration Minutes for each Final Stage Change, for a single loan. --></help>
+    <label><!-- Sum Stage Duration Minutes --></label>
+    <name>LLC_BI__Sum_Stage_Duration_Minutes__c</name>
+</CustomFieldTranslation>

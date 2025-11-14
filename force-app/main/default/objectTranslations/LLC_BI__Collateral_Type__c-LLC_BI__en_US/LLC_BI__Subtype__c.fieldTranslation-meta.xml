@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The subtype of a piece of Collateral. --></help>
+    <label><!-- Subtype --></label>
+    <name>LLC_BI__Subtype__c</name>
+    <picklistValues>
+        <masterLabel>1-4 Family</masterLabel>
+        <translation><!-- 1-4 Family --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Accounts</masterLabel>
+        <translation><!-- Accounts --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Aircraft</masterLabel>
+        <translation><!-- Aircraft --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Chattel Paper</masterLabel>
+        <translation><!-- Chattel Paper --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Construction</masterLabel>
+        <translation><!-- Construction --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Consumer Goods</masterLabel>
+        <translation><!-- Consumer Goods --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Crops</masterLabel>
+        <translation><!-- Crops --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Equipment</masterLabel>
+        <translation><!-- Equipment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Farm Equipment</masterLabel>
+        <translation><!-- Farm Equipment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Farm Land</masterLabel>
+        <translation><!-- Farm Land --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Farm Products</masterLabel>
+        <translation><!-- Farm Products --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fixtures</masterLabel>
+        <translation><!-- Fixtures --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>General Intangibles</masterLabel>
+        <translation><!-- General Intangibles --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Government Contracts</masterLabel>
+        <translation><!-- Government Contracts --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Inventory</masterLabel>
+        <translation><!-- Inventory --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Land</masterLabel>
+        <translation><!-- Land --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Letter of Credit</masterLabel>
+        <translation><!-- Letter of Credit --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Life Insurance</masterLabel>
+        <translation><!-- Life Insurance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Livestock</masterLabel>
+        <translation><!-- Livestock --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Lot</masterLabel>
+        <translation><!-- Lot --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Minerals, Oil and Gas</masterLabel>
+        <translation><!-- Minerals, Oil and Gas --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mobile Home</masterLabel>
+        <translation><!-- Mobile Home --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Motor Vehicle</masterLabel>
+        <translation><!-- Motor Vehicle --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Multi-Family</masterLabel>
+        <translation><!-- Multi-Family --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>None</masterLabel>
+        <translation><!-- None --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Note/Instrument</masterLabel>
+        <translation><!-- Note/Instrument --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Office</masterLabel>
+        <translation><!-- Office --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Possessory</masterLabel>
+        <translation><!-- Other Possessory --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other RE</masterLabel>
+        <translation><!-- Other RE --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Titled</masterLabel>
+        <translation><!-- Other Titled --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pleasure Boat</masterLabel>
+        <translation><!-- Pleasure Boat --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Receipts/Bills</masterLabel>
+        <translation><!-- Receipts/Bills --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Retail</masterLabel>
+        <translation><!-- Retail --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Savings/CD&apos;s</masterLabel>
+        <translation><!-- Savings/CD&apos;s --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Securities</masterLabel>
+        <translation><!-- Securities --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Standing Timber</masterLabel>
+        <translation><!-- Standing Timber --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Tort Claim</masterLabel>
+        <translation><!-- Tort Claim --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trailer</masterLabel>
+        <translation><!-- Trailer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vessel</masterLabel>
+        <translation><!-- Vessel --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Warehouse</masterLabel>
+        <translation><!-- Warehouse --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

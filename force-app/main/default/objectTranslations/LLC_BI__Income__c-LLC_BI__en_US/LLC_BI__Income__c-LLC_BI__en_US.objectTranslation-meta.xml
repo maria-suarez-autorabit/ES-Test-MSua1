@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Income</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Incomes</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Add Income --></label>
+        <name>LLC_BI__Add_Income</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Enhanced Income Test --></label>
+        <name>LLC_BI__Enhanced_Income_Test</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Income Schedule --></label>
+        <name>LLC_BI__Income_Schedule</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Monthly income must be 1/12 of yearly income. --></errorMessage>
+        <name>LLC_BI__Monthly_Yearly_Income</name>
+    </validationRules>
+</CustomObjectTranslation>

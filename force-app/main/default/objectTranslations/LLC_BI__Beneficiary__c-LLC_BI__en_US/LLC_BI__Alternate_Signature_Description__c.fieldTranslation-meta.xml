@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- A description of the alternate text to print under a signature line for the beneficiary. This would be used if something other than the beneficiary&apos;s name should print under their signature line. --></help>
+    <label><!-- Alternate Signature Description --></label>
+    <name>LLC_BI__Alternate_Signature_Description__c</name>
+</CustomFieldTranslation>

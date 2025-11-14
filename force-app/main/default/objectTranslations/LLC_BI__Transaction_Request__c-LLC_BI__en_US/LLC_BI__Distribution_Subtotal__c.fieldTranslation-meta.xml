@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The externally calculated subtotal dollar amount to print in the payment detail table on the distribution or election form. --></help>
+    <label><!-- Distribution Subtotal --></label>
+    <name>LLC_BI__Distribution_Subtotal__c</name>
+</CustomFieldTranslation>

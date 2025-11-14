@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Manually populate this text field with the name of a field set that contains the fields that should appear in the recalculate offers component for this product type. --></help>
+    <label><!-- Recalculate Offers Field Set --></label>
+    <name>LLC_BI__Recalculate_Offers_Field_Set__c</name>
+</CustomFieldTranslation>

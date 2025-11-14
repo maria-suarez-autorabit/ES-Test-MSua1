@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system enters total closing costs associated to the loan paid before closing. --></help>
+    <label><!-- Closing Costs Paid Before Closing --></label>
+    <name>LLC_BI__Closing_Costs_Paid_Before_Closing__c</name>
+</CustomFieldTranslation>

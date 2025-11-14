@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field displays the interest rate initially applied to the loan. --></help>
+    <label><!-- Teaser Rate --></label>
+    <name>LLC_BI__Teaser_Rate__c</name>
+</CustomFieldTranslation>

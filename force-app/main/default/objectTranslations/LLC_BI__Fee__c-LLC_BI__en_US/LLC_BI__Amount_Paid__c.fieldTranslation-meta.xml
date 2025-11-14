@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The amount paid on the fee. --></help>
+    <label><!-- Amount Paid --></label>
+    <name>LLC_BI__Amount_Paid__c</name>
+</CustomFieldTranslation>

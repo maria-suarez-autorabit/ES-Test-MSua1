@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Communication Setup --></label>
+    <name>LLC_BI__Communication_Setup__c</name>
+    <picklistValues>
+        <masterLabel>FRP (File Transfer Protocol) with PGP Encrytion</masterLabel>
+        <translation><!-- FRP (File Transfer Protocol) with PGP Encrytion --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>SFTP (Preferred)</masterLabel>
+        <translation><!-- SFTP (Preferred) --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

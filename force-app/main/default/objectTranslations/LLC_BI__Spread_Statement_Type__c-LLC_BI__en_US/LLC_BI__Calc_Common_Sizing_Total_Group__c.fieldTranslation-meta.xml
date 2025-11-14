@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Calc Common Sizing Total Group --></label>
+    <name>LLC_BI__Calc_Common_Sizing_Total_Group__c</name>
+    <relationshipLabel><!-- Spread Statement Templates (Calc Common Sizing Total Group) --></relationshipLabel>
+</CustomFieldTranslation>

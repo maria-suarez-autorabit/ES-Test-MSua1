@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The plan number with the institution under which accounts will be opened for funds investment. Not the investment account number. The owner may have multiple plans with the institution when some funds can’t commingle, such as rolled over retirement funds. --></help>
+    <label><!-- Plan Number --></label>
+    <name>LLC_BI__Plan_Number__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The value that&apos;s being confirmed with the financial indicator covenant. IE: DSC of  at least 1.25 --></help>
+    <label><!-- Financial Indicator Value --></label>
+    <name>LLC_BI__Financial_Indicator_Value__c</name>
+</CustomFieldTranslation>

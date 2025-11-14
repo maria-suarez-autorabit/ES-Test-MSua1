@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Employee_Deposit__c</fullName>
+    <defaultValue>false</defaultValue>
+    <deprecated>false</deprecated>
+    <description>Users manually populate this optional checkbox field to specify when a deposit belongs to an employee of the financial institution. By default, it is false.</description>
+    <inlineHelpText>This field specifies when a deposit belongs to an employee of the financial institution.</inlineHelpText>
+    <label>Employee Deposit</label>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

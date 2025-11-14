@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use this optional currency field to sets a minimum payment amount. --></help>
+    <label><!-- Minimum Payment --></label>
+    <name>LLC_BI__Minimum_Payment__c</name>
+</CustomFieldTranslation>

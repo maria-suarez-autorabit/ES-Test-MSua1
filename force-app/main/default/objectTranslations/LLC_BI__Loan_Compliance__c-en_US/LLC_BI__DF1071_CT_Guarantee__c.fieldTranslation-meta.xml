@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate the type(s) of guarantee. --></help>
+    <label><!-- Credit Type - Guarantee Type --></label>
+    <name>LLC_BI__DF1071_CT_Guarantee__c</name>
+    <picklistValues>
+        <masterLabel>1 - Personal guarantee - owner(s)</masterLabel>
+        <translation><!-- 1 - Personal guarantee - owner(s) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>10 - State government guarantee</masterLabel>
+        <translation><!-- 10 - State government guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>11 - Local government guarantee</masterLabel>
+        <translation><!-- 11 - Local government guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Personal guarantee - non-owner(s)</masterLabel>
+        <translation><!-- 2 - Personal guarantee - non-owner(s) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - SBA guarantee - 7(a) program</masterLabel>
+        <translation><!-- 3 - SBA guarantee - 7(a) program --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>4 - SBA guarantee - 504 program</masterLabel>
+        <translation><!-- 4 - SBA guarantee - 504 program --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>5 - SBA guarantee - other</masterLabel>
+        <translation><!-- 5 - SBA guarantee - other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>6 - USDA guarantee</masterLabel>
+        <translation><!-- 6 - USDA guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>7 - FHA insurance</masterLabel>
+        <translation><!-- 7 - FHA insurance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>8 - Bureau of Indian Affairs guarantee</masterLabel>
+        <translation><!-- 8 - Bureau of Indian Affairs guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>9 - Other Federal guarantee</masterLabel>
+        <translation><!-- 9 - Other Federal guarantee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>977 - Other</masterLabel>
+        <translation><!-- 977 - Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>999 - No guarantee</masterLabel>
+        <translation><!-- 999 - No guarantee --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

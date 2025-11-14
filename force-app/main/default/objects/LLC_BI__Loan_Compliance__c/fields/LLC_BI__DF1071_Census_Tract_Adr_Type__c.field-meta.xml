@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_Census_Tract_Adr_Type__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional picklist field to indicate the address type used to determine the census tract. By default, it is empty.</description>
+    <inlineHelpText>Select a value to indicate the address type used to determine the census tract.</inlineHelpText>
+    <label>Census Tract Address Type</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>false</default>
+                <label>1 - Address or location where the loan proceeds will principally be applied</label>
+            </value>
+            <value>
+                <fullName>2</fullName>
+                <default>false</default>
+                <label>2 - Address or location of borrower&apos;s main office or headquarters</label>
+            </value>
+            <value>
+                <fullName>3</fullName>
+                <default>false</default>
+                <label>3 - Another address or location associated with the applicant</label>
+            </value>
+            <value>
+                <fullName>988</fullName>
+                <default>false</default>
+                <label>988 - Not provided by applicant and otherwise undetermined</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- AR_QA_Team --></label>
+    <name>Test__c</name>
+    <relationshipLabel><!-- AR-QA-Tests (AR_QA_Team) --></relationshipLabel>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field indicates the monthly payment amount for the fee. --></help>
+    <label><!-- Monthly Payment Amount --></label>
+    <name>LLC_BI__Monthly_Payment_Amount__c</name>
+</CustomFieldTranslation>

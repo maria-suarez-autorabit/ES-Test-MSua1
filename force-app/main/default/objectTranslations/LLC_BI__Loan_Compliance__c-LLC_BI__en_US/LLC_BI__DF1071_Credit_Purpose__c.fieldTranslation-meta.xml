@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate the purpose of the credit applied for or originated. --></help>
+    <label><!-- Credit Purpose --></label>
+    <name>LLC_BI__DF1071_Credit_Purpose__c</name>
+    <picklistValues>
+        <masterLabel>1 - Purchase, construction/improvement, or refinance of non-owner-occupied real property</masterLabel>
+        <translation><!-- 1 - Purchase, construction/improvement, or refinance of non-owner-occupied real property --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>10 - Line increase</masterLabel>
+        <translation><!-- 10 - Line increase --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>11 - Overdraft</masterLabel>
+        <translation><!-- 11 - Overdraft --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>2 - Purchase, construction/improvement, or refinance of owner-occupied real property</masterLabel>
+        <translation><!-- 2 - Purchase, construction/improvement, or refinance of owner-occupied real property --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>3 - Purchase, refinance, or rehabilitation/repair of motor vehicle(s) (including light and heavy trucks)</masterLabel>
+        <translation><!-- 3 - Purchase, refinance, or rehabilitation/repair of motor vehicle(s) (including light and heavy trucks) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>4 - Purchase, refinance, or rehabilitation/repair of equipment</masterLabel>
+        <translation><!-- 4 - Purchase, refinance, or rehabilitation/repair of equipment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>5 - Working capital (including inventory or floor planning)</masterLabel>
+        <translation><!-- 5 - Working capital (including inventory or floor planning) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>6 - Business start-up</masterLabel>
+        <translation><!-- 6 - Business start-up --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>7 - Business expansion</masterLabel>
+        <translation><!-- 7 - Business expansion --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>8 - Business acquisition</masterLabel>
+        <translation><!-- 8 - Business acquisition --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>9 - Refinance existing debt (other than refinancings listed above)</masterLabel>
+        <translation><!-- 9 - Refinance existing debt (other than refinancings listed above) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>977 - Other</masterLabel>
+        <translation><!-- 977 - Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided by applicant and otherwise undetermined</masterLabel>
+        <translation><!-- 988 - Not provided by applicant and otherwise undetermined --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>999 - Not applicable</masterLabel>
+        <translation><!-- 999 - Not applicable --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

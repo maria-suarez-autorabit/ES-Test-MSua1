@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The total number of financed fees associated to this object. --></help>
+    <label><!-- Number of Financed Fees --></label>
+    <name>LLC_BI__Number_of_Financed_Fees__c</name>
+</CustomFieldTranslation>

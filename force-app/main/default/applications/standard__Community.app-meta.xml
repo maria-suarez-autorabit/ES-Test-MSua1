@@ -13,7 +13,49 @@
     <tabs>standard-IdeaTheme</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>UmeshCallARM__c</tabs>
-    <tabs>TestCustomObjectARM1__c</tabs>
-    <tabs>FakeNam__c</tabs>
+    <tabs>DM_Admin</tabs>
+    <tabs>nFORCE__Route_Group__c</tabs>
+    <tabs>LLC_BI__Covenant2__c</tabs>
+    <tabs>Bank_Routing_Number__c</tabs>
+    <tabs>nFORMS__Form_Template_Route_Group_Configuration__c</tabs>
+    <tabs>nFORCE__Screen_Section__c</tabs>
+    <tabs>Obj_1__c</tabs>
+    <tabs>Obj2__c</tabs>
+    <tabs>LLC_BI__Spread_Statement_Record__c</tabs>
+    <tabs>LLC_BI__Spread_Record_Classification__c</tabs>
+    <tabs>AR_QA_Team__c</tabs>
+    <tabs>nFORMS__Form_Template_Junction__c</tabs>
+    <tabs>nFORCE__Tile__c</tabs>
+    <tabs>nFORCE__Route_Tile__c</tabs>
+    <tabs>LLC_BI__Dimension_Definition__c</tabs>
+    <tabs>LLC_BI__Policy_Type__c</tabs>
+    <tabs>LLC_BI__Dimension__c</tabs>
+    <tabs>LLC_BI__Matrix__c</tabs>
+    <tabs>LLC_BI__Policy__c</tabs>
+    <tabs>LLC_BI__Template_Records__c</tabs>
+    <tabs>LLC_BI__Product_Template_Join__c</tabs>
+    <tabs>LLC_BI__Spread_Record_Total_Classification__c</tabs>
+    <tabs>AR_QA_Test__c</tabs>
+    <tabs>External_ID_Test__c</tabs>
+    <tabs>nFORCE__Transaction__c</tabs>
+    <tabs>Language__c</tabs>
+    <tabs>Industry__c</tabs>
+    <tabs>Test_QA_Object__c</tabs>
+    <tabs>LLC_BI__Schedule__c</tabs>
+    <tabs>LLC_BI__Schedule_Section__c</tabs>
+    <tabs>LLC_BI__Schedule_Entry__c</tabs>
+    <tabs>LLC_BI__Debt_Schedule__c</tabs>
+    <tabs>LLC_BI__Debt__c</tabs>
+    <tabs>LLC_BI__Requirement__c</tabs>
+    <tabs>nFORCE__Rule_Engine_Rule__c</tabs>
+    <tabs>nFORCE__Workflow_Orchestration__c</tabs>
+    <tabs>AutoOwnerIdFiled_02__c</tabs>
+    <tabs>comObj__c</tabs>
+    <tabs>NS_Test_Obj__c</tabs>
+    <tabs>Lotus__c</tabs>
+    <tabs>nFORCE__Screen_Segment__c</tabs>
+    <tabs>Loan_c__c</tabs>
+    <tabs>ncino_parent__c</tabs>
+    <tabs>ncino_child__c</tabs>
+    <tabs>LLC_BI__Classification__c</tabs>
 </CustomApplication>

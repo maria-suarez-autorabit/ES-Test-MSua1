@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use this field to determine the approximate blended rate of new interest-bearing products an FI originates in the deal outside of nCino. --></help>
+    <label><!-- New Deposit Product Rate --></label>
+    <name>LLC_BI__New_Deposit_Blended_Rate__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Min is the Smallest Value. Use this field if the underlying analytic data reports on min. --></help>
+    <label><!-- Min --></label>
+    <name>nFORCE__Min__c</name>
+</CustomFieldTranslation>

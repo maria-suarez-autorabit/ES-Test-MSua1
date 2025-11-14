@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Displays the sum of all loan amounts actively pledged to this piece of collateral. --></help>
+    <label><!-- Total Active Loans Value --></label>
+    <name>LLC_BI__Total_Active_Loans_Value__c</name>
+</CustomFieldTranslation>

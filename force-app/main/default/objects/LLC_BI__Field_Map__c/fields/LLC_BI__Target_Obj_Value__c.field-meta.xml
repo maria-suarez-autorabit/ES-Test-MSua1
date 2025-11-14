@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Target_Obj_Value__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional text field. When populated, it specifies the Target Value to replace the matching Originating Value, instead of using the target object&apos;s value. By default, it is blank.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter the value of the field you would like to map to the destination object. For a picklist, this will be the API value of the selected option.</inlineHelpText>
+    <label>Target Value</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This auto-populated field contains the application&apos;s external transaction ID. --></help>
+    <label><!-- External Transaction ID --></label>
+    <name>LLC_BI__External_Transaction_Id__c</name>
+</CustomFieldTranslation>

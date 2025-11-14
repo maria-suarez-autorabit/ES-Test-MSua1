@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Credit_Disclosure_Tolerances_Categories</fullName>
+    <active>true</active>
+    <description>User incorrectly populated TRID Disclosure Category and TRID Tolerances Category fields for the following fee types: General Credits, Cost to Cure, Down Payment, Earnest Money/Deposit.</description>
+    <errorConditionFormula>AND(
+        LLC_BI__Loan__r.LLC_BI__Product_Reference__r.LLC_BI__Product_Feature__r.LLC_BI__Is_Subject_To_TRID_Tolerances__c, 
+        OR(NOT(ISBLANK(TEXT(LLC_BI__TRID_Disclosure_Category__c))), NOT(ISBLANK(TEXT(LLC_BI__TRID_Tolerances_Category__c)))),
+        OR(
+            ISPICKVAL(LLC_BI__Fee_Type__c , &apos;Lender Credit&apos;), ISPICKVAL(LLC_BI__Fee_Type__c , &apos;Cost to Cure&apos;),
+            ISPICKVAL(LLC_BI__Fee_Type__c , &apos;Seller Credit&apos;), ISPICKVAL(LLC_BI__Fee_Type__c , &apos;Earnest Money/Deposit&apos;),
+            ISPICKVAL(LLC_BI__Fee_Type__c , &apos;Down Payment&apos;), ISPICKVAL(LLC_BI__Fee_Type__c , &apos;Other Credit&apos;), 
+            ISPICKVAL(LLC_BI__Fee_Type__c , &apos;Funds For Borrower&apos;)
+        )
+    )</errorConditionFormula>
+    <errorMessage>TRID Disclosure and Tolerance categories are only required for Fees and Costs. To continue, remove any category values from non applicable fee types.</errorMessage>
+</ValidationRule>

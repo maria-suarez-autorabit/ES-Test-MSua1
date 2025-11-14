@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select to allow negative odd days interest. --></help>
+    <label><!-- Allow Negative Odd Days --></label>
+    <name>LLC_BI__Allow_Negative_Odd_Days__c</name>
+    <picklistValues>
+        <masterLabel>Allow</masterLabel>
+        <translation><!-- Allow --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Don&apos;t Allow</masterLabel>
+        <translation><!-- Don&apos;t Allow --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

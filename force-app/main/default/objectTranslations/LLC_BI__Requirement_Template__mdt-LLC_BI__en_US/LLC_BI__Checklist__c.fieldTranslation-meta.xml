@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This required field contains a reference to the Checklist Template to which this Requirement Template belongs. --></help>
+    <label><!-- Checklist --></label>
+    <name>LLC_BI__Checklist__c</name>
+    <relationshipLabel><!-- Requirements --></relationshipLabel>
+</CustomFieldTranslation>

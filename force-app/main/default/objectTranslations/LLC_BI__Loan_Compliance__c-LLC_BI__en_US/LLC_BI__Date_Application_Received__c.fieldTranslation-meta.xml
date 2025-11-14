@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If the date the application was received does not apply to the loan, please do not select a date. --></help>
+    <label><!-- Date Application Received --></label>
+    <name>LLC_BI__Date_Application_Received__c</name>
+</CustomFieldTranslation>

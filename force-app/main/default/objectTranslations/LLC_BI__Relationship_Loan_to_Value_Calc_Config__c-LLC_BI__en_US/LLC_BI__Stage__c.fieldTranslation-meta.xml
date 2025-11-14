@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the loan stage(s) to filter for the loans you want to include in the RLTV calculation. --></help>
+    <label><!-- Stage --></label>
+    <name>LLC_BI__Stage__c</name>
+    <picklistValues>
+        <masterLabel>Booked</masterLabel>
+        <translation><!-- Booked --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closed</masterLabel>
+        <translation><!-- Closed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closed Funded</masterLabel>
+        <translation><!-- Closed Funded --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closing</masterLabel>
+        <translation><!-- Closing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Complete</masterLabel>
+        <translation><!-- Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Compliance</masterLabel>
+        <translation><!-- Compliance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Credit Underwriting</masterLabel>
+        <translation><!-- Credit Underwriting --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Doc Prep</masterLabel>
+        <translation><!-- Doc Prep --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Doc Review</masterLabel>
+        <translation><!-- Doc Review --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Loan Committee</masterLabel>
+        <translation><!-- Loan Committee --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Processing</masterLabel>
+        <translation><!-- Processing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Proposal</masterLabel>
+        <translation><!-- Proposal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Qualification</masterLabel>
+        <translation><!-- Qualification --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Servicing</masterLabel>
+        <translation><!-- Servicing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Special Assets</masterLabel>
+        <translation><!-- Special Assets --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

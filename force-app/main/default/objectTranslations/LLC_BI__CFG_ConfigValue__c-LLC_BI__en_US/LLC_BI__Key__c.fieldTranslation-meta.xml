@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Any spaces in the Key&apos;s should be replaced with an underscore. --></help>
+    <label><!-- Key --></label>
+    <name>LLC_BI__Key__c</name>
+</CustomFieldTranslation>

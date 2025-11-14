@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Authorized Account</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Authorized Accounts</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Add Signer Modal --></label>
+        <name>LLC_BI__Add_Signer_Modal</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Authorized Business Maintenance Delta --></label>
+        <name>LLC_BI__Authorized_Business_Maintenance_Delta</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Borrowing Structure Table --></label>
+        <name>LLC_BI__Borrowing_Structure_Table</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Ownership Structure Table --></label>
+        <name>LLC_BI__Ownership_Structure_Table</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

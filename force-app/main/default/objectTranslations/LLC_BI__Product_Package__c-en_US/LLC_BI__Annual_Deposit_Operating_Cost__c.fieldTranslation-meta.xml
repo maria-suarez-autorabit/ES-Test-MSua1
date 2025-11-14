@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The approximate Annual Operating Cost for new deposit products an FI originates in the deal outside of nCino. --></help>
+    <label><!-- Annual Deposit Operating Cost --></label>
+    <name>LLC_BI__Annual_Deposit_Operating_Cost__c</name>
+</CustomFieldTranslation>

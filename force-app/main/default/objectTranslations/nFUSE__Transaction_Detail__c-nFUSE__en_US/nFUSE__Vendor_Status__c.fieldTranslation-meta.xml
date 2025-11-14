@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The status of the Transaction from the provider vendor&apos;s perspective. --></help>
+    <label><!-- Vendor Status --></label>
+    <name>nFUSE__Vendor_Status__c</name>
+</CustomFieldTranslation>

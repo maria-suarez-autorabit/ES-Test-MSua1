@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Leave blank if custom setting does not apply to a specific institution. If custom setting applies to a specific institution, manually populate with Institution ID If not already autopopulated. --></help>
+    <label><!-- Institution ID --></label>
+    <name>nFORCE__Institution_ID__c</name>
+</CustomFieldTranslation>

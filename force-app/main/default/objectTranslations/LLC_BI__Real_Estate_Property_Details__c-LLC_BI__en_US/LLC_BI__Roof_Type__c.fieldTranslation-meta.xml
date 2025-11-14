@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the property’s roof type from the picklist. --></help>
+    <label><!-- Roof Type --></label>
+    <name>LLC_BI__Roof_Type__c</name>
+    <picklistValues>
+        <masterLabel>Asphalt Shingles</masterLabel>
+        <translation><!-- Asphalt Shingles --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Built-up Roofing</masterLabel>
+        <translation><!-- Built-up Roofing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Clay and Concrete Tiles</masterLabel>
+        <translation><!-- Clay and Concrete Tiles --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Flat</masterLabel>
+        <translation><!-- Flat --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Green Roof</masterLabel>
+        <translation><!-- Green Roof --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Metal Roofing</masterLabel>
+        <translation><!-- Metal Roofing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rubber Slate</masterLabel>
+        <translation><!-- Rubber Slate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Slate</masterLabel>
+        <translation><!-- Slate --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Solar Tiles</masterLabel>
+        <translation><!-- Solar Tiles --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Stone-coated Steel</masterLabel>
+        <translation><!-- Stone-coated Steel --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Thatched</masterLabel>
+        <translation><!-- Thatched --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the desired field set&apos;s API name in this field. This field set must exist on the collateral valuation object. If blank, the system uses the default field set for valuation creation. --></help>
+    <label><!-- Valuation Field Set --></label>
+    <name>LLC_BI__Valuation_Field_Set__c</name>
+</CustomFieldTranslation>

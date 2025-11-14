@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_CT_Loan_Term_Flag__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional picklist field to indicate whether a loan term is applicable for this application for credit. By default, it is empty.</description>
+    <inlineHelpText>Select a value to indicate whether a loan term is applicable for this application for credit.</inlineHelpText>
+    <label>Credit Type - Loan Term Flag</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>900</fullName>
+                <default>false</default>
+                <label>900 - Applicable and reported</label>
+            </value>
+            <value>
+                <fullName>988</fullName>
+                <default>false</default>
+                <label>988 - Applicable but not provided by applicant and otherwise undetermined</label>
+            </value>
+            <value>
+                <fullName>999</fullName>
+                <default>false</default>
+                <label>999 - Not applicable</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Document Collection Index status --></help>
+    <label><!-- Status --></label>
+    <name>LLC_BI__Status__c</name>
+    <picklistValues>
+        <masterLabel>Failed</masterLabel>
+        <translation><!-- Failed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Progress</masterLabel>
+        <translation><!-- In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Queued</masterLabel>
+        <translation><!-- Queued --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Uploaded</masterLabel>
+        <translation><!-- Uploaded --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

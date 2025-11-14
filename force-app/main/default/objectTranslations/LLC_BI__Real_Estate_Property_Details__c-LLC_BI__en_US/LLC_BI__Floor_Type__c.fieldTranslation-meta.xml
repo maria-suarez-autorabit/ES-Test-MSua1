@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the property’s floor type from the picklist. --></help>
+    <label><!-- Floor Type --></label>
+    <name>LLC_BI__Floor_Type__c</name>
+    <picklistValues>
+        <masterLabel>Bamboo</masterLabel>
+        <translation><!-- Bamboo --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Carpet</masterLabel>
+        <translation><!-- Carpet --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ceramic Tile</masterLabel>
+        <translation><!-- Ceramic Tile --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cork</masterLabel>
+        <translation><!-- Cork --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Engineered Wood</masterLabel>
+        <translation><!-- Engineered Wood --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Floating Wood Tile</masterLabel>
+        <translation><!-- Floating Wood Tile --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hardwood</masterLabel>
+        <translation><!-- Hardwood --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Porcelain Tile</masterLabel>
+        <translation><!-- Porcelain Tile --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Stone</masterLabel>
+        <translation><!-- Stone --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vinyl</masterLabel>
+        <translation><!-- Vinyl --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

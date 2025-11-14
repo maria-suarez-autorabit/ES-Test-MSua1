@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this field if the account type or account holder is excluded from coverage under the Minnesota Transaction Account Application Disclosure requirement. This is only applicable to users in Minnesota. --></help>
+    <label><!-- Exclude Transaction Account Disclosure --></label>
+    <name>LLC_BI__Exclude_Transaction_Account_Disclosure__c</name>
+</CustomFieldTranslation>

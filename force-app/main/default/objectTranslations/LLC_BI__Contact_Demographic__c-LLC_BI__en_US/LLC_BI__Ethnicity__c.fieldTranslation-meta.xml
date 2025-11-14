@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select value(s) to indicate the applicant’s ethnicity. --></help>
+    <label><!-- Ethnicity --></label>
+    <name>LLC_BI__Ethnicity__c</name>
+    <picklistValues>
+        <masterLabel>Cuban</masterLabel>
+        <translation><!-- Cuban --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hispanic or Latino</masterLabel>
+        <translation><!-- Hispanic or Latino --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mexican</masterLabel>
+        <translation><!-- Mexican --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Not Hispanic or Latino</masterLabel>
+        <translation><!-- Not Hispanic or Latino --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Hispanic or Latino Ethnicity</masterLabel>
+        <translation><!-- Other Hispanic or Latino Ethnicity --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Prefer not to answer</masterLabel>
+        <translation><!-- Prefer not to answer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Puerto Rican</masterLabel>
+        <translation><!-- Puerto Rican --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

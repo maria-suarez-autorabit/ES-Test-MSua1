@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Transaction Request Aggregate</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Transaction Request Aggregates</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Disbursements Summary --></label>
+        <name>LLC_BI__Disbursements_Summary</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

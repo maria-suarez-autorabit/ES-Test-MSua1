@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Formula pulling in Phone populated on the Contact from the related Service Mgmt record. --></help>
+    <label><!-- Contact Phone --></label>
+    <name>cm_Contact_Phone__c</name>
+</CustomFieldTranslation>

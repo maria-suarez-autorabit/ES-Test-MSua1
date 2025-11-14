@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The interest rate of the deposit account. If an initial rate (i.e. a teaser) applies this is the rate that is in effect after the expiration of the teaser period. --></help>
+    <label><!-- Interest Rate --></label>
+    <name>LLC_BI__Interest_Rate__c</name>
+</CustomFieldTranslation>

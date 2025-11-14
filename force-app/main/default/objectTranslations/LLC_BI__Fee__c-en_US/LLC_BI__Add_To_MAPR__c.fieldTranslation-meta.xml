@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select this field when a fee is included in the MAPR calculation. --></help>
+    <label><!-- Add To MAPR --></label>
+    <name>LLC_BI__Add_To_MAPR__c</name>
+</CustomFieldTranslation>

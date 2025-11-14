@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Debt Type --></label>
+    <name>LLC_BI__Debt_Type__c</name>
+    <picklistValues>
+        <masterLabel>Monthly Auto/Lease Payments</masterLabel>
+        <translation><!-- Monthly Auto/Lease Payments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Monthly Child Support Payments</masterLabel>
+        <translation><!-- Monthly Child Support Payments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Monthly Credit Card Payments</masterLabel>
+        <translation><!-- Monthly Credit Card Payments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Monthly Student Loan Payments</masterLabel>
+        <translation><!-- Monthly Student Loan Payments --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Monthly Installment</masterLabel>
+        <translation><!-- Other Monthly Installment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Proposed Loan</masterLabel>
+        <translation><!-- Proposed Loan --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

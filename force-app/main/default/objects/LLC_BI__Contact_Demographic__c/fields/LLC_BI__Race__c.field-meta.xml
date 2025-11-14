@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Race__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Users populate this optional multi-select picklist field to indicate the applicant’s race. By default, it is empty.</description>
+    <inlineHelpText>Select value(s) to indicate the applicant’s race.</inlineHelpText>
+    <label>Race</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>American Indian or Alaska Native</fullName>
+                <default>false</default>
+                <label>American Indian or Alaska Native</label>
+            </value>
+            <value>
+                <fullName>Asian</fullName>
+                <default>false</default>
+                <label>Asian</label>
+            </value>
+            <value>
+                <fullName>Asian Indian</fullName>
+                <default>false</default>
+                <label>Asian Indian</label>
+            </value>
+            <value>
+                <fullName>Chinese</fullName>
+                <default>false</default>
+                <label>Chinese</label>
+            </value>
+            <value>
+                <fullName>Filipino</fullName>
+                <default>false</default>
+                <label>Filipino</label>
+            </value>
+            <value>
+                <fullName>Japanese</fullName>
+                <default>false</default>
+                <label>Japanese</label>
+            </value>
+            <value>
+                <fullName>Korean</fullName>
+                <default>false</default>
+                <label>Korean</label>
+            </value>
+            <value>
+                <fullName>Vietnamese</fullName>
+                <default>false</default>
+                <label>Vietnamese</label>
+            </value>
+            <value>
+                <fullName>Other Asian Race</fullName>
+                <default>false</default>
+                <label>Other Asian Race</label>
+            </value>
+            <value>
+                <fullName>Black or African American</fullName>
+                <default>false</default>
+                <label>Black or African American</label>
+            </value>
+            <value>
+                <fullName>African American</fullName>
+                <default>false</default>
+                <label>African American</label>
+            </value>
+            <value>
+                <fullName>Ethiopian</fullName>
+                <default>false</default>
+                <label>Ethiopian</label>
+            </value>
+            <value>
+                <fullName>Haitian</fullName>
+                <default>false</default>
+                <label>Haitian</label>
+            </value>
+            <value>
+                <fullName>Jamaican</fullName>
+                <default>false</default>
+                <label>Jamaican</label>
+            </value>
+            <value>
+                <fullName>Nigerian</fullName>
+                <default>false</default>
+                <label>Nigerian</label>
+            </value>
+            <value>
+                <fullName>Somali</fullName>
+                <default>false</default>
+                <label>Somali</label>
+            </value>
+            <value>
+                <fullName>Other Black or African American Race</fullName>
+                <default>false</default>
+                <label>Other Black or African American Race</label>
+            </value>
+            <value>
+                <fullName>Native Hawaiian or Other Pacific Islander</fullName>
+                <default>false</default>
+                <label>Native Hawaiian or Other Pacific Islander</label>
+            </value>
+            <value>
+                <fullName>Guamanian or Chamorro</fullName>
+                <default>false</default>
+                <label>Guamanian or Chamorro</label>
+            </value>
+            <value>
+                <fullName>Native Hawaiian</fullName>
+                <default>false</default>
+                <label>Native Hawaiian</label>
+            </value>
+            <value>
+                <fullName>Samoan</fullName>
+                <default>false</default>
+                <label>Samoan</label>
+            </value>
+            <value>
+                <fullName>Other Pacific Islander Race</fullName>
+                <default>false</default>
+                <label>Other Pacific Islander Race</label>
+            </value>
+            <value>
+                <fullName>White</fullName>
+                <default>false</default>
+                <label>White</label>
+            </value>
+            <value>
+                <fullName>Prefer not to answer</fullName>
+                <default>false</default>
+                <label>Prefer not to answer</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

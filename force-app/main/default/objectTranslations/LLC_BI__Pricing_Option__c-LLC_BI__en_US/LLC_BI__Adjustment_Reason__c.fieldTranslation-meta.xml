@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the reason for the rate adjustment. --></help>
+    <label><!-- Adjustment Reason --></label>
+    <name>LLC_BI__Adjustment_Reason__c</name>
+    <picklistValues>
+        <masterLabel>Additional Cross Product Sell</masterLabel>
+        <translation><!-- Additional Cross Product Sell --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Competitive Adjustment</masterLabel>
+        <translation><!-- Competitive Adjustment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Customer Loyalty</masterLabel>
+        <translation><!-- Customer Loyalty --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Market Adjustment</masterLabel>
+        <translation><!-- Market Adjustment --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

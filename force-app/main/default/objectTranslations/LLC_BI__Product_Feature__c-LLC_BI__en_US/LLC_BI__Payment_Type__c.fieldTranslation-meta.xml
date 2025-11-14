@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This optional picklist field captures the method for calculating payments. --></help>
+    <label><!-- Payment Type --></label>
+    <name>LLC_BI__Payment_Type__c</name>
+    <picklistValues>
+        <masterLabel>Calculated Payment</masterLabel>
+        <translation><!-- Calculated Payment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fixed Payment</masterLabel>
+        <translation><!-- Fixed Payment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pay Interest</masterLabel>
+        <translation><!-- Pay Interest --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pay Principle</masterLabel>
+        <translation><!-- Pay Principle --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

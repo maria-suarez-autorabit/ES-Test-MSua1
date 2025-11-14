@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is used to store the difference of the lending amount between the prior version of a renewed or modified loan and the current version. --></help>
+    <label><!-- Net New Funds --></label>
+    <name>LLC_BI__Net_New_Funds__c</name>
+</CustomFieldTranslation>

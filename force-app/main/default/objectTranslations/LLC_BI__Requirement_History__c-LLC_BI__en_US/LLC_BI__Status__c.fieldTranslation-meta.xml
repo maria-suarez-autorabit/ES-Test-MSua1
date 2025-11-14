@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This required field contains the state of this Requirement at the time of the change. --></help>
+    <label><!-- Status --></label>
+    <name>LLC_BI__Status__c</name>
+</CustomFieldTranslation>

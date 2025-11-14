@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Deposit</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Deposits</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Loan --></label>
+        <name>Credit_Memo_Standard_Loan</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Details --></label>
+        <name>LLC_BI__Deposit_Details</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposit Maintenance Delta --></label>
+        <name>LLC_BI__Deposit_Maintenance_Delta</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Deposits --></label>
+        <name>LLC_BI__Deposit_Product_Package</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Related Deposits --></label>
+        <name>LLC_BI__Related_Deposits</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Secondary Mailing Address --></label>
+        <name>LLC_BI__Secondary_Mailing_Address</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>LLC_BI__Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Treasury Mass Actions Deposits --></label>
+        <name>LLC_BI__Treasury_Mass_Actions_Deposits</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Lookup Fields --></label>
+        <name>LLC_BI__UI_Lookup_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Credit Memo Standard Product Package --></label>
+        <name>Standard_Product_Package_Credit_Memo</name>
+    </fieldSets>
+    <layouts>
+        <layout>Deposit Layout</layout>
+        <sections>
+            <label><!-- Notes --></label>
+            <section>Notes</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- New_Deposit --></label>
+        <name>LLC_BI__New_Deposit</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Perform_Maintenance --></label>
+        <name>LLC_BI__Perform_Maintenance</name>
+    </webLinks>
+</CustomObjectTranslation>

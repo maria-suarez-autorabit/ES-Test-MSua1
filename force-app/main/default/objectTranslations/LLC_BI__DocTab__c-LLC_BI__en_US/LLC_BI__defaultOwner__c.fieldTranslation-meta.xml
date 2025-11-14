@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- defaultOwner --></label>
+    <name>LLC_BI__defaultOwner__c</name>
+    <picklistValues>
+        <masterLabel>Attorney</masterLabel>
+        <translation><!-- Attorney --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Closer</masterLabel>
+        <translation><!-- Closer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Compliance</masterLabel>
+        <translation><!-- Compliance --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Construction</masterLabel>
+        <translation><!-- Construction --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Loan Ops</masterLabel>
+        <translation><!-- Loan Ops --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Servicing</masterLabel>
+        <translation><!-- Servicing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Special Assets</masterLabel>
+        <translation><!-- Special Assets --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

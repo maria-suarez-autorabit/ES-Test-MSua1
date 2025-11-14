@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the borrower type(s) whose collateral you want to include in the RLTV calculation. --></help>
+    <label><!-- Borrower Type --></label>
+    <name>LLC_BI__Borrower_Type__c</name>
+    <picklistValues>
+        <masterLabel>Borrower</masterLabel>
+        <translation><!-- Borrower --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Co-Borrower</masterLabel>
+        <translation><!-- Co-Borrower --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Contractor</masterLabel>
+        <translation><!-- Contractor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Grantor</masterLabel>
+        <translation><!-- Grantor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Guarantor</masterLabel>
+        <translation><!-- Guarantor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Limited Guarantor</masterLabel>
+        <translation><!-- Limited Guarantor --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Related Entity</masterLabel>
+        <translation><!-- Related Entity --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

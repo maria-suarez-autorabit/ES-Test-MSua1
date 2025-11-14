@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The IRA Contribution Type --></help>
+    <label><!-- Roth IRA Contribution Type --></label>
+    <name>LLC_BI__Roth_IRA_Contribution_Type__c</name>
+    <picklistValues>
+        <masterLabel>Conversion</masterLabel>
+        <translation><!-- Conversion --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Disaster/Combat Zone Postponed Contribution</masterLabel>
+        <translation><!-- Disaster/Combat Zone Postponed Contribution --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Qualified Reservist/Designated Disaster Distribution Repayment</masterLabel>
+        <translation><!-- Qualified Reservist/Designated Disaster Distribution Repayment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Recharacterization</masterLabel>
+        <translation><!-- Recharacterization --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Regular (including Catch-Up)</masterLabel>
+        <translation><!-- Regular (including Catch-Up) --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rollover</masterLabel>
+        <translation><!-- Rollover --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rollover/Direct Rollover from a Designated Roth Account</masterLabel>
+        <translation><!-- Rollover/Direct Rollover from a Designated Roth Account --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rollover/Direct Rollover from an Eligible Retirement Plan</masterLabel>
+        <translation><!-- Rollover/Direct Rollover from an Eligible Retirement Plan --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Transfer</masterLabel>
+        <translation><!-- Transfer --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

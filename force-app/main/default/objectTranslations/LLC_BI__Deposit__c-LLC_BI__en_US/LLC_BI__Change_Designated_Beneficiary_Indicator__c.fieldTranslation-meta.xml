@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true the Responsible Party on the CESA may change the Designated Beneficiary. --></help>
+    <label><!-- Change Designated Beneficiary Indicator --></label>
+    <name>LLC_BI__Change_Designated_Beneficiary_Indicator__c</name>
+</CustomFieldTranslation>

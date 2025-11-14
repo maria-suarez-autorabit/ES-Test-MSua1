@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
-    <sorted>false</sorted>
+    <sorted>true</sorted>
     <standardValue>
-        <fullName>System Integrator</fullName>
+        <fullName>Appraiser</fullName>
         <default>false</default>
-        <label>System Integrator</label>
-        <reverseRole>Client</reverseRole>
-    </standardValue>
-    <standardValue>
-        <fullName>Agency</fullName>
-        <default>false</default>
-        <label>Agency</label>
-        <reverseRole>Client</reverseRole>
-    </standardValue>
-    <standardValue>
-        <fullName>Advertiser</fullName>
-        <default>false</default>
-        <label>Advertiser</label>
+        <label>Appraiser</label>
         <reverseRole>Vendor</reverseRole>
     </standardValue>
     <standardValue>
-        <fullName>VAR/Reseller</fullName>
+        <fullName>Attorney</fullName>
         <default>false</default>
-        <label>VAR/Reseller</label>
-        <reverseRole>Vendor</reverseRole>
-    </standardValue>
-    <standardValue>
-        <fullName>Distributor</fullName>
-        <default>false</default>
-        <label>Distributor</label>
-        <reverseRole>Vendor</reverseRole>
-    </standardValue>
-    <standardValue>
-        <fullName>Developer</fullName>
-        <default>false</default>
-        <label>Developer</label>
+        <label>Attorney</label>
         <reverseRole>Vendor</reverseRole>
     </standardValue>
     <standardValue>
         <fullName>Broker</fullName>
         <default>false</default>
         <label>Broker</label>
-        <reverseRole>Agent</reverseRole>
+        <reverseRole>Lender</reverseRole>
+    </standardValue>
+    <standardValue>
+        <fullName>Business Partner</fullName>
+        <default>false</default>
+        <label>Business Partner</label>
+        <reverseRole>Business Partner</reverseRole>
+    </standardValue>
+    <standardValue>
+        <fullName>Child</fullName>
+        <default>false</default>
+        <label>Child</label>
+        <reverseRole>Parent</reverseRole>
+    </standardValue>
+    <standardValue>
+        <fullName>Co-Owner</fullName>
+        <default>false</default>
+        <label>Co-Owner</label>
+        <reverseRole>Co-Owner</reverseRole>
+    </standardValue>
+    <standardValue>
+        <fullName>Guarantor</fullName>
+        <default>false</default>
+        <label>Guarantor</label>
+        <reverseRole>Guarantor</reverseRole>
     </standardValue>
     <standardValue>
         <fullName>Lender</fullName>
@@ -50,33 +50,27 @@
         <reverseRole>Broker</reverseRole>
     </standardValue>
     <standardValue>
-        <fullName>Supplier</fullName>
+        <fullName>Owner</fullName>
         <default>false</default>
-        <label>Supplier</label>
-        <reverseRole>Retailer</reverseRole>
+        <label>Owner</label>
+        <reverseRole>Owner</reverseRole>
     </standardValue>
     <standardValue>
-        <fullName>Institution</fullName>
+        <fullName>Parent</fullName>
         <default>false</default>
-        <label>Institution</label>
-        <reverseRole>Client</reverseRole>
+        <label>Parent</label>
+        <reverseRole>Child</reverseRole>
     </standardValue>
     <standardValue>
-        <fullName>Contractor</fullName>
+        <fullName>Spouse / Partner</fullName>
         <default>false</default>
-        <label>Contractor</label>
-        <reverseRole>Sub Contractor</reverseRole>
+        <label>Spouse / Partner</label>
+        <reverseRole>Spouse / Partner</reverseRole>
     </standardValue>
     <standardValue>
-        <fullName>Dealer</fullName>
+        <fullName>Subsidiary</fullName>
         <default>false</default>
-        <label>Dealer</label>
-        <reverseRole>Supplier</reverseRole>
-    </standardValue>
-    <standardValue>
-        <fullName>Consultant</fullName>
-        <default>false</default>
-        <label>Consultant</label>
-        <reverseRole>Client</reverseRole>
+        <label>Subsidiary</label>
+        <reverseRole>Subsidiary</reverseRole>
     </standardValue>
 </StandardValueSet>

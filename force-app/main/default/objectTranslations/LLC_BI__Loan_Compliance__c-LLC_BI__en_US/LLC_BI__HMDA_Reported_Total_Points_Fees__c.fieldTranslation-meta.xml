@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated formula field indicates the total points and fees for HMDA reportable loans. --></help>
+    <label><!-- Reported Total Points and Fees --></label>
+    <name>LLC_BI__HMDA_Reported_Total_Points_Fees__c</name>
+</CustomFieldTranslation>

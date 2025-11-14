@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use this field to indicate if the applicant provided the NAICS code. --></help>
+    <label><!-- NAICS Code Flag --></label>
+    <name>LLC_BI__DF1071_NAICS_Code_Flag__c</name>
+    <picklistValues>
+        <masterLabel>900 - Provided</masterLabel>
+        <translation><!-- 900 - Provided --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided by applicant and otherwise undetermined</masterLabel>
+        <translation><!-- 988 - Not provided by applicant and otherwise undetermined --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

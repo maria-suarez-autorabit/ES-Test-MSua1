@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field indicates that the valuation record is the original valuation of the collateral. The system automatically selects this checkbox when the system creates a valuation record from collateral creation workflow. --></help>
+    <label><!-- Original Valuation Record --></label>
+    <name>LLC_BI__Original_Value__c</name>
+</CustomFieldTranslation>

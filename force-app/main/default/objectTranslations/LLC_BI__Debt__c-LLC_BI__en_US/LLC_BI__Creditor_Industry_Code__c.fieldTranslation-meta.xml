@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- The system populates this optional text field with the creditor industry code. --></help>
+    <label><!-- Creditor Industry Code --></label>
+    <name>LLC_BI__Creditor_Industry_Code__c</name>
+</CustomFieldTranslation>

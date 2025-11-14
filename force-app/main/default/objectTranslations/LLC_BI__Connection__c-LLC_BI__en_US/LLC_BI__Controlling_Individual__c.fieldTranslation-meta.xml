@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Controlling Individual --></label>
+    <name>LLC_BI__Controlling_Individual__c</name>
+    <picklistValues>
+        <masterLabel>Executive Officer or Senior Manager</masterLabel>
+        <translation><!-- Executive Officer or Senior Manager --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other Person Performing Similar Function</masterLabel>
+        <translation><!-- Other Person Performing Similar Function --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the minimum debt-to-income (DTI) ratio an applicant may have to qualify for auto-approval in this field. --></help>
+    <label><!-- Minimum Debt-to-Income --></label>
+    <name>LLC_BI__Minimum_Debt_To_Income__c</name>
+</CustomFieldTranslation>

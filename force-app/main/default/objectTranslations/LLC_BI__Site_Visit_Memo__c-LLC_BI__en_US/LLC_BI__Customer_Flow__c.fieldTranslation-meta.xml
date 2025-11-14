@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Did you see customers in the office?  what is the feel for customer flow? --></help>
+    <label><!-- Customer Activity --></label>
+    <name>LLC_BI__Customer_Flow__c</name>
+</CustomFieldTranslation>

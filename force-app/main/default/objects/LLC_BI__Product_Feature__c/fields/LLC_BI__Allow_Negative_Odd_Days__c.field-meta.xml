@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Allow_Negative_Odd_Days__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators and users populate this optional picklist field to determine if a loan applies negative odd days interest if the first payment is less than one unit period away from the projected close date.</description>
+    <inlineHelpText>Select to allow negative odd days interest.</inlineHelpText>
+    <label>Allow Negative Odd Days</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Allow</fullName>
+                <default>false</default>
+                <label>Allow</label>
+            </value>
+            <value>
+                <fullName>Don&apos;t Allow</fullName>
+                <default>false</default>
+                <label>Don&apos;t Allow</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Orig_Obj_Value__c</fullName>
+    <deprecated>false</deprecated>
+    <description>Administrators populate this optional text field. When populated, matching Originating Value are replaced by the Target Value instead of using the originating object&apos;s value. By default, it is blank.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Enter the value of the field you would like to map from the source object. For a picklist, this will be the API value of the selected option.</inlineHelpText>
+    <label>Originating Value</label>
+    <length>255</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

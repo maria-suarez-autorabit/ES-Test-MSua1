@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__Other_Credit_Fee_Types</fullName>
+    <active>false</active>
+    <description>Users can only add an Other Credit as Paid By Other.</description>
+    <errorConditionFormula>AND (
+					NOT(ISBLANK(TEXT(LLC_BI__Paid_By__c))),
+					NOT(ISPICKVAL(LLC_BI__Paid_By__c, &apos;Other&apos;)),
+					ISPICKVAL(LLC_BI__Fee_Type__c, &apos;Other Credit&apos;)
+			)</errorConditionFormula>
+    <errorMessage>A Borrower, Lender, or Seller cannot pay an Other Credit. Select Paid By Other or leave this field blank.</errorMessage>
+</ValidationRule>

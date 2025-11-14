@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Object that aggregates all the fee information related to this loan. --></help>
+    <label><!-- Fee Loan Aggregate --></label>
+    <name>LLC_BI__Fee_Loan_Aggregate__c</name>
+    <relationshipLabel><!-- Loans --></relationshipLabel>
+</CustomFieldTranslation>

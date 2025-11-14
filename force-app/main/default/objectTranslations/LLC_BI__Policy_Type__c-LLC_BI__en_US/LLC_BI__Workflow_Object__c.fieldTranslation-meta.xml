@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the lookup field API name that defines the path from the policy type&apos;s context object to the object on which the workflow is initiated. If the lookup field API name is the same as the context object, leave this field blank. --></help>
+    <label><!-- Workflow Object --></label>
+    <name>LLC_BI__Workflow_Object__c</name>
+</CustomFieldTranslation>

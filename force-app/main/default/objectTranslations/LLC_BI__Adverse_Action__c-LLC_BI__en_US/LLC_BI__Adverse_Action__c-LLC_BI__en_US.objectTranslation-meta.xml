@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Adverse Action</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Adverse Actions</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- UI - Adverse Action --></label>
+        <name>UI_Adverse_Action</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- UI Loan Adverse Action --></label>
+        <name>UI_Loan_Adverse_Action</name>
+    </fieldSets>
+    <layouts>
+        <layout>Adverse Action Layout</layout>
+        <sections>
+            <label><!-- Reason for Withdrawal --></label>
+            <section>Reason for Withdrawal</section>
+        </sections>
+        <sections>
+            <label><!-- Reasons for Declination --></label>
+            <section>Reasons for Declination</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- You must select at least (2) reasons for loan declination when declining a loan - AA01 --></errorMessage>
+        <name>Adverse_Action_Validation_01</name>
+    </validationRules>
+</CustomObjectTranslation>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Index --></label>
+    <name>LLC_BI__Index__c</name>
+    <picklistValues>
+        <masterLabel>ARM</masterLabel>
+        <translation><!-- ARM --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Fixed</masterLabel>
+        <translation><!-- Fixed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>LIBOR</masterLabel>
+        <translation><!-- LIBOR --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treasury Constant Maturity - 1 Year %2B</masterLabel>
+        <translation><!-- Treasury Constant Maturity - 1 Year %2B --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treasury Constant Maturity - 1 Year +</masterLabel>
+        <translation><!-- Treasury Constant Maturity - 1 Year + --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treasury Constant Maturity - 10 Year +</masterLabel>
+        <translation><!-- Treasury Constant Maturity - 10 Year + --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treasury Constant Maturity - 2 Year +</masterLabel>
+        <translation><!-- Treasury Constant Maturity - 2 Year + --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treasury Constant Maturity - 3 Year +</masterLabel>
+        <translation><!-- Treasury Constant Maturity - 3 Year + --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treasury Constant Maturity - 5 Year +</masterLabel>
+        <translation><!-- Treasury Constant Maturity - 5 Year + --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treasury Constant Maturity - 7 Year +</masterLabel>
+        <translation><!-- Treasury Constant Maturity - 7 Year + --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>WSJ Prime</masterLabel>
+        <translation><!-- WSJ Prime --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

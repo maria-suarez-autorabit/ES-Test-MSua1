@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>
+        <!-- Valid options depending on entity type
+
+Association: Officer/Agent
+Corporation: Officer/Agent
+Government: Official/Agent
+LLC: Member/Agent
+Partnership: Partner/Agent
+Sole Proprietorship: Sole Proprietorship
+Trust: Trustee/Beneficiary/Agent -->
+    </help>
+    <label><!-- Capacity --></label>
+    <name>LLC_BI__Role__c</name>
+    <picklistValues>
+        <masterLabel>Agent</masterLabel>
+        <translation><!-- Agent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Beneficiary</masterLabel>
+        <translation><!-- Beneficiary --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Member</masterLabel>
+        <translation><!-- Member --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Officer</masterLabel>
+        <translation><!-- Officer --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Official</masterLabel>
+        <translation><!-- Official --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Partner</masterLabel>
+        <translation><!-- Partner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Sole Proprietorship</masterLabel>
+        <translation><!-- Sole Proprietorship --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trustee</masterLabel>
+        <translation><!-- Trustee --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

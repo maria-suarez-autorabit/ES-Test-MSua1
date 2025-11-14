@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field displays the date a credit report tradeline closed. If the account is open, this field does not contain a value. --></help>
+    <label><!-- Account Closed Date --></label>
+    <name>nFUSE__Account_Closed_Date__c</name>
+</CustomFieldTranslation>

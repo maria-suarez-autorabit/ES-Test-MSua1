@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Additional terms to be added to the safe deposit box lease. --></help>
+    <label><!-- Additional Terms --></label>
+    <name>LLC_BI__Additional_Terms__c</name>
+</CustomFieldTranslation>

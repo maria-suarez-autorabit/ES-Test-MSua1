@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Projected Draw Schedule --></label>
+    <name>LLC_BI__Proj_Draw_Schedule__c</name>
+    <relationshipLabel><!-- Projected Draw Events --></relationshipLabel>
+</CustomFieldTranslation>

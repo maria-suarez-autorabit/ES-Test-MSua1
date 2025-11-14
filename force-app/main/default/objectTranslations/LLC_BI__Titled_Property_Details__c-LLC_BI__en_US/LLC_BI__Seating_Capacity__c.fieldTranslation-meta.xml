@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter the legal seating capacity of the vehicle. --></help>
+    <label><!-- Seating Capacity --></label>
+    <name>LLC_BI__Seating_Capacity__c</name>
+</CustomFieldTranslation>

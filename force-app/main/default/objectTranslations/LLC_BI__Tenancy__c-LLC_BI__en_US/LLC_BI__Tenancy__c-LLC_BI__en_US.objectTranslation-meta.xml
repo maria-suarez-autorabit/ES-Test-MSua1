@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Tenancy</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Tenancies</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Tenancy Management Additional Fields (Collateral) --></label>
+        <name>nCino__Collateral_Tenancy_Additional_Columns</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Tenancy Management Commercial Additional Fields --></label>
+        <name>nCino__Commercial_Record_Additional_Fields</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Tenancy Management Additional Fields (Relationship) --></label>
+        <name>nCino__Relationship_Tenancy_Additional_Columns</name>
+    </fieldSets>
+    <fieldSets>
+        <label><!-- Tenancy Management Residential Additional Fields --></label>
+        <name>nCino__Residential_Record_Additional_Fields</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

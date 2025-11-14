@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Fields may be grouped into measures and dimensions. --></help>
+    <label><!-- Grouping 2 --></label>
+    <name>nFORCE__Grouping_2__c</name>
+</CustomFieldTranslation>

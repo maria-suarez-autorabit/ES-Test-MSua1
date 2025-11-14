@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Administrators populate this optional percent field with the desired payment percentage value. The percentage value will be applied to the payment amount. By default, it is blank. --></help>
+    <label><!-- Payment Calculation Percent --></label>
+    <name>LLC_BI__Payment_Calculation_Percent__c</name>
+</CustomFieldTranslation>

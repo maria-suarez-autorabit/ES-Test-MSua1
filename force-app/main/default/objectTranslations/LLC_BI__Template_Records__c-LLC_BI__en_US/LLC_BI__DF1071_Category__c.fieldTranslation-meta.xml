@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Use this optional picklist field to indicate which Dodd Frank 1071 fee category applies. --></help>
+    <label><!-- DF1071 Fee Category --></label>
+    <name>LLC_BI__DF1071_Category__c</name>
+    <picklistValues>
+        <masterLabel>Broker</masterLabel>
+        <translation><!-- Broker --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Origination</masterLabel>
+        <translation><!-- Origination --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

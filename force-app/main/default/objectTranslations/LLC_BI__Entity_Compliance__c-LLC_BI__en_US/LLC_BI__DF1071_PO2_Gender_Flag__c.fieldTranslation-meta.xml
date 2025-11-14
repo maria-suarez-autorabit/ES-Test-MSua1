@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select a value to indicate whether the applicant provided the sex/gender of principal owner 2. --></help>
+    <label><!-- Principal Owner 2 Gender Flag --></label>
+    <name>LLC_BI__DF1071_PO2_Gender_Flag__c</name>
+    <picklistValues>
+        <masterLabel>1 - The applicant responded in the free-form text field</masterLabel>
+        <translation><!-- 1 - The applicant responded in the free-form text field --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>966 - The applicant responded that they did not wish to provide this information</masterLabel>
+        <translation><!-- 966 - The applicant responded that they did not wish to provide this information --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>988 - Not provided by applicant</masterLabel>
+        <translation><!-- 988 - Not provided by applicant --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

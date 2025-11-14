@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Name of the object proceeding where additional output will be placed. --></help>
+    <label><!-- Object Name 2 --></label>
+    <name>LLC_BI__Object_Name_2__c</name>
+</CustomFieldTranslation>

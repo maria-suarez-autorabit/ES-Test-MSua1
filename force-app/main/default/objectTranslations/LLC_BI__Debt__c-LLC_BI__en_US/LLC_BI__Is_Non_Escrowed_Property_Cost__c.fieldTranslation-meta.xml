@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This checkbox indicates the debt is a non-escrowed property cost. --></help>
+    <label><!-- Is Non-Escrowed Property Cost --></label>
+    <name>LLC_BI__Is_Non_Escrowed_Property_Cost__c</name>
+</CustomFieldTranslation>

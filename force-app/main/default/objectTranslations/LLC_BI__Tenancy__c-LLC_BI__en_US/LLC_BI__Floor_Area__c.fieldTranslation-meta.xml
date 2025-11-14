@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field defines the total square measurement of floor space in square units. --></help>
+    <label><!-- Floor Area --></label>
+    <name>LLC_BI__Floor_Area__c</name>
+</CustomFieldTranslation>

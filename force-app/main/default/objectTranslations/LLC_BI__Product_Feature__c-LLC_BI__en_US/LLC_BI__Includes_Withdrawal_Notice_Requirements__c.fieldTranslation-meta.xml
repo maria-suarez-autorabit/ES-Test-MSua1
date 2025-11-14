@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This field is populated during configuration of the product catalog. If the deposit product will include Withdrawal Notice Requirements, select this field. --></help>
+    <label><!-- Includes Withdrawal Notice Requirements --></label>
+    <name>LLC_BI__Includes_Withdrawal_Notice_Requirements__c</name>
+</CustomFieldTranslation>

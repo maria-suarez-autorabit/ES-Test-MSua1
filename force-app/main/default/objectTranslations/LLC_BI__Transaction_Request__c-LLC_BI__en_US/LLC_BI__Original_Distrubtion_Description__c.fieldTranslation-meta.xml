@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- For a contribution that is a return of a mistaken distribution(s) this is a description of the date(s) of the original distribution(s). --></help>
+    <label><!-- Original Distrubtion Description --></label>
+    <name>LLC_BI__Original_Distrubtion_Description__c</name>
+</CustomFieldTranslation>

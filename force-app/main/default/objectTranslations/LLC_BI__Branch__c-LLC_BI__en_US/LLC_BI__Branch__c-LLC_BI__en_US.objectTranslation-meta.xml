@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Branch</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Branches</value>
+    </caseValues>
+    <layouts>
+        <layout>Branch Layout</layout>
+        <sections>
+            <label><!-- Branch Location --></label>
+            <section>Branch Location</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>RS branch layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Field section --></label>
+            <section>Field section</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

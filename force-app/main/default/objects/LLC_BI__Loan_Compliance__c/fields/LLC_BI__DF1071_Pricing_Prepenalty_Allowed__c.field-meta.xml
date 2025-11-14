@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LLC_BI__DF1071_Pricing_Prepenalty_Allowed__c</fullName>
+    <deprecated>false</deprecated>
+    <description>The system automatically populates this optional picklist field to indicate whether a prepayment penalty is allowed for this application. By default, it is empty.</description>
+    <inlineHelpText>Use this optional picklist field to indicate whether a prepayment penalty is allowed for this application.</inlineHelpText>
+    <label>Prepenalty Allowed</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>1</fullName>
+                <default>false</default>
+                <label>1 - Yes</label>
+            </value>
+            <value>
+                <fullName>2</fullName>
+                <default>false</default>
+                <label>2 - No</label>
+            </value>
+            <value>
+                <fullName>999</fullName>
+                <default>false</default>
+                <label>999 - Not applicable</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

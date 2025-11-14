@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Enter, in dollars, the gross annual income relied on in making the credit decision, or if a credit decision was not made, the gross annual income relied on in processing the application. --></help>
+    <label><!-- Income of Applicant --></label>
+    <name>LLC_BI__HMDA_Income__c</name>
+</CustomFieldTranslation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Execution Type --></label>
+    <name>nFORCE__Execution_Type__c</name>
+    <picklistValues>
+        <masterLabel>Always</masterLabel>
+        <translation><!-- Always --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Manual Only</masterLabel>
+        <translation><!-- Manual Only --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Once</masterLabel>
+        <translation><!-- Once --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Once Per Feature Process Version</masterLabel>
+        <translation><!-- Once Per Feature Process Version --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Select the storage type to indicate where the document is stored. --></help>
+    <label><!-- Storage Type --></label>
+    <name>LLC_BI__Storage_Type__c</name>
+    <picklistValues>
+        <masterLabel>External Document</masterLabel>
+        <translation><!-- External Document --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Internal Document</masterLabel>
+        <translation><!-- Internal Document --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Offline Document</masterLabel>
+        <translation><!-- Offline Document --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

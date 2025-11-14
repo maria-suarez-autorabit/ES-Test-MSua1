@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Document Store</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Document Stores</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Clone External Fields --></label>
+        <name>LLC_BI__Clone_External_Fields</name>
+    </fieldSets>
+    <sharingReasons>
+        <label><!-- Enhanced DocMan Sharing --></label>
+        <name>LLC_BI__Enhanced_DocMan_Sharing</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label><!-- Enhanced DocMan Sharing --></label>
+        <name>NDOC__Enhanced_DocMan_Sharing</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

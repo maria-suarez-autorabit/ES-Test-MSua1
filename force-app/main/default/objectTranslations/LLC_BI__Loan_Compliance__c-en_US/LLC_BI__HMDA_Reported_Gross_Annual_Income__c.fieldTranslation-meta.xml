@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated formula field indicates the gross annual income, rounded to the nearest thousand dollars, used to make the credit decision for HMDA reportable loans. --></help>
+    <label><!-- Reported Gross Annual Income --></label>
+    <name>LLC_BI__HMDA_Reported_Gross_Annual_Income__c</name>
+</CustomFieldTranslation>

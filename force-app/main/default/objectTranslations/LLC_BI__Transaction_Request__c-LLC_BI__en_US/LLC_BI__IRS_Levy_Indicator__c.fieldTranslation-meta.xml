@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- If true the distribution is related to an IRS levy. This is only applicable to Traditional IRAs SIMPLE IRAs and Health Savings Accounts (HSAs); the other types of IRA have a separate distribution type that would be used for IRS levies. --></help>
+    <label><!-- IRS Levy Indicator --></label>
+    <name>LLC_BI__IRS_Levy_Indicator__c</name>
+</CustomFieldTranslation>

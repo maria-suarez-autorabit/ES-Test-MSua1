@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- This system-populated field displays the date the fees exceeded TRID tolerances. --></help>
+    <label><!-- TRID Tolerances Exceeded Date --></label>
+    <name>LLC_BI__TRID_Tolerances_Exceeded_Date__c</name>
+</CustomFieldTranslation>

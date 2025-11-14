@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Spread Statement Record</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Spread Statement Records</value>
+    </caseValues>
+    <fieldSets>
+        <label><!-- Upgradeable Fields --></label>
+        <name>LLC_BI__Upgradeable_Fields</name>
+    </fieldSets>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Cannot calculate period over period values for none linked records --></errorMessage>
+        <name>LLC_BI__Cannot_calculate_period_over_period_val</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- You may link to a Record or a Total Group, but not both. --></errorMessage>
+        <name>LLC_BI__Cannot_link_to_Record_and_a_Total_Group</name>
+    </validationRules>
+</CustomObjectTranslation>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Indicates if product is a demand note / has a demand feature. --></help>
+    <label><!-- Is Demand Note --></label>
+    <name>LLC_BI__Is_Demand_Note__c</name>
+</CustomFieldTranslation>

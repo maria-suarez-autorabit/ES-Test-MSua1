@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- After changing this field, go to the nCino Administration tab then run Install Updates and Install Batch Updates if this feature is related to products which are related to existing loans. --></help>
+    <label><!-- Line Of Credit --></label>
+    <name>LLC_BI__Line_Of_Credit__c</name>
+</CustomFieldTranslation>
